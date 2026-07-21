@@ -1,0 +1,21 @@
+# Drug Risk Prediction Pipeline
+# Required packages and versions for molecular fingerprint generation and machine learning
+
+# Core scientific computing
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.8.4
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.1.2
+catboost==1.2.8
+
+# Cheminformatics (RDKit for molecular processing)
+rdkit==2024.3.6
+
+# Optional but recommended (for development and visualization)
+# torch==2.5.1
+# tensorflow==2.20.0
+# jupyter==1.0.0
+# ipython==8.25.0
