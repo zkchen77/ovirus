@@ -339,7 +339,7 @@ def plot_roc_curves(models, X_train, y_train, X_val, y_val, feature_name):
             elif hasattr(model, "decision_function"):
                 y_pred_proba = model.decision_function(X_val)
             else:
-                print(f"⚠️ Model {model_name} does not support probability or decision function.")
+                print(f" Model {model_name} does not support probability or decision function.")
                 continue
             
             fpr, tpr, _ = roc_curve(y_val, y_pred_proba)
@@ -347,7 +347,7 @@ def plot_roc_curves(models, X_train, y_train, X_val, y_val, feature_name):
             roc_curves[model_name] = (fpr, tpr, roc_auc)
             
         except Exception as e:
-            print(f"❌ Error computing ROC for model {model_name}: {e}")
+            print(f" Error computing ROC for model {model_name}: {e}")
             continue
     
     # Plot ROC curves
@@ -369,7 +369,7 @@ def plot_roc_curves(models, X_train, y_train, X_val, y_val, feature_name):
     roc_plot_path = f'roc_curves_{feature_name}.svg'
     plt.savefig(roc_plot_path, dpi=300, bbox_inches='tight')
     plt.show()
-    print(f"\n✅ ROC curves saved to: {roc_plot_path}")
+    print(f"\n ROC curves saved to: {roc_plot_path}")
     
     return roc_curves
 
@@ -396,7 +396,7 @@ def save_predictions(NRDL_names, predictions, feature_name):
     
     output_csv = f'risk_predictions_{feature_name}.csv'
     df.to_csv(output_csv, float_format='%.4f')
-    print(f"\n✅ Prediction results saved to: {output_csv}")
+    print(f"\n Prediction results saved to: {output_csv}")
 
 
 # =============================================================================
@@ -525,7 +525,7 @@ if __name__ == "__main__":
         # Save predictions to CSV
         save_predictions(NRDL_names, predictions, feature_name)
         
-        print(f"\n✅ Completed analysis for {feature_name.upper()} feature type")
+        print(f"\n Completed analysis for {feature_name.upper()} feature type")
         print("=" * 60)
 
 print("\n" + "="*60)
