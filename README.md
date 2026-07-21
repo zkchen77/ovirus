@@ -238,7 +238,7 @@ If you use this pipeline in your research, please cite:
 
 ```bibtex
 @software{ovirus,
-  author = {Your Name},
+  author = {Zikun Chen},
   title = {Drug Risk Prediction Pipeline},
   year = {2026},
   url = {https://github.com/zkchen77/ovirus}
