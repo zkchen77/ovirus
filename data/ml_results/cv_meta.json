@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-20 14:30:49",
+  "n": 2847,
+  "n_pos": 1015,
+  "n_splits": 5,
+  "n_repeats": 3,
+  "n_cells": 56,
+  "seed": 77,
+  "balance": "fold-internal undersample",
+  "elapsed_sec": 216.6
+}

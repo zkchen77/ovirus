@@ -1,0 +1,13 @@
+item,value,note
+compounds in original_drugs.csv (after cleanup),2847.0,"raw labels = {'Dual-effect': 1832, 'Risk': 1015}"
+balanced sample size (leaky design),3664.0,minority class oversampled to match the majority
+validation compounds (leaky design),733.0,367 risk + 366 dual-benefit
+possible AUC values,134323.0,AUC = k / (n_pos_test * n_neg_test)
+P(AUC = 1.0) under a random scorer,7e-06,1 / (n_pos_test * n_neg_test)
+expected # of AUC=1.0 cells by chance,0.000417,out of 56 cells
+observed # of AUC=1.0 cells,0.0,"from total_cv_auc.xlsx; no perfect cell, binomial test skipped"
+observed max CV-AUC,0.896,from total_cv_auc.xlsx
+null 95th percentile AUC,0.535,"random scorer, same fold size"
+observed mean CV-AUC,0.776,from total_cv_auc.xlsx
+fraction of validation compounds duplicated in train (leaky),0.389,pre-split oversampling
+fraction of validation compounds duplicated in train (fixed),0.0,fold-internal undersampling; no pre-split duplication
