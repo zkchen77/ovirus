@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+BMP2	BMP7	9606.ENSP00000368104	9606.ENSP00000379204	0	0	0	0.788	0.092	0.495	0.400	0	0.700
+IL19	IL20	9606.ENSP00000499459	9606.ENSP00000356065	0	0	0.092	0.887	0.180	0	0.900	0	0.919
+IL1B	TNF	9606.ENSP00000263341	9606.ENSP00000398698	0	0	0	0	0.586	0	0.400	0	0.740
