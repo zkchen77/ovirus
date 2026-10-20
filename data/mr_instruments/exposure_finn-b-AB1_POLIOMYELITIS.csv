@@ -1,0 +1,6 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_POLIOMYELITIS","10",23492915,"rs148846914","A","G",0.03262,1.578,0.3054,2.38199e-07,NA,"Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",TRUE,"reported","igd"
+"finn-b-AB1_POLIOMYELITIS","2",235528365,"rs116741188","T","C",0.05481,1.189,0.2305,2.47999e-07,NA,"Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",TRUE,"reported","igd"
+"finn-b-AB1_POLIOMYELITIS","16",15522743,"rs185565307","A","G",0.007606,3.6753,0.7671,1.65901e-06,NA,"Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",TRUE,"reported","igd"
+"finn-b-AB1_POLIOMYELITIS","8",63051531,"rs10110503","A","G",0.5451,0.4506,0.0947,1.93999e-06,NA,"Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",TRUE,"reported","igd"
+"finn-b-AB1_POLIOMYELITIS","6",36119301,"rs2097479","C","A",0.9759,-1.5883,0.3474,4.83404e-06,NA,"Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",TRUE,"reported","igd"

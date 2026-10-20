@@ -1,0 +1,8 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_VARICELLA","6",18524320,"rs35788615","T","C",0.06372,0.5729,0.1143,5.35303e-07,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","4",180972590,"rs143225482","T","C",0.007978,1.7608,0.3532,6.17206e-07,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","7",28928982,"rs4722867","T","C",0.9508,-0.6145,0.1298,2.20999e-06,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","6",869187,"rs9505373","A","G",0.002369,3.6201,0.7706,2.62597e-06,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","5",91997305,"rs28696216","C","T",0.09016,0.4458,0.0955,3.03298e-06,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","15",93418708,"rs7178252","A","T",0.4702,-0.2497,0.0537,3.26701e-06,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"
+"finn-b-AB1_VARICELLA","15",33993106,"rs151063947","T","C",0.006188,1.9112,0.4168,4.53701e-06,NA,"Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",TRUE,"reported","igd"

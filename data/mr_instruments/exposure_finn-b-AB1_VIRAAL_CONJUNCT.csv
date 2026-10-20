@@ -1,0 +1,6 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_VIRAAL_CONJUNCT","6",58767704,"rs143142712","A","G",0.01879,1.9919,0.4048,8.61192e-07,NA,"Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",TRUE,"reported","igd"
+"finn-b-AB1_VIRAAL_CONJUNCT","18",57482208,"rs74255488","G","T",0.01584,1.9527,0.4038,1.323e-06,NA,"Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",TRUE,"reported","igd"
+"finn-b-AB1_VIRAAL_CONJUNCT","10",73229187,"rs118166408","A","G",0.004389,4.436,0.9328,1.97902e-06,NA,"Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",TRUE,"reported","igd"
+"finn-b-AB1_VIRAAL_CONJUNCT","16",58493429,"rs16960166","A","G",0.3349,-0.4172,0.0894,3.02698e-06,NA,"Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",TRUE,"reported","igd"
+"finn-b-AB1_VIRAAL_CONJUNCT","11",126016712,"rs55775244","C","T",0.6041,-0.4042,0.0875,3.87302e-06,NA,"Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",TRUE,"reported","igd"

@@ -1,0 +1,8 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-M13_OSTEONECROSIS","2",65715769,"rs72621553","C","T",0.05183,0.7085,0.1393,3.642e-07,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","1",248241514,"rs148308717","T","G",0.02459,1.0417,0.2084,5.81005e-07,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","6",149443483,"rs12192175","T","A",0.6033,-0.298,0.0597,5.96994e-07,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","1",115895911,"rs111913677","T","G",0.05495,0.6359,0.133,1.75699e-06,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","9",114059341,"rs10980857","G","A",0.02255,1.0096,0.2145,2.52598e-06,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","9",14612010,"rs141394052","G","A",0.02335,0.9681,0.2071,2.96299e-06,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"
+"finn-b-M13_OSTEONECROSIS","16",17118161,"rs184164146","G","A",0.01935,1.0652,0.2302,3.69896e-06,NA,"Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",TRUE,"reported","igd"

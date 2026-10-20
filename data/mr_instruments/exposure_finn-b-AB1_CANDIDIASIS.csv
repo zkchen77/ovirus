@@ -1,0 +1,8 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_CANDIDIASIS","5",120423157,"rs114260076","C","T",0.005618,1.2306,0.2511,9.52599e-07,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","6",161747679,"rs56203233","A","G",0.04784,0.3803,0.079,1.486e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","5",78374983,"rs75948734","G","C",0.03108,0.4558,0.0958,1.95101e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","3",157071697,"rs951198","C","T",0.04972,0.3572,0.0751,2.00101e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","3",33824031,"rs11923261","T","C",0.02098,0.5438,0.1164,2.95999e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","1",225796273,"rs115978574","G","T",0.005174,1.1903,0.256,3.33403e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"
+"finn-b-AB1_CANDIDIASIS","14",96297024,"rs34540143","C","T",0.3209,0.1574,0.0342,4.10497e-06,NA,"Candidiasis || id:finn-b-AB1_CANDIDIASIS",TRUE,"reported","igd"

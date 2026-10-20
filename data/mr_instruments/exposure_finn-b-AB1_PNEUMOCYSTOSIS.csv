@@ -1,0 +1,7 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_PNEUMOCYSTOSIS","12",29087377,"rs17543428","T","C",0.1666,0.9375,0.1743,7.55597e-08,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"
+"finn-b-AB1_PNEUMOCYSTOSIS","12",4072964,"rs594088","G","T",0.3929,0.6126,0.1255,1.048e-06,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"
+"finn-b-AB1_PNEUMOCYSTOSIS","1",158119588,"rs72711987","A","C",0.007776,4.6045,0.9489,1.22e-06,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"
+"finn-b-AB1_PNEUMOCYSTOSIS","13",22830396,"rs17329968","A","G",0.0121,3.4889,0.7505,3.34003e-06,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"
+"finn-b-AB1_PNEUMOCYSTOSIS","17",12749660,"rs8064232","A","G",0.113,0.9428,0.2036,3.65999e-06,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"
+"finn-b-AB1_PNEUMOCYSTOSIS","20",48127380,"rs78134375","T","C",0.06629,1.2363,0.2702,4.73805e-06,NA,"Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",TRUE,"reported","igd"

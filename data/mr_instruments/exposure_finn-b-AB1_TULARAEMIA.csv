@@ -1,0 +1,7 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_TULARAEMIA","12",1650429,"rs12230052","C","T",0.1903,0.7638,0.1472,2.12598e-07,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"
+"finn-b-AB1_TULARAEMIA","14",92935944,"rs12878801","C","T",0.7726,-0.667,0.1355,8.49591e-07,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"
+"finn-b-AB1_TULARAEMIA","16",5903317,"rs7200256","G","A",0.2484,-0.6317,0.1304,1.275e-06,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"
+"finn-b-AB1_TULARAEMIA","9",77924510,"rs146884434","T","C",0.01355,2.9161,0.6095,1.71301e-06,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"
+"finn-b-AB1_TULARAEMIA","19",54598604,"rs8106130","G","T",0.04547,1.3873,0.2905,1.79399e-06,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"
+"finn-b-AB1_TULARAEMIA","7",107858946,"rs140021541","T","C",0.05487,1.2447,0.2672,3.17797e-06,NA,"Tularaemia || id:finn-b-AB1_TULARAEMIA",TRUE,"reported","igd"

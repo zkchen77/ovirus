@@ -1,0 +1,8 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_VIRAL_HEPATITIS","7",57605137,"rs7802135","A","T",0.3897,-0.2122,0.0424,5.52306e-07,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","5",165141005,"rs114420497","A","G",0.01277,0.9969,0.2039,1.01e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","11",34404491,"rs10219333","T","G",0.2032,-0.2517,0.0522,1.40501e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","1",187723102,"rs114968215","T","A",0.002394,2.5302,0.5315,1.93201e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","7",30378951,"rs142982771","C","T",0.08752,0.3443,0.0743,3.56796e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","1",12655725,"rs72871195","G","A",0.3403,-0.2009,0.0437,4.28598e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"
+"finn-b-AB1_VIRAL_HEPATITIS","9",2448319,"rs111313298","C","T",0.06278,0.3973,0.0869,4.85601e-06,NA,"Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",TRUE,"reported","igd"

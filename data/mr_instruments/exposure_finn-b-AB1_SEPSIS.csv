@@ -1,0 +1,6 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_SEPSIS","7",151783400,"rs76363747","A","G",0.006969,0.5868,0.122,1.523e-06,NA,"Septicaemia || id:finn-b-AB1_SEPSIS",TRUE,"reported","igd"
+"finn-b-AB1_SEPSIS","14",33733889,"rs35780953","G","T",0.1844,-0.1136,0.0241,2.44e-06,NA,"Septicaemia || id:finn-b-AB1_SEPSIS",TRUE,"reported","igd"
+"finn-b-AB1_SEPSIS","1",177837427,"rs3845372","G","A",0.9218,-0.1645,0.0351,2.72001e-06,NA,"Septicaemia || id:finn-b-AB1_SEPSIS",TRUE,"reported","igd"
+"finn-b-AB1_SEPSIS","6",32627523,"rs9273438","G","A",0.4414,0.0957,0.0208,4.023e-06,NA,"Septicaemia || id:finn-b-AB1_SEPSIS",TRUE,"reported","igd"
+"finn-b-AB1_SEPSIS","6",80631894,"rs117891930","T","C",0.01181,0.4046,0.0884,4.74395e-06,NA,"Septicaemia || id:finn-b-AB1_SEPSIS",TRUE,"reported","igd"

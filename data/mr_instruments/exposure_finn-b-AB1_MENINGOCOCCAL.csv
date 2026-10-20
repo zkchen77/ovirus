@@ -1,0 +1,4 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_MENINGOCOCCAL","11",117838192,"rs143099981","A","G",0.01191,3.7354,0.7744,1.41198e-06,NA,"Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL",TRUE,"reported","igd"
+"finn-b-AB1_MENINGOCOCCAL","11",128318491,"rs12417993","C","T",0.169,0.8364,0.1774,2.41301e-06,NA,"Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL",TRUE,"reported","igd"
+"finn-b-AB1_MENINGOCOCCAL","4",70657354,"rs188993990","G","A",0.001176,16.2511,3.5294,4.13504e-06,NA,"Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL",TRUE,"reported","igd"

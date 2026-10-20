@@ -1,0 +1,8 @@
+"id.exposure","chr.exposure","pos.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"finn-b-AB1_CMV","7",15052164,"rs6972880","T","C",0.9327,-0.8905,0.186,1.69001e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","17",72725864,"rs11658622","A","C",0.7603,0.4911,0.1035,2.10402e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","3",9727675,"rs787837","C","T",0.2714,-0.4796,0.1021,2.65198e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","8",98851115,"rs66537586","T","G",0.1942,0.5315,0.1139,3.08297e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","3",54272426,"rs73087989","G","A",0.1903,0.5247,0.1129,3.38003e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","3",134830030,"rs12496650","C","T",0.03762,1.1619,0.2509,3.63203e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
+"finn-b-AB1_CMV","7",44609825,"rs35435922","G","A",0.008085,2.7742,0.6058,4.65801e-06,NA,"Cytomegaloviral disease || id:finn-b-AB1_CMV",TRUE,"reported","igd"
