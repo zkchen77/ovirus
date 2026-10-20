@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",-0.0407251278217777,0.107889220028846,0.707559137984557

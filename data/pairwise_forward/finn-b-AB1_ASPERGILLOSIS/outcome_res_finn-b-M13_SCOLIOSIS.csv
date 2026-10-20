@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.927761604325642,0.422067367558154,0.059165605472293
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.290561526041537,0.294594458423105,0.323980904593742
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.274091306339604,0.223910890506104,0.220911161760051
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.362768689060951,0.492936544825832,0.48051061627781
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.387351216112777,0.452222622246857,0.413917824766172

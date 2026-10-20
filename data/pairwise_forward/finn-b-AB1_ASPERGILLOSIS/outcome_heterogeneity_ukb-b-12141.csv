@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",39.0753803292597,46,0.755291922985195
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",39.2178652172399,47,0.782887750863259

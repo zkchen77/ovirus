@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-14486","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",60.4082676187073,50,0.148723385938402
+"ukb-b-14486","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",60.8587936435403,51,0.162411089368066

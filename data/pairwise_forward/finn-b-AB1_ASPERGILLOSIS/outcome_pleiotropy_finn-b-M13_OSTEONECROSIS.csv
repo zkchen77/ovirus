@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.41383391677196,0.239669007054737,0.144808052667689

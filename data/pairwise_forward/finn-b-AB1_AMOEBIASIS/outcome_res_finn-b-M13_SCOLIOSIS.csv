@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.426568509255329,0.511107447756849,0.428162101477795
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.304256440301353,0.321091160552509,0.343348263059475
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.0415729905309318,0.271813744094039,0.878440379346214
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.354825492622568,0.509968165550141,0.504135565459091
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.379704661051128,0.485258056447723,0.454027184717916

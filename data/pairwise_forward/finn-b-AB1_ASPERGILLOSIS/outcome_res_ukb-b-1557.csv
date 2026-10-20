@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,528.505722347817,504.267196276866,0.329440837579386
+"ukb-b-1557","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-117.414959157743,92.8522836097511,0.206038079258777
+"ukb-b-1557","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-88.3531623764769,70.3064019151368,0.2088668887574
+"ukb-b-1557","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-178.462917108784,141.075911656571,0.241469134771435
+"ukb-b-1557","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-174.143659236879,146.692529201902,0.269226773839438

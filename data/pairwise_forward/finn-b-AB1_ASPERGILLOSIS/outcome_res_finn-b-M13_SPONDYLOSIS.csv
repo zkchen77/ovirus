@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,0.111406572730728,1.06196633138619,0.917550004566885
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,0.482835080810898,0.589158379233294,0.412482046404676
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,0.302944517426175,0.422788251432688,0.473658235085062
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,1.06176808894464,1.11030554120272,0.350345811389056
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,1.01568630243527,1.11224006235877,0.372020383791945

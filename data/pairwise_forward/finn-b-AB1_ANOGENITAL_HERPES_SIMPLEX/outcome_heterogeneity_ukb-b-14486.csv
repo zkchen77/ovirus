@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-14486","finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",54.7339431610842,50,0.299635436096656
+"ukb-b-14486","finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",55.040936722012,51,0.324318967632264

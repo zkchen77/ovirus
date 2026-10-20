@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-1.07731116843037,59.5031109527005,0.985633294169019
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-20.6339234360343,20.7251219765299,0.319444722491645
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-22.8057542683216,15.0701440571014,0.130201699222516
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,14.9096382857206,43.0851862598024,0.730849299062318
+"ukb-b-12141","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,14.9096382857206,40.3986455728648,0.713738364088529

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.727030261904882,0.392818214613792,0.123420789804107
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.23641540706221,0.244154185617126,0.332892705682536
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.13155573068325,0.18808071400393,0.484261963465226
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.266155303680785,0.328615570170007,0.448902103828958
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.269499811743805,0.285029681303569,0.380899096319477

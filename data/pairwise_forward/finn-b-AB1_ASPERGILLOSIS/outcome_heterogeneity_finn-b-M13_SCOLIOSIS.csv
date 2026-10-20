@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",1.37812224160528,8,0.994551525145493
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",4.71616065122149,9,0.858316246461258

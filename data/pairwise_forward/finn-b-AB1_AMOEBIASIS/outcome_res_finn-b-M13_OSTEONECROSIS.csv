@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,0.982563920467896,0.398121248226071,0.0566690370791077
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.63766017739809,0.256452515753116,0.0129019298439162
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.571864070302992,0.19001025069753,0.00261550166094544
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.944242311325793,0.42035773090242,0.0657764321578754
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,0.932922994038874,0.429358885197116,0.0727775336099272

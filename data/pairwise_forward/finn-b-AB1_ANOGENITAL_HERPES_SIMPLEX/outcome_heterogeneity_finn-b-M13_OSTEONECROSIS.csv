@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",4.14261326968367,5,0.529071334027096
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",4.45096520786489,6,0.615888963581931

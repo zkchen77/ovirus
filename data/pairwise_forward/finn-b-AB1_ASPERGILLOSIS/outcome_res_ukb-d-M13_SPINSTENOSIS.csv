@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-144.498775071921,164.138412052373,0.39353297287568
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-89.8628285996995,74.2026413340443,0.225877689559005
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-61.9986934660262,54.0407567272345,0.251274984003918
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-150.710744509236,141.501705879277,0.303684372488296
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ASPERGILLOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-141.531376227072,115.195434187109,0.238142545171221

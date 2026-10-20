@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",19.6939394939483,19,0.413201948487005
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",20.1843647286778,20,0.446451222346192

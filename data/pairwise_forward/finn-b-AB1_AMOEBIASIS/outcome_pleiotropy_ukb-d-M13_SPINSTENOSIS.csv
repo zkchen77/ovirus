@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.0102556816902197,0.170605671018116,0.952915032374628

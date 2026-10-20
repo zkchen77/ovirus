@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-121.831524031665,155.577097262674,0.446617226167026
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-119.046676299035,72.7572168971788,0.101793946433712
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-113.013103858893,51.8109395893223,0.0291642286228536
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-173.019353521895,124.993494838471,0.186538463621549
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_AMOEBIASIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-109.11838657476,110.04223269692,0.337117775026727
