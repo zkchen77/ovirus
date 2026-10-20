@@ -1,0 +1,90 @@
+﻿EnrichSet,ID,Description,p.adjust,geneID,Count
+Pattern I,GO:0032602,chemokine production,5.61554E-19,IL6/IL33/IFNG/TGFB1/IL1B/HMGB1/TNF/IL10/HIF1A/TLR4/MEFV/IL17A/CXCL8/MIF/TRPV4,15
+Pattern I,GO:0032642,regulation of chemokine production,5.61554E-19,IL6/IL33/IFNG/TGFB1/IL1B/HMGB1/TNF/IL10/HIF1A/TLR4/MEFV/IL17A/CXCL8/MIF/TRPV4,15
+Pattern I,GO:0006959,humoral immune response,2.19277E-17,FGB/PF4/A2M/CXCL12/IL6/VIP/CXCL13/CCL4/CX3CL1/IFNG/IL1B/TAC1/IFNB1/CCL5/IL17A/IGHE/NPY/CXCL8/POMC,19
+Pattern I,GO:0002573,myeloid leukocyte differentiation,2.19277E-17,VEGFA/PF4/NR3C1/BMP4/IL33/SIRT1/IFNG/TGFB1/IL1B/BMP2/TNF/CD4/TLR4/IL1A/IL17A/IGHE/IL4,17
+Pattern I,GO:0050727,regulation of inflammatory response,2.84926E-17,APOE/IL6/IL33/CX3CL1/IFNG/TGFB1/IL1B/NFKB1/TAC1/TNF/CD4/IL10/CCL5/TLR4/IL1A/MEFV/IL17A/NPY/IL4/TRPV4/PROC,21
+Pattern I,GO:0022407,regulation of cell-cell adhesion,1.69803E-16,VEGFA/FGB/AKT1/CXCL12/IL6/CXCL13/BMP4/CX3CL1/TGFB1/IL1B/CTNNB1/BMP2/HMGB1/TNF/IFNB1/CD4/IL10/CCL5/IL1A/IL4/TRPV4,21
+Pattern I,GO:0032102,negative regulation of response to external stimulus,2.42505E-16,FGB/PF4/A2M/APOE/CXCL13/IL33/CX3CL1/TGFB1/IL1B/NFKB1/PLAT/TNF/IL10/IL1A/MEFV/IL17A/NPY/IL4/MIF/PROC,20
+Pattern I,GO:0050900,leukocyte migration,2.42505E-16,VEGFA/PF4/AKT1/CXCL12/IL6/CXCL13/CCL4/IL33/CX3CL1/TGFB1/HMGB1/TNF/CD4/IL10/CCL5/IL17A/CXCL8/MIF/TRPV4,19
+Pattern I,GO:0032722,positive regulation of chemokine production,3.28161E-16,IL6/IL33/IFNG/TGFB1/IL1B/HMGB1/TNF/HIF1A/TLR4/IL17A/MIF/TRPV4,12
+Pattern I,GO:0010720,positive regulation of cell development,3.28161E-16,VEGFA/PF4/CXCL12/IL6/BMP4/CX3CL1/WNT2/IFNG/TGFB1/IL1B/CTNNB1/BMP2/HMGB1/TNF/CD4/IL10/IL17A/IL4/PROC,19
+Pattern I,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,2.23176E-14,VEGFA/AKT1/IL6/TGFB1/CCND1/TP53/TNF/IL10/HIF1A/IL1A/IL17A/CXCL8/IL4/POMC,14
+Pattern I,R-HSA-449147,Signaling by Interleukins,2.23176E-14,VEGFA/AKT1/IL6/CCL4/IL33/IFNG/TGFB1/NFKB1/CCND1/TP53/HMGB1/TNF/CD4/IL10/HIF1A/CCL5/IL1A/IL17A/CXCL8/IL4/POMC/MIF,22
+Pattern I,R-HSA-6783783,Interleukin-10 signaling,3.67118E-07,IL6/CCL4/TNF/IL10/CCL5/IL1A/CXCL8,7
+Pattern I,R-HSA-375276,Peptide ligand-binding receptors,4.98305E-07,PF4/CXCL12/CXCL13/SST/CCL4/CX3CL1/TAC1/CCL5/NPY/CXCL8/POMC,11
+Pattern I,R-HSA-500792,GPCR ligand binding,5.92098E-07,PF4/CXCL12/VIP/CXCL13/SST/CCL4/CX3CL1/WNT2/PTH/TAC1/FZD1/CCL5/NPY/CXCL8/POMC,15
+Pattern I,R-HSA-380108,Chemokine receptors bind chemokines,1.30824E-06,PF4/CXCL12/CXCL13/CCL4/CX3CL1/CCL5/CXCL8,7
+Pattern I,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),5.1022E-05,PF4/CXCL12/CXCL13/SST/CCL4/CX3CL1/TAC1/CCL5/NPY/CXCL8/POMC,11
+Pattern I,R-HSA-8853884,Transcriptional Regulation by VENTX,8.86295E-05,IL6/CTNNB1/NFKB1/CCND1/TP53,5
+Pattern I,R-HSA-418594,G alpha (i) signalling events,0.000196968,PF4/CXCL12/CXCL13/SST/CCL4/CX3CL1/CCL5/NPY/CXCL8/POMC,10
+Pattern I,R-HSA-8848021,Signaling by PTK6,0.000334593,AKT1/NR3C1/EGFR/CCND1/HIF1A,5
+Pattern I,hsa04060,Cytokine-cytokine receptor interaction,2.22372E-19,5196/6387/3569/2688/10563/652/6351/90865/4803/6376/8200/3458/7040/3553/650/7124/3456/920/3586/6352/3552/3605/3576/3565,24
+Pattern I,hsa05323,Rheumatoid arthritis,7.9396E-13,7422/6387/3569/3458/7040/3553/5741/7124/6352/7099/3552/3605/3576,13
+Pattern I,hsa05321,Inflammatory bowel disease,7.8295E-12,3569/3458/7040/3553/4790/7124/3586/7099/3552/3605/3565,11
+Pattern I,hsa05163,Human cytomegalovirus infection,8.88106E-12,7422/207/6387/3569/6351/6376/3553/1499/4790/1956/595/7157/7124/3456/6352/3576,16
+Pattern I,hsa05142,Chagas disease,2.7883E-11,207/3569/3458/7040/3553/4790/7124/3456/3586/6352/7099/3576,12
+Pattern I,hsa04936,Alcoholic liver disease,6.43998E-11,5564/207/3569/23411/3553/1499/4790/595/7124/3456/7099/3605/3576,13
+Pattern I,hsa05418,Fluid shear stress and atherosclerosis,9.52927E-10,7422/207/652/3458/3553/1499/4790/7157/5327/7124/3552/59341,12
+Pattern I,hsa04061,Viral protein interaction with cytokine and cytokine receptor,7.14019E-09,5196/6387/3569/10563/6351/6376/7124/3586/6352/3576,10
+Pattern I,hsa05164,Influenza A,7.14019E-09,207/3569/90865/3458/3553/4790/7124/3456/6352/7099/3552/3576,12
+Pattern I,hsa04933,AGE-RAGE signaling pathway in diabetic complications,7.14019E-09,7422/207/3569/7040/3553/4790/595/7124/3552/3576,10
+Pattern II,GO:0034116,positive regulation of heterotypic cell-cell adhesion,1.64042E-05,IL1B/TNF/BMP7,3
+Pattern II,GO:0034114,regulation of heterotypic cell-cell adhesion,4.4086E-05,IL1B/TNF/BMP7,3
+Pattern II,GO:0030856,regulation of epithelial cell differentiation,7.39948E-05,IL1B/TNF/IL20/BMP2,4
+Pattern II,GO:0003203,endocardial cushion morphogenesis,7.47524E-05,ADAMTS5/BMP7/BMP2,3
+Pattern II,GO:0045429,positive regulation of nitric oxide biosynthetic process,7.47524E-05,IL1B/TNF/ESR1,3
+Pattern II,GO:0003197,endocardial cushion development,0.000100518,ADAMTS5/BMP7/BMP2,3
+Pattern II,GO:0072132,mesenchyme morphogenesis,0.000100518,ADAMTS5/BMP7/BMP2,3
+Pattern II,GO:0014015,positive regulation of gliogenesis,0.00010816,IL1B/TNF/BMP2,3
+Pattern II,GO:0002573,myeloid leukocyte differentiation,0.00010816,IL1B/TNF/IL20/BMP2,4
+Pattern II,GO:0045428,regulation of nitric oxide biosynthetic process,0.000149575,IL1B/TNF/ESR1,3
+Pattern II,R-HSA-8854691,Interleukin-20 family signaling,0.005698074,IL20/IL19,2
+Pattern II,R-HSA-2129379,Molecules associated with elastic fibres,0.005955754,BMP7/BMP2,2
+Pattern II,R-HSA-1566948,Elastic fibre formation,0.005955754,BMP7/BMP2,2
+Pattern II,R-HSA-8939902,Regulation of RUNX2 expression and activity,0.008043214,ESR1/BMP2,2
+Pattern II,R-HSA-1474244,Extracellular matrix organization,0.008498027,ADAMTS5/BMP7/BMP2,3
+Pattern II,R-HSA-8878166,Transcriptional regulation by RUNX2,0.014718794,ESR1/BMP2,2
+Pattern II,R-HSA-9843745,Adipogenesis,0.014718794,TNF/BMP7,2
+Pattern II,R-HSA-449147,Signaling by Interleukins,0.014718794,TNF/IL20/IL19,3
+Pattern II,R-HSA-9942503,Differentiation of naive CD4+ T cells to T helper 1 cells (Th1 cells),0.047820752,TNF,1
+Pattern II,hsa04060,Cytokine-cytokine receptor interaction,5.2922E-07,3553/7124/50604/655/29949/650,6
+Pattern II,hsa04061,Viral protein interaction with cytokine and cytokine receptor,0.001436035,7124/50604/29949,3
+Pattern II,hsa04350,TGF-beta signaling pathway,0.001436035,7124/655/650,3
+Pattern II,hsa01523,Antifolate resistance,0.004202953,3553/7124,2
+Pattern II,hsa05143,African trypanosomiasis,0.00513518,3553/7124,2
+Pattern II,hsa04940,Type I diabetes mellitus,0.005437022,3553/7124,2
+Pattern II,hsa05332,Graft-versus-host disease,0.005437022,3553/7124,2
+Pattern II,hsa05144,Malaria,0.005876282,3553/7124,2
+Pattern II,hsa05134,Legionellosis,0.006552601,3553/7124,2
+Pattern II,hsa05321,Inflammatory bowel disease,0.008185163,3553/7124,2
+Pattern III,GO:0001503,ossification,3.81458E-06,IL6/AKT1/CTNNB1/CAT/GDF5/VDR/EGFR/KL,8
+Pattern III,GO:0062197,cellular response to chemical stress,1.71861E-05,IL6/AKT1/CAT/TP53/CASP3/MMP3/MTOR,7
+Pattern III,GO:0071887,leukocyte apoptotic process,1.71861E-05,IL6/AKT1/BAX/TP53/CASP3,5
+Pattern III,GO:0043523,regulation of neuron apoptotic process,2.3349E-05,BCL2/AKT1/CTNNB1/GDF5/BAX/CASP3,6
+Pattern III,GO:0009314,response to radiation,2.3349E-05,BCL2/AKT1/CAT/EGFR/TP53/CASP3/MMP3,7
+Pattern III,GO:0032355,response to estradiol,2.87289E-05,CTNNB1/ESR1/CAT/EGFR/CASP3,5
+Pattern III,GO:0051402,neuron apoptotic process,2.92712E-05,BCL2/AKT1/CTNNB1/GDF5/BAX/CASP3,6
+Pattern III,GO:0009411,response to UV,5.44724E-05,AKT1/CAT/EGFR/TP53/MMP3,5
+Pattern III,GO:0051054,positive regulation of DNA metabolic process,5.62289E-05,IL6/AKT1/CTNNB1/BAX/EGFR/CASP3,6
+Pattern III,GO:0001836,release of cytochrome c from mitochondria,5.62289E-05,BCL2/AKT1/BAX/TP53,4
+Pattern III,R-HSA-109606,Intrinsic Pathway for Apoptosis,1.69296E-05,BCL2/AKT1/BAX/TP53/CASP3,5
+Pattern III,R-HSA-9009391,Extra-nuclear estrogen signaling,4.68387E-05,BCL2/AKT1/ESR1/EGFR/MMP3,5
+Pattern III,R-HSA-109581,Apoptosis,5.5845E-05,BCL2/AKT1/CTNNB1/BAX/TP53/CASP3,6
+Pattern III,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,8.84505E-05,IL6/BCL2/AKT1/TP53/MMP3,5
+Pattern III,R-HSA-5357801,Programmed Cell Death,8.84505E-05,BCL2/AKT1/CTNNB1/BAX/TP53/CASP3,6
+Pattern III,R-HSA-2219528,PI3K/AKT Signaling in Cancer,0.000101696,AKT1/ESR1/EGFR/MTOR/KL,5
+Pattern III,R-HSA-9841251,Mitochondrial unfolded protein response (UPRmt),0.000245973,AKT1/ESR1/CAT,3
+Pattern III,R-HSA-1257604,PIP3 activates AKT signaling,0.000295717,AKT1/ESR1/EGFR/TP53/MTOR/KL,6
+Pattern III,R-HSA-9634638,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.000437514,BCL2/AKT1/EGFR,3
+Pattern III,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,0.000437514,AKT1/CTNNB1/ESR1/EGFR/TP53/MTOR/KL,7
+Pattern III,hsa05210,Colorectal cancer,7.9957E-10,596/207/1499/581/1956/7157/836/2475,8
+Pattern III,hsa05163,Human cytomegalovirus infection,1.67374E-08,3569/207/1499/581/1956/7157/836/2475/3105,9
+Pattern III,hsa05224,Breast cancer,1.67374E-08,7472/207/1499/2099/581/1956/7157/2475,8
+Pattern III,hsa05226,Gastric cancer,1.67374E-08,7472/596/207/1499/581/1956/7157/2475,8
+Pattern III,hsa01522,Endocrine resistance,2.89619E-08,596/207/2099/581/1956/7157/2475,7
+Pattern III,hsa05215,Prostate cancer,3.91745E-08,596/207/1499/1956/7157/4314/2475,7
+Pattern III,hsa05168,Herpes simplex virus 1 infection,4.10322E-08,3569/596/207/581/7157/836/2475/3105,8
+Pattern III,hsa05167,Kaposi sarcoma-associated herpesvirus infection,7.05827E-08,3569/207/1499/581/7157/836/2475/3105,8
+Pattern III,hsa05205,Proteoglycans in cancer,8.61085E-08,7472/207/1499/2099/1956/7157/836/2475,8
+Pattern III,hsa05165,Human papillomavirus infection,1.67632E-07,7472/207/1499/581/1956/7157/836/2475/3105,9
