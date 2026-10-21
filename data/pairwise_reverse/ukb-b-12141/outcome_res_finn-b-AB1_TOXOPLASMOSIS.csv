@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TOXOPLASMOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Inverse variance weighted",2,0.00012573026541656,0.000258201929184052,0.626296959306434

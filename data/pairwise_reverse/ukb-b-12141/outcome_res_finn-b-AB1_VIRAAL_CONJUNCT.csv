@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",2,0.000209654411826306,0.000505652420037713,0.678418938543337

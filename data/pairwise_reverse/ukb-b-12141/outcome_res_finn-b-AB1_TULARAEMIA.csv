@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",4,-0.00073352732649227,0.00121225153605452,0.606628093171536
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",4,-0.000176781499359702,0.000275942441559106,0.521752522213376
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",4,-0.000132022390179443,0.000232257546468479,0.569742343464908
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",4,-0.000378981821700193,0.000403409481362216,0.416806051922557
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",4,-0.000335537531807781,0.000445741309507994,0.506275960568898

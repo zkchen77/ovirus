@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",5,0.00173427574144584,0.00121109264349987,0.247557524123914
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted median",5,0.000569251524133136,0.000442726208808057,0.198517471268082
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",5,0.000594848740311482,0.000366934983120241,0.1049900936958
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","Simple mode",5,0.000875186735260028,0.000589111053411899,0.211568245664837
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted mode",5,0.00085422883112082,0.000588038139672805,0.2199659039073

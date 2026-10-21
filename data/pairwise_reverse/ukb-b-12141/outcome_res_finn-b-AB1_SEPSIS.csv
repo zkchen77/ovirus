@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS","MR Egger",3,-0.00604554846770481,0.00771557659346682,0.576883186676447
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted median",3,0.00172474995483486,0.00216404771639649,0.425449977991442
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS","Inverse variance weighted",3,0.00303784310912872,0.00170379488475127,0.0745885170867507
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS","Simple mode",3,0.0014476085910158,0.00277497632438866,0.653921321704777
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted mode",3,0.00136709704124959,0.00272002457095139,0.665124501969644

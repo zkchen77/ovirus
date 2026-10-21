@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","MR Egger",4,0.0025666204796624,0.00285564506851007,0.463619773153146
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Weighted median",4,0.000605436937750276,0.000790884794841652,0.443962857603174
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Inverse variance weighted",4,0.000859800802693705,0.000686905974535487,0.210678884680253
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Simple mode",4,0.000405099288419144,0.00110870014889921,0.739068016104908
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Weighted mode",4,0.000465412868301729,0.00112338618700296,0.706498818203319

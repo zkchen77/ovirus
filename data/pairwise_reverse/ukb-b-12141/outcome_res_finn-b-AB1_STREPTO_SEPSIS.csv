@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",6,-0.00702985446346611,0.00409831193653236,0.161434841995137
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted median",6,-0.0010727132970488,0.000631861660747386,0.0895638731105165
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",6,-0.000895572900698176,0.000574653552368878,0.119124933282708
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Simple mode",6,-0.00156993232385933,0.00110132427203944,0.213337116463894
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted mode",6,-0.00150051613301788,0.00104410536348442,0.210183879391713
