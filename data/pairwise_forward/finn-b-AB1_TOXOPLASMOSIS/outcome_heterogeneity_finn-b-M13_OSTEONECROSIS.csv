@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",1.85558482360796,5,0.868744947057365
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",1.91218054169945,6,0.927595456782846

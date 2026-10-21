@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",10.1656828341272,14,0.749972591841286
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",10.8580120826786,15,0.762593170033378

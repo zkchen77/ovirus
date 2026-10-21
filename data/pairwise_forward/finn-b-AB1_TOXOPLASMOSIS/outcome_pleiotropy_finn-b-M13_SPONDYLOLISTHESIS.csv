@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS",0.150075803045899,0.320262092614483,0.651856837772444

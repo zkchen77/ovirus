@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",16.8361665000771,19,0.60096621431631
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",19.5314083616649,20,0.487563724948348

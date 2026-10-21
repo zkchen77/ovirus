@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,0.246591201268441,1.11678573882662,0.830775849368773
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.691308544169164,0.390467250129946,0.0766497337348433
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.490293650112929,0.282541785523529,0.082688377450934
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.722031498818567,0.661183231838379,0.303189049670861
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.702051769579685,0.627728986999481,0.292358316809175

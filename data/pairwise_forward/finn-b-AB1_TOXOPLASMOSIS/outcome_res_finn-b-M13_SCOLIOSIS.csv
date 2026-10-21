@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.546985632396907,0.46298149810213,0.271354817196816
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.403981722427128,0.311064440454301,0.19404432854113
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.0751682538388615,0.248700344246664,0.762465859230514
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.519784007201341,0.493788178213594,0.319943443549056
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.529501154102743,0.466660912676669,0.285833373353198

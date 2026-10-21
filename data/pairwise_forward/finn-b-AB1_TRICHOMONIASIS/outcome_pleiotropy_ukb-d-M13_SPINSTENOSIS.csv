@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.254901329369585,0.139070824809532,0.0881681442104659

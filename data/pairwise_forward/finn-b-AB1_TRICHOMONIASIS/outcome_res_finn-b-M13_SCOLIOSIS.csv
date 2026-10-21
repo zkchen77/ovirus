@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.184021365100893,0.349134475888155,0.612437827889153
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.181617370269236,0.236630170604783,0.442774964174899
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.11779272459395,0.183960854545316,0.521968431413788
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.162495048688386,0.365863491082401,0.667427504045426
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.141974405633474,0.38781475447571,0.722756799024844

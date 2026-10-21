@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,0.65779497816965,0.35950770798416,0.12681490785436
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.0783983908435986,0.227374877288289,0.730246276746852
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.083378247454583,0.202264492155215,0.68017535836727
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.204515420068351,0.338484450856119,0.567832353122086
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.19169753768637,0.351653982953326,0.60531861922704

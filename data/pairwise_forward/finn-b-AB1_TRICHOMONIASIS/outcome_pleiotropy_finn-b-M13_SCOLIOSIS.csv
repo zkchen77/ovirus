@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.0258262474534201,0.115714624962243,0.828981768617302

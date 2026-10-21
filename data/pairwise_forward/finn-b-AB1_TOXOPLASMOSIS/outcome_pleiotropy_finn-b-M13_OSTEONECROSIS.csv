@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.0552089411081295,0.232069266853135,0.821401256824556

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-281.361731819167,126.908921077464,0.0436813764242154
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-74.9081661010429,57.8048715704128,0.195016895455707
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-61.9379261754577,42.1218733109704,0.141441090283942
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-79.5701417050934,95.2160101809368,0.416448251463774
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-65.579492296369,88.9481033865953,0.472329304642133

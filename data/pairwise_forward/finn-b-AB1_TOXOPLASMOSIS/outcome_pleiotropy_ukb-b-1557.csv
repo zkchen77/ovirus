@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",-0.119031296705823,0.409038777450235,0.779482797758915

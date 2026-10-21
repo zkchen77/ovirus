@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,14.7014509244853,12.0498600723879,0.228168725701848
+"ukb-b-14486","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,0.244799762070413,9.24242711528626,0.978869282597489
+"ukb-b-14486","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,5.96138625209673,5.44619618645413,0.273693532678372
+"ukb-b-14486","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,8.11059627096228,15.645672105672,0.606426496857132
+"ukb-b-14486","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,3.45865862673284,11.3364396767186,0.761537663794835

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",3.87479583934929,5,0.567579596514495
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TULARAEMIA","Tularaemia || id:finn-b-AB1_TULARAEMIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.96910514434254,6,0.680857496759435

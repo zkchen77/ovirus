@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-45.4998280406707,52.5430901639143,0.391010340854514
+"ukb-b-12141","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-23.6460718296327,17.8948757672485,0.186372067463827
+"ukb-b-12141","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-7.48951196800776,13.3159436551695,0.573811534670369
+"ukb-b-12141","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-48.6074945009246,36.0624190449979,0.184160934950968
+"ukb-b-12141","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-44.1405799036048,33.0177078277706,0.187698364036721

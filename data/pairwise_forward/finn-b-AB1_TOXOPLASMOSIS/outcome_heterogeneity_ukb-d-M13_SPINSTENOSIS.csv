@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",21.2547634566483,14,0.0952798481964815
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",22.4987607244367,15,0.0953775258549339

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.309542950056786,0.383110046549687,0.455810332640115
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.16616149045791,0.22523104961441,0.46067371240729
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.229461609039463,0.182922044321559,0.2096883179705
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.107657863436093,0.335808843410116,0.759390766871684
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.107657863436093,0.327256876265449,0.75335733311266

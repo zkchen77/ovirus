@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-17.8721797164697,14.2288963298635,0.214935963292637
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,-20.1479925387154,11.0011651095468,0.0670346418924573
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,-14.5743328951219,6.42102466879773,0.0232207500758822
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,-26.4338199059029,21.8617145472857,0.232185742214252
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-21.7098695406392,14.3533729482137,0.136572294361903

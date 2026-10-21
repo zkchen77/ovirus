@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",20.5567412007664,19,0.361801511108618
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",20.6154041349931,20,0.42007189910891

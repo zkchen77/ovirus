@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-109.686917976367,410.335959968942,0.796934921616368
+"ukb-b-1557","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,93.4651082897886,74.8433019648863,0.211734358675422
+"ukb-b-1557","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,63.1396874982743,57.3160645258442,0.270633249739407
+"ukb-b-1557","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,105.204052694423,114.815224760747,0.386302510203948
+"ukb-b-1557","finn-b-AB1_TRICHOMONIASIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,106.484087517363,118.067173636717,0.39345591291849

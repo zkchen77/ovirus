@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,11.6142542235198,56.8861094815114,0.839123787430357
+"ukb-b-12141","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-1.11941640584186,20.6887855484328,0.956849596128294
+"ukb-b-12141","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-9.51447812896265,14.4977691985339,0.511649212371253
+"ukb-b-12141","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,20.5763707041538,47.1956813282639,0.664847311545703
+"ukb-b-12141","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,14.8870938084467,40.6706293697925,0.715977434907286

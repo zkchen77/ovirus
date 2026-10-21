@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-90.4807682163294,185.184384395253,0.632690754628166
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,47.7804858823631,75.9339818293882,0.529193780162851
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,67.7100559387273,60.8925357281241,0.266155406239168
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,12.2576370708513,146.007530618294,0.934204703618103
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-14.8100952935398,145.59693302429,0.920326358355581

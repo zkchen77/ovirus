@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",0.0149959380890875,0.0577389244232763,0.79614643707459

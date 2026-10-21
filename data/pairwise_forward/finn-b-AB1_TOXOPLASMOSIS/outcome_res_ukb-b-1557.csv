@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,168.895642701701,494.669051395232,0.74279865806778
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,22.1338742142949,96.1208131738814,0.817880883020035
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,26.3514927556129,67.5370753315719,0.696404799506904
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-2.42907710870122,138.426897313364,0.986429407445502
+"ukb-b-1557","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,0.0090563083925872,131.239717416483,0.99994663100996

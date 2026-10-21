@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,-0.878030272607921,1.04968795320093,0.413288741829359
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,0.519660062550778,0.588451497270027,0.377183579705042
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,0.174486896657457,0.411477351171094,0.67152948035493
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,1.02030627317596,1.15940477631638,0.389297471825891
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_TOXOPLASMOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,1.04489165739808,1.16495835234785,0.380423832557786
