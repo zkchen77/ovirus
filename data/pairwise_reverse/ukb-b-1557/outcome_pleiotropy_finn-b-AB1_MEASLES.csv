@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES",0.000812578571395176,0.000849998172701479,0.439970804957238

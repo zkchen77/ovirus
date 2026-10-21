@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",3,0.000694812979604225,0.000638316072117495,0.473036714408638
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted median",3,0.000122144308033706,0.000156220854795147,0.434291322374338
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",3,0.000131804867093126,0.000130075711309652,0.31092001219803
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Simple mode",3,8.28263202293753e-05,0.000193243245780378,0.709954080246031
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted mode",3,0.000109823920344614,0.000188219332610738,0.618598716365269

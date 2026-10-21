@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES","MR Egger",4,-0.00136165325376168,0.00153208985492612,0.46790517018956
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES","Weighted median",4,0.000148587197787109,0.000191173774812441,0.437019368133227
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES","Inverse variance weighted",4,9.46731282033811e-05,0.000160675828697503,0.555714886191629
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES","Simple mode",4,0.000191526187028079,0.000291841862951277,0.558496891837532
+"finn-b-AB1_MEASLES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Measles || id:finn-b-AB1_MEASLES","Weighted mode",4,0.000181068126535942,0.000283305666789651,0.568195044845319

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",2.15153943458457,1,0.142427019705429
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",2.53748935282859,2,0.281184377701902

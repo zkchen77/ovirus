@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CMV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cytomegaloviral disease || id:finn-b-AB1_CMV","MR Egger",4,-0.003372996456173,0.00439535722989371,0.523059878758114
+"finn-b-AB1_CMV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted median",4,-0.00011044389011801,0.000220861526751905,0.6170332285874
+"finn-b-AB1_CMV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cytomegaloviral disease || id:finn-b-AB1_CMV","Inverse variance weighted",4,-0.000134880633413344,0.000188887975526971,0.475179323358646
+"finn-b-AB1_CMV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cytomegaloviral disease || id:finn-b-AB1_CMV","Simple mode",4,-8.92973380713779e-05,0.000336689411652529,0.808018884741262
+"finn-b-AB1_CMV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted mode",4,-7.69649349000056e-05,0.000327097114123072,0.82912536397928

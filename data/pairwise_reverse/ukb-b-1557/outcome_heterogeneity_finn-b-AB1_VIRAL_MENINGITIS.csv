@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",0.494304558931187,1,0.482013397025442

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ERYSIPELAS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Erysipelas || id:finn-b-AB1_ERYSIPELAS",0.000120000442816745,0.000529728910768039,0.82726077547549

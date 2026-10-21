@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RUBELLA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",4,-0.000179556699091084,0.00222573204390928,0.943048093020899
+"finn-b-AB1_RUBELLA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted median",4,-0.00012308606637855,0.000304838551074957,0.686378470483307
+"finn-b-AB1_RUBELLA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",4,-0.000101318169621428,0.000256802683952561,0.693184589640619
+"finn-b-AB1_RUBELLA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Simple mode",4,-0.000141021503696165,0.00042914071237541,0.764049683823717
+"finn-b-AB1_RUBELLA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted mode",4,-0.000136272197779191,0.000454473653130705,0.783869864512532

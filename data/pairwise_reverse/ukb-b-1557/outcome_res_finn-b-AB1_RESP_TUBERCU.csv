@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RESP_TUBERCU","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","MR Egger",3,0.00019482857813334,0.00433753965742765,0.971424258125861
+"finn-b-AB1_RESP_TUBERCU","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted median",3,-0.000536720942013301,0.000441371553437908,0.223973587393949
+"finn-b-AB1_RESP_TUBERCU","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Inverse variance weighted",3,-0.000548423269241915,0.000378424333056101,0.147273824702748
+"finn-b-AB1_RESP_TUBERCU","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Simple mode",3,-0.000486353054850206,0.000502957574797372,0.43556800216403
+"finn-b-AB1_RESP_TUBERCU","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted mode",3,-0.000504497888132171,0.000514552671607753,0.430244800009048

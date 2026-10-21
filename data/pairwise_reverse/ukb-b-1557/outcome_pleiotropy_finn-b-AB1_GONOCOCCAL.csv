@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",0.000946262784916785,0.00323295103459234,0.818728948785521

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CHOLERA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",0.992115808721687,2,0.608926380559171
+"finn-b-AB1_CHOLERA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",0.993214106707489,3,0.802893938095354

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS",0.00306968591777404,0.00148009254687528,0.286018876881685

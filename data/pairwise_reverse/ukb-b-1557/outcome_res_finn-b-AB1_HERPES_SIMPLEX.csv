@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","MR Egger",5,0.00137348944652287,0.00372129066759079,0.736572168829408
+"finn-b-AB1_HERPES_SIMPLEX","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted median",5,0.000900053511318294,0.000533740859375386,0.0917357587092337
+"finn-b-AB1_HERPES_SIMPLEX","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Inverse variance weighted",5,0.000868490300028618,0.000406320575156644,0.0325613310293195
+"finn-b-AB1_HERPES_SIMPLEX","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Simple mode",5,0.000721104076239775,0.000767036171677445,0.400385560522435
+"finn-b-AB1_HERPES_SIMPLEX","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted mode",5,0.000543565485559485,0.000751410815078949,0.509477572435207

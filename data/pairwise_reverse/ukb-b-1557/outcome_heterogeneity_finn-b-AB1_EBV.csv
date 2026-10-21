@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_EBV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",8.61265210907842,5,0.12554787677801
+"finn-b-AB1_EBV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",9.16646222816559,6,0.164430517029458

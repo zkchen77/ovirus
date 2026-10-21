@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HIV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",4,-0.00150832434600487,0.00470977059101099,0.779138256183756
+"finn-b-AB1_HIV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted median",4,-2.33750572359928e-05,0.00022875392043832,0.918610396231248
+"finn-b-AB1_HIV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",4,-9.32640720070135e-05,0.000206052658066476,0.650820584450085
+"finn-b-AB1_HIV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Simple mode",4,5.91576912795781e-05,0.000337987769359784,0.872203161564053
+"finn-b-AB1_HIV","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted mode",4,6.12487573641552e-05,0.00031586986376073,0.858637104630928

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Syphilis || id:finn-b-AB1_SYPHILIS",-0.000976688029015217,0.00121899703417206,0.50706428732374

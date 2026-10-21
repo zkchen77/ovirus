@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS",-0.000655421904598496,0.000343140885910085,0.128736053183144

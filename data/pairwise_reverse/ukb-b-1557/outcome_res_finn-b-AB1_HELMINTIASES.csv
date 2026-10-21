@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HELMINTIASES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",4,0.00160918942474093,0.00105465526652409,0.266584228932091
+"finn-b-AB1_HELMINTIASES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted median",4,0.000404322176217125,0.00019479795136202,0.037931176054258
+"finn-b-AB1_HELMINTIASES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",4,0.000411384690549358,0.000164837155186344,0.0125707572371815
+"finn-b-AB1_HELMINTIASES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Helminthiases || id:finn-b-AB1_HELMINTIASES","Simple mode",4,0.00018435707833154,0.000278782411875842,0.555676669136092
+"finn-b-AB1_HELMINTIASES","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted mode",4,0.000580765649390612,0.00029519252513713,0.14380884633056

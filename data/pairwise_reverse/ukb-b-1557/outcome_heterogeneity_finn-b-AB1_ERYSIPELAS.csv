@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ERYSIPELAS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",9.65553143828966,7,0.208948912152041
+"finn-b-AB1_ERYSIPELAS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",9.72631566432597,8,0.284762832492511

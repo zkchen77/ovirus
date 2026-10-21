@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS",0.000170085228154586,0.000242027036842825,0.532833280225485

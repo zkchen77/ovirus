@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MUMPS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Mumps || id:finn-b-AB1_MUMPS",-0.000230582040972545,0.00188317908975905,0.922436464731169

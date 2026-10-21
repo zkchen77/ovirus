@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",5.43733067896097,4,0.245293330981179
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",6.27998742254688,5,0.279920308175786

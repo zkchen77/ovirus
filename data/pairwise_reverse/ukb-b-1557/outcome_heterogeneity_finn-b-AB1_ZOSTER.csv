@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ZOSTER","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","MR Egger",5.74282666598636,3,0.124815112148989
+"finn-b-AB1_ZOSTER","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Inverse variance weighted",11.0354015736339,4,0.0261690173169143

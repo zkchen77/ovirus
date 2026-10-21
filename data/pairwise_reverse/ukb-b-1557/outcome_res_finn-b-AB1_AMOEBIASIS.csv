@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",3,-0.00380371585992566,0.00184996452412651,0.288181159800855
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted median",3,-9.81291774796036e-05,0.000151160346720692,0.516226725114664
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",3,2.59257764722549e-05,0.000177214246724698,0.883687540642832
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Simple mode",3,-0.000126704671143098,0.000182303987049262,0.558933934247842
+"finn-b-AB1_AMOEBIASIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted mode",3,-0.000126704671143098,0.000152288477431468,0.492928261644244
