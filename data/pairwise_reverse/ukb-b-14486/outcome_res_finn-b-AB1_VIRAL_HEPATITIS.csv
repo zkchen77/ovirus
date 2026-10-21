@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","MR Egger",5,0.00031858001597185,0.00284440548165016,0.917895170412445
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Weighted median",5,-0.000472235336618532,0.00152894828145061,0.757425850983317
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Inverse variance weighted",5,-6.44725367534836e-05,0.0012583570237602,0.959137873277415
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Simple mode",5,-0.00145901707794324,0.00209157543377148,0.523867535641392
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Weighted mode",5,-0.00132305660243052,0.00202744950956322,0.549635742468109

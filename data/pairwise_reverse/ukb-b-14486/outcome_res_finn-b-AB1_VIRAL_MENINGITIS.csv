@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",8,-0.00150874535071088,0.00129359123349592,0.287741332323499
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted median",8,2.21410296392222e-06,0.000851067297494673,0.997924257478361
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",8,-0.000226579298983002,0.000740216198537413,0.759529412442817
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Simple mode",8,0.000178403036793016,0.00139075185578123,0.901536535858882
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted mode",8,-2.4098515674492e-05,0.00125203512383776,0.985180818481979

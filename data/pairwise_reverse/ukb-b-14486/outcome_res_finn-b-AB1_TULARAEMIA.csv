@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",6,-0.000555348262906682,0.00103442834932142,0.619830895301837
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",6,-0.000215337919087962,0.000511824363677283,0.673955027859473
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",6,-0.000161813841113579,0.00041515990654095,0.696712036696733
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",6,-0.000318421206324163,0.000780968213224742,0.700345826310003
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",6,-0.000309086516517267,0.000778179392204385,0.707614122614608

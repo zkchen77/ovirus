@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","MR Egger",5,0.000556662349703935,0.000666935981580183,0.465157275207992
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted median",5,0.000710369051018315,0.000492214420144504,0.148961164490669
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",5,0.0006449777160605,0.000435383553749161,0.138499696946546
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Simple mode",5,8.40322182554189e-05,0.000715693390761147,0.91219171959699
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted mode",5,0.000640858376127354,0.00058002180564521,0.331195607744537

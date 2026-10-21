@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",10,-0.000148769796394189,0.000718736789461582,0.841190711351867
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted median",10,-0.000153765008738101,0.000693065983883076,0.824421309076826
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",10,0.000336216239064248,0.000536910793816782,0.531180469252971
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Simple mode",10,-0.000334653017863568,0.00101841247512252,0.74997286432119
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted mode",10,-8.34541236831689e-05,0.000659215195454542,0.902043183421748

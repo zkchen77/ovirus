@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Septicaemia || id:finn-b-AB1_SEPSIS","MR Egger",5,-0.000384713835240949,0.00367003179722828,0.923129594563218
+"finn-b-AB1_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted median",5,0.00353123408127147,0.00279420337697989,0.206312119117641
+"finn-b-AB1_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Septicaemia || id:finn-b-AB1_SEPSIS","Inverse variance weighted",5,0.0020867554708165,0.00220613882288463,0.344206817167282
+"finn-b-AB1_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Septicaemia || id:finn-b-AB1_SEPSIS","Simple mode",5,0.00454029637350094,0.0042540765944147,0.345977842871004
+"finn-b-AB1_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted mode",5,0.00419229205982254,0.00355051205671441,0.303113643980504

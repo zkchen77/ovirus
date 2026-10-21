@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ZOSTER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","MR Egger",8,0.000198070651716924,0.00180564473026836,0.916227999268594
+"finn-b-AB1_ZOSTER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted median",8,0.00016762340708643,0.00136343970189872,0.902153373276968
+"finn-b-AB1_ZOSTER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Inverse variance weighted",8,0.00109227108253487,0.00111290612085591,0.326366729531397
+"finn-b-AB1_ZOSTER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Simple mode",8,-0.000350407882778197,0.00187275798750119,0.85688365533041
+"finn-b-AB1_ZOSTER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted mode",8,-7.18413225557282e-05,0.00134766386565886,0.95897592301776

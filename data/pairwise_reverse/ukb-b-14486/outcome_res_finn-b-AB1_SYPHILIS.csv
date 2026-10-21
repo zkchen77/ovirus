@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",10,0.000575150196395017,0.000572660959735764,0.344619081750352
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted median",10,-0.000113950782894146,0.000510191100083871,0.823263724673149
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",10,0.00033357273564053,0.000398805251799545,0.402912958326964
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","Simple mode",10,-0.000484517171346015,0.000728031318770061,0.522408389109484
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted mode",10,-0.000198888197099652,0.000554327134086795,0.72802333692934

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",9,-0.00225694091085536,0.00176022158269404,0.240602931849583
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted median",9,0.000290716313905175,0.00120253990664805,0.808972407396618
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",9,0.000481407925728709,0.000890725093767206,0.588874698404167
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Simple mode",9,0.00281636519930744,0.00223332749114985,0.242817364728653
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted mode",9,2.06443955142787e-05,0.00223894743808664,0.992868934625432

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VARICELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","MR Egger",5,0.00157835293493364,0.00157327098480944,0.389668705904722
+"finn-b-AB1_VARICELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted median",5,0.0013544985230804,0.000971662696136324,0.163317379431642
+"finn-b-AB1_VARICELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Inverse variance weighted",5,0.000827814617084936,0.0007454374821133,0.266779992227435
+"finn-b-AB1_VARICELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Simple mode",5,0.00170206504005077,0.00125941366642561,0.247918852164655
+"finn-b-AB1_VARICELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted mode",5,0.00179969846840615,0.00115868197089483,0.195328743640909

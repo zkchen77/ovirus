@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",5,-0.000239029711030414,0.00054762432628423,0.691990056854137
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted median",5,-6.67527550595621e-05,0.000329786881364672,0.839594807137001
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",5,-0.000236303634298042,0.000284034130599466,0.405434307128464
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Simple mode",5,-4.49127154851231e-05,0.000451029693268605,0.925470246353608
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted mode",5,-4.72415887627213e-05,0.000459804733467555,0.923111954451651
