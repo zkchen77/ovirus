@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",3.63771601219493,5,0.602659444434966
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",4.09023908715311,6,0.664465932226175

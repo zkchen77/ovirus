@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-47.4091340983248,161.217964582498,0.777233971963972
+"ukb-b-1557","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,8.89388084656839,28.5517081197529,0.755419910158404
+"ukb-b-1557","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-2.13122083562374,21.1467178704969,0.919723053689282
+"ukb-b-1557","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-45.9054077138364,49.3011469182181,0.379032053646695
+"ukb-b-1557","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,5.29017739036382,44.7137259099908,0.908737072908145

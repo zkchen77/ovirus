@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS",-0.0397318479972357,0.0640639076858975,0.542499890892694

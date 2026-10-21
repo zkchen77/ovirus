@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.0335969820343717,0.116297091922514,0.784260405037996
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.0247722737441356,0.0696611009620351,0.722131689950974
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.0302968009301135,0.0527560690877425,0.565777756417121
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.0291933786305983,0.101417482136176,0.783143104933968
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,0.0291933786305983,0.0971747060308153,0.773992924477064

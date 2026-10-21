@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-1557","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",11.0088596887779,7,0.138233032133361
+"ukb-b-1557","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",13.236899426828,8,0.103954428530154

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.0692186286874041,0.0476320361169612,0.184241535113372

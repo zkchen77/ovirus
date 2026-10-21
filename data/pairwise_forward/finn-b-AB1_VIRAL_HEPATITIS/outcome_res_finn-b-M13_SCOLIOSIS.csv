@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.0370022316306804,0.117252386310282,0.760398490746421
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.0349197659683876,0.083718980232904,0.676600203755564
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.0481071472871667,0.061744051891359,0.435898330433761
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.000882850079646613,0.136270155036306,0.994972134766455
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.0140346840324278,0.141369753523063,0.923094904088974

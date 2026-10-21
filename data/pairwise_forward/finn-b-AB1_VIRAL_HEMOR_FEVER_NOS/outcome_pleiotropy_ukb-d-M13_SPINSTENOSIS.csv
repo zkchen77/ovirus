@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",-0.0346061858908005,0.0476462031682479,0.47961333601279

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",17.0630094795851,19,0.585598958992347
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",17.3568177288649,20,0.629697204116842

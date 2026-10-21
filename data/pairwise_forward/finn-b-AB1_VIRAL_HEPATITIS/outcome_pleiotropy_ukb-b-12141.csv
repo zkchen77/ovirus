@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0107609606958034,0.0294475995013776,0.716467377164437

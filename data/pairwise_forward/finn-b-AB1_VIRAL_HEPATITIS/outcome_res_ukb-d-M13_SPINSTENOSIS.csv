@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-10.4776258254778,42.9619811746389,0.810860335601719
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,21.4859420241767,18.8823688635909,0.255168998082837
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,17.2815745476546,14.1667132368995,0.222513462272912
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,22.9739114095816,27.4846871946933,0.416339139969123
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,22.4867165219455,26.6072377781435,0.411313578535119

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",5.62988492164267,5,0.34391360581144
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",6.07070222999696,6,0.415316796111258

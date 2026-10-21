@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.00432774413707875,0.0388461162029576,0.914037750958568

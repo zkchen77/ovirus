@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,-0.184235555339456,0.296811005668861,0.542161035380045
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,-0.0854940502695883,0.160423158336046,0.594083174430882
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,-0.0363484857301318,0.116869488416408,0.755787125226526
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,-0.421542296698037,0.322459401314214,0.205950634713605
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,-0.409139172117947,0.322397244151678,0.218992919694482

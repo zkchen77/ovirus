@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",6.87079885164633,8,0.550634641615044
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",8.44010080240223,9,0.490473516206908

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,20.0301910034463,26.5164552101287,0.45386734137198
+"ukb-b-12141","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-3.7985609014013,9.10292848603304,0.676466312211364
+"ukb-b-12141","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,0.104122128943843,6.71986586079386,0.987637533741065
+"ukb-b-12141","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,1.58510931687792,19.1632608243053,0.934428600833401
+"ukb-b-12141","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-6.74861519720318,16.447231145462,0.683436307238612

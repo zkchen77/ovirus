@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",6.92023211660594,8,0.545263043523938
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",6.93264372154233,9,0.644132147118972

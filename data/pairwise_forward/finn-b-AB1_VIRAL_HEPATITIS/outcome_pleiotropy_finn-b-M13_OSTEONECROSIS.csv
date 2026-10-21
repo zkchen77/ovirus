@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_HEPATITIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.0440269067926976,0.0703645009242894,0.558960800957738

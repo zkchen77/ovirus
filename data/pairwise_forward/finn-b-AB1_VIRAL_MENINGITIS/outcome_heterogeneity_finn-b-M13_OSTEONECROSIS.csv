@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",2.85234348947402,5,0.722737436188898
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_MENINGITIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.08571432282692,6,0.798014470614837
