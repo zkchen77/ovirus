@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",4.45618694744828,5,0.485766789135348
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",4.52145996335942,6,0.606478323428811

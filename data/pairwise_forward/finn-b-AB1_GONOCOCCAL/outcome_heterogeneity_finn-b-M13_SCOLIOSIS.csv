@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",3.72493448686487,8,0.881049168525105
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",3.96084356815485,9,0.913970735470213

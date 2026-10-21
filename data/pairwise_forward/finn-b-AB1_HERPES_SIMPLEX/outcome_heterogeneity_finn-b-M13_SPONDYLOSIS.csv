@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",13.6474906852661,19,0.803839351805102
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",14.8930183940872,20,0.782496033946493

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-124.030089923488,75.6333982684052,0.123296861876085
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,21.4908220448803,32.3557374687495,0.506559520405578
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,5.41740702950549,26.7721992983784,0.839641581010975
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,41.6140967703723,55.5915665744554,0.465693868751575
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,52.4769554680808,51.5977972757189,0.325259702045785

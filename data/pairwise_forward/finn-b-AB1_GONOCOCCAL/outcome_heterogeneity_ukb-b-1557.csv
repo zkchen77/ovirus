@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-1557","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",7.27203038219347,7,0.40111638025626
+"ukb-b-1557","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",11.2189310735535,8,0.189600165720242

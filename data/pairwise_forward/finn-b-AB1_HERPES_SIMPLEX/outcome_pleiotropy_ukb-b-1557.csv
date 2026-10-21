@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",-0.0904673099142325,0.122389482602589,0.483844276385354

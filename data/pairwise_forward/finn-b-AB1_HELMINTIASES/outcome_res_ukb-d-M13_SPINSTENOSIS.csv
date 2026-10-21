@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-43.7791360355205,98.2612870083428,0.662743106083078
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-7.99600566705346,44.7506525376651,0.858189692311468
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-8.19669939209593,32.2734699020377,0.799513797901765
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-6.33497887237189,73.2478397040687,0.932223305670204
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-3.76873155123525,72.3717388732441,0.959156398390965

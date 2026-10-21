@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.206122357128422,0.223460255305412,0.398639256183656
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.0998563859703493,0.123714659475646,0.419579609353519
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.0690973647541404,0.102168696249541,0.498845996000939
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.262272454543121,0.195149876628533,0.227552216907829
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.249204843351755,0.191438196965169,0.240743452094676

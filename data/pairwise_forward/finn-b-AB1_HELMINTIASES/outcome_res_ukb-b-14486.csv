@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,1.06553728417786,9.8578963959069,0.914357113743757
+"ukb-b-14486","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,-0.550550795906627,6.73164376472659,0.93481729328922
+"ukb-b-14486","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,5.90405880819374,4.41954866977784,0.18158316364462
+"ukb-b-14486","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,5.08226170396509,12.8373101392338,0.69383191051395
+"ukb-b-14486","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-1.27739786186997,8.39791548372786,0.879701186238913

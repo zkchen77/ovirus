@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",-0.00426783300183423,0.0254177119378304,0.867391838589209

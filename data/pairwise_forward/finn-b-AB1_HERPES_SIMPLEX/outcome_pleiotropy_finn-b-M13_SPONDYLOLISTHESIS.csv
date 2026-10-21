@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS",0.000580233152468766,0.0502211182886285,0.991064716038957

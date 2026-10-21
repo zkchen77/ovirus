@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",8.48624496144498,5,0.131395817432161
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",9.31351585483135,6,0.156698677429328

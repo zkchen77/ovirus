@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",9.21542044729269,8,0.324450681667471
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HELMINTIASES","Helminthiases || id:finn-b-AB1_HELMINTIASES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10.9062481456569,9,0.282189959217143

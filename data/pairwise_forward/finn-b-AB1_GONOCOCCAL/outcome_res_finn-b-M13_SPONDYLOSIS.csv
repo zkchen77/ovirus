@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,0.0772557196917725,0.511378603995612,0.881510234050359
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,-0.213363876575228,0.278102849067091,0.442955407646363
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,-0.0476314686619446,0.195840565866077,0.807838430332457
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,-0.595409122668885,0.588225529878997,0.323526441133247
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_GONOCOCCAL","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,-0.574580537040305,0.582310235769578,0.335564816950079

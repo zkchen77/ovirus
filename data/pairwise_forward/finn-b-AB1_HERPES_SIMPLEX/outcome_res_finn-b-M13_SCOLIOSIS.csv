@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.0539032122653252,0.10093260758509,0.60782229469862
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.0249963317465455,0.0671281079740432,0.709619181600139
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.0219273747195807,0.0532220819915328,0.680341117993661
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.0313479700707214,0.0938934283586721,0.7461271118893
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HERPES_SIMPLEX","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.0288314480854553,0.0915629740829387,0.760029832582735
