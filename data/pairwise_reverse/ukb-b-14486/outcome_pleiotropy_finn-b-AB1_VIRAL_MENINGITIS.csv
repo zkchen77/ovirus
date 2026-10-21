@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS",0.000870528261553822,0.000730171023561868,0.278182604179919

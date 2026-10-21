@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA","MR Egger",7,-0.000218405233635875,0.000327026011182776,0.533812035119004
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA","Weighted median",7,-0.000102934969937042,0.000253551464304532,0.684762667092775
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",7,1.09776300071704e-05,0.00019100804865629,0.954169145626005
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA","Simple mode",7,-0.000174442782250075,0.00036735404022783,0.651675931263267
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA","Weighted mode",7,-0.000193366137152308,0.000322601701997522,0.570833453227945

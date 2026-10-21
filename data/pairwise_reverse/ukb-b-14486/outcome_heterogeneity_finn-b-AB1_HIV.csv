@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",11.2316660271776,7,0.12882823479516
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",11.4734225106313,8,0.176289575185663

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",22,0.00031133638677533,0.00270190702106303,0.909413154179608
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted median",22,0.000428241414203502,0.00228772958089617,0.851511214799143
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",22,0.00327019027349814,0.00154797713552543,0.0346386836004492
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Simple mode",22,0.00252869509216301,0.00414053968889469,0.547941039330757
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted mode",22,-0.000315046554173019,0.00241155023198563,0.897302956919696

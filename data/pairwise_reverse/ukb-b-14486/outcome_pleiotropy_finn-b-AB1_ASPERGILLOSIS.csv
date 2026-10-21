@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS",-0.000589305438344082,0.000929228309595917,0.590820431252234

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCARLET_FEVER","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER",4.83037364094725e-06,0.000829621082826102,0.995719966529356

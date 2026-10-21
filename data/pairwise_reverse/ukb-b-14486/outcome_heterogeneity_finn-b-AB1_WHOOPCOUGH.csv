@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_WHOOPCOUGH","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",0.00116687737366408,1,0.972749892742098

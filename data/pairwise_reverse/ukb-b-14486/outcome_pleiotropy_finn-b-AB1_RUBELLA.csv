@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA",-0.000285941658371564,0.000500886257170797,0.585938229019644

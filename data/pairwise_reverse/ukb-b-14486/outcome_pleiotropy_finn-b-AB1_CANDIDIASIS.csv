@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_CANDIDIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Candidiasis || id:finn-b-AB1_CANDIDIASIS",0.000416785924807561,0.000690433886772586,0.572408712510404

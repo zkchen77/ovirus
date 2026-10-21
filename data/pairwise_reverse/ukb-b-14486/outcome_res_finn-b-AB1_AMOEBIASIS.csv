@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_AMOEBIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",7,-0.000249156158012102,0.000317841530099009,0.468588591809528
+"finn-b-AB1_AMOEBIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted median",7,-7.85773343978326e-05,0.000294616067700138,0.789691714261513
+"finn-b-AB1_AMOEBIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",7,-0.00042511966362356,0.000215201204440975,0.0482168693389126
+"finn-b-AB1_AMOEBIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Simple mode",7,-5.97729626579978e-05,0.00045932689879701,0.900715465164521
+"finn-b-AB1_AMOEBIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted mode",7,-3.7925871314855e-05,0.000364394905589184,0.920498481631686

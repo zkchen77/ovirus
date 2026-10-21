@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",0.00106830276020554,0.000607994273123835,0.139243809279273

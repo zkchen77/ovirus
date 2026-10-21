@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",11.0682534933,8,0.197861775598363
+"finn-b-AB1_SYPHILIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",11.582665212035,9,0.237871707013016

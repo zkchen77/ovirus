@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TRICHOMONIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Inverse variance weighted",0.0098865221006781,1,0.920796076901395

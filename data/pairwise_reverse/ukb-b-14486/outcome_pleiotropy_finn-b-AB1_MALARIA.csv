@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MALARIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Malaria || id:finn-b-AB1_MALARIA",0.00045474330193617,0.000526238515032871,0.427013418430655

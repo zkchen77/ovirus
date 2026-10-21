@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",9,0.00017567370739798,0.000878608686177704,0.847207894960824
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted median",9,0.000130902775351273,0.000583887536929691,0.822608093795909
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",9,-9.36143362691408e-05,0.000509714924843155,0.854280047012076
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Simple mode",9,-0.00167455978125196,0.00138142561238932,0.260019274870284
+"finn-b-AB1_HIV","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted mode",9,0.000538264953503687,0.000596913457580077,0.393529472501228

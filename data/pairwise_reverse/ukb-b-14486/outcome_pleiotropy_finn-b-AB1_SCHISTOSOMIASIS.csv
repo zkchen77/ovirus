@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS",-0.000323763700752183,0.000877060011746246,0.72293150721447

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","MR Egger",10,-0.00442551914979467,0.00294418635808784,0.171209253551634
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted median",10,-0.00116962526683201,0.00140952709028811,0.40665199628073
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Inverse variance weighted",10,-0.000248753586523269,0.00107904706967647,0.817679331300129
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Simple mode",10,-0.00118843591176409,0.00246386352337878,0.641074207243039
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted mode",10,-0.00173152177086912,0.00209537130085656,0.429964211050336

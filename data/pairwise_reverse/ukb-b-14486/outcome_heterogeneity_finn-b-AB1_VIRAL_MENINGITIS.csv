@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",8.58507632817119,6,0.198292582917323
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",10.6188820830341,7,0.156128751705138

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CANDIDIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Candidiasis || id:finn-b-AB1_CANDIDIASIS","MR Egger",2.72755077069615,5,0.741901551910489
+"finn-b-AB1_CANDIDIASIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Inverse variance weighted",3.09195372645569,6,0.797220361236403

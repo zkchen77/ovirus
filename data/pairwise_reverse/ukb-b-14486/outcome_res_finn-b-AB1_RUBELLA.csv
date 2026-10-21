@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",9,0.000485823817065275,0.00108012157417009,0.66646238044599
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted median",9,0.000200414964721137,0.000786862502544989,0.798953750843086
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",9,-2.82446559733338e-05,0.000594778062720275,0.962124514811273
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Simple mode",9,-7.67810397940896e-06,0.00112047976493836,0.994700325265173
+"finn-b-AB1_RUBELLA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted mode",9,0.000179656233434226,0.000968367621708729,0.857434932347244

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",7.92643411310419,8,0.440689122080939
+"finn-b-AB1_VIRAL_WARTS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",8.95666538447247,9,0.441283958418777

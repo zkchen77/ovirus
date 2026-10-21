@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","MR Egger",1.59356536522903,3,0.660849708588636
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Inverse variance weighted",1.6161141889721,4,0.805893036607342

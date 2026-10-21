@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","MR Egger",4,-0.00021221916046378,0.000395236158155318,0.645047093315466
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Weighted median",4,-0.000436987531660575,0.000316962086872278,0.167995149683225
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Inverse variance weighted",4,-0.000400310182961673,0.000240180087819662,0.0955723909751556
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Simple mode",4,-0.000721876423764376,0.000462055614909247,0.216147244361095
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Weighted mode",4,-0.000479999558171153,0.000327535446265676,0.239033055888547

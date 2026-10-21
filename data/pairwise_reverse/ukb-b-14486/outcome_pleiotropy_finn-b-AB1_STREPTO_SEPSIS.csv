@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS",0.000937633622045436,0.000530984537543228,0.120768039953974

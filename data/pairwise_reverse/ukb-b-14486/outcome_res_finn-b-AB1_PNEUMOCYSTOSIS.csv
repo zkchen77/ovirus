@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",6,0.000150100629293477,0.000531653013924478,0.791698101747554
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted median",6,-8.02854936474103e-05,0.000374586224489105,0.830288833675157
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",6,-0.000186415795739018,0.00031293749620023,0.551377944407483
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Simple mode",6,5.8053782122119e-05,0.00047777960311426,0.908021352170521
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted mode",6,2.91727544734811e-05,0.000410890882719558,0.946151048295148

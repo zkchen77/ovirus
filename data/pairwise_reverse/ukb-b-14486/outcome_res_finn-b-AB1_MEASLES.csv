@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MEASLES","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Measles || id:finn-b-AB1_MEASLES","MR Egger",7,0.000285413263882141,0.000295429665861448,0.378367178343946
+"finn-b-AB1_MEASLES","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Measles || id:finn-b-AB1_MEASLES","Weighted median",7,0.000261540554188815,0.000263953032499114,0.321753849600024
+"finn-b-AB1_MEASLES","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Measles || id:finn-b-AB1_MEASLES","Inverse variance weighted",7,0.000254621653814472,0.000228075109531234,0.264253576980346
+"finn-b-AB1_MEASLES","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Measles || id:finn-b-AB1_MEASLES","Simple mode",7,-1.09238657607005e-07,0.000474740707012634,0.99982386505635
+"finn-b-AB1_MEASLES","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Measles || id:finn-b-AB1_MEASLES","Weighted mode",7,0.000287453082634903,0.000256957366697052,0.306053647386032

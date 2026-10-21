@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MUMPS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Mumps || id:finn-b-AB1_MUMPS","MR Egger",6,-0.00122894675557534,0.000858749391471843,0.22565217443175
+"finn-b-AB1_MUMPS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Mumps || id:finn-b-AB1_MUMPS","Weighted median",6,-0.0013345091484523,0.000704201996313468,0.0580836794128932
+"finn-b-AB1_MUMPS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Mumps || id:finn-b-AB1_MUMPS","Inverse variance weighted",6,-0.00096104908953186,0.00054496450031277,0.0778149006877048
+"finn-b-AB1_MUMPS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Mumps || id:finn-b-AB1_MUMPS","Simple mode",6,-0.00144752215592654,0.000947521175156927,0.187124449447911
+"finn-b-AB1_MUMPS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Mumps || id:finn-b-AB1_MUMPS","Weighted mode",6,-0.0013780541436021,0.000774057701131468,0.135142869838495

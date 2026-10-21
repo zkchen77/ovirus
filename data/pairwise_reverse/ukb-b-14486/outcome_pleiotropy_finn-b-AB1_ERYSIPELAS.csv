@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ERYSIPELAS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Erysipelas || id:finn-b-AB1_ERYSIPELAS",0.000461026112307449,0.00034796346495368,0.200134796694965

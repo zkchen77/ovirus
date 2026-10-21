@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Tularaemia || id:finn-b-AB1_TULARAEMIA",0.000374079323025964,0.000900622481693873,0.699194547927623

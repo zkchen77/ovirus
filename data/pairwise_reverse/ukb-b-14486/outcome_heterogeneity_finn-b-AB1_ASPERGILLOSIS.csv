@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","MR Egger",2.3661909393032,2,0.306329037235418
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-14486","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Inverse variance weighted",2.84202532689671,3,0.416628443354621
