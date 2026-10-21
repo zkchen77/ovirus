@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","MR Egger",6,0.151971733117351,0.146443786139706,0.357999117170132
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted median",6,-0.0664804128482702,0.104111912976895,0.523117274622829
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Inverse variance weighted",6,-0.00313781432943578,0.0825770701237548,0.969688785974051
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Simple mode",6,-0.0773061743788331,0.156445789982193,0.64214827829271
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted mode",6,-0.0817879043851524,0.156647620946718,0.62388819585007

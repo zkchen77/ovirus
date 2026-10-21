@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",11,-0.217630594285119,0.209123332586629,0.325172110560721
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted median",11,0.0904149627105402,0.116181840414401,0.436439678944243
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",11,0.119160851837235,0.128810938694488,0.354922564628359
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Simple mode",11,-0.0155471259523947,0.164116425364519,0.926398819215195
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted mode",11,0.027909770118921,0.139477088183702,0.845410851228186

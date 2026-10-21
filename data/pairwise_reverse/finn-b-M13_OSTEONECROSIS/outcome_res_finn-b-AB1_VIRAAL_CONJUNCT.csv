@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","MR Egger",5,-0.183424632207578,0.0817659715371305,0.110623782558476
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted median",5,-0.116678298282663,0.0703686469193469,0.0972971553570088
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",5,-0.0843578853078575,0.0562790876107001,0.133894224448468
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Simple mode",5,-0.148386202801111,0.102229933673904,0.220273302724373
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted mode",5,-0.143912292770632,0.0907631361336914,0.188016611409909

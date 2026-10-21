@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",8,0.129202753347289,0.120533620480808,0.324965089326096
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted median",8,0.0360472137776151,0.0857164723611125,0.674090942412598
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",8,0.0040390093583148,0.065204807880298,0.950607882894327
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Simple mode",8,-0.107430083495183,0.145029549611123,0.482949468956388
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted mode",8,0.117413046035887,0.129202978326093,0.393693789127851

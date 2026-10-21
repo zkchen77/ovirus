@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SYPHILIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",10,0.0599282013247607,0.0864906055464932,0.507992193928408
+"finn-b-AB1_SYPHILIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted median",10,0.02024393678838,0.0658091935701507,0.758374822673206
+"finn-b-AB1_SYPHILIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",10,0.0558804528303186,0.0530868913177435,0.29251407043482
+"finn-b-AB1_SYPHILIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Simple mode",10,-0.0407325529337298,0.113762070663488,0.728559582115411
+"finn-b-AB1_SYPHILIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted mode",10,-0.0450971095567541,0.111841916662308,0.696196170473257

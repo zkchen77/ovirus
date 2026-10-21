@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ZOSTER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","MR Egger",8,-0.162947414377646,0.352576287965815,0.660248974463039
+"finn-b-AB1_ZOSTER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted median",8,0.13549972047716,0.180595940497346,0.453078756092904
+"finn-b-AB1_ZOSTER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Inverse variance weighted",8,0.152391947464043,0.155744763518959,0.327840751562133
+"finn-b-AB1_ZOSTER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Simple mode",8,0.0720707551062332,0.288605750322205,0.809973330958484
+"finn-b-AB1_ZOSTER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted mode",8,0.0922759040086654,0.247092997971165,0.719869432024894

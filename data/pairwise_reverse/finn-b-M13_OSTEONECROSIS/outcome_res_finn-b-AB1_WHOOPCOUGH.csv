@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","MR Egger",3,-0.00992270528624548,0.0642783416850962,0.902494106955117
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Weighted median",3,-0.0311998878862079,0.0455913411324295,0.493761747313512
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",3,-0.0179454829801778,0.0375980777690177,0.633150017177244
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Simple mode",3,-0.0386021802336278,0.0571165510574353,0.56881126168943
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Weighted mode",3,-0.0384620337257441,0.0546922545010177,0.554743722694083

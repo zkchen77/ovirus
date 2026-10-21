@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",6,-0.0409362313943052,0.0364571087773275,0.324334911510204
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted median",6,-0.0516575360262725,0.0327740360757218,0.114986042723666
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",6,-0.0426866482801679,0.0256401760524472,0.0959457897319753
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Simple mode",6,-0.0512351261703705,0.0422521511835815,0.279444115803978
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted mode",6,-0.0531561238252514,0.0439997937357024,0.281026211689592

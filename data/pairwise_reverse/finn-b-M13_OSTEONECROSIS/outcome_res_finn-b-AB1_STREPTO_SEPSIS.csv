@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",9,-0.0190739604779589,0.217768638745773,0.932656981473314
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted median",9,-0.0818482078470608,0.125008658617586,0.512634967536687
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",9,-0.0722702264862945,0.0917965274323594,0.431113790070914
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Simple mode",9,-0.0611530943103147,0.179844653648199,0.742587472698098
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted mode",9,-0.0588230800283531,0.18078233247858,0.75323982858895

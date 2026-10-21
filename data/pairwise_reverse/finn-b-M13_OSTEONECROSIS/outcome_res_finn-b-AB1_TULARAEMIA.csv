@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",6,-0.000193933461696942,0.0954283083809841,0.998475819454494
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",6,-0.0278990336331374,0.0497640555982204,0.575052383484326
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",6,-0.0388222863165288,0.0405209390353972,0.338022605795792
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",6,-0.0186099869323863,0.0674480196270145,0.793653166141588
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",6,-0.0167035472166839,0.0657792367251456,0.809658746702562
