@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",2.21860954632516,5,0.81814343096164
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.27050113492303,6,0.774209981120014

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.341760863447952,0.222527297569805,0.163134316264865
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.176220407900518,0.158911121159349,0.267462828783807
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.150321169851475,0.117252716247045,0.199833109709517
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.30508197469296,0.296075844065159,0.32970839872802
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.349345822180235,0.279271825400739,0.242504881442087

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-8.44069863320863,174.661113107887,0.962806237479467
+"ukb-b-1557","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-25.700495532236,27.5984658013288,0.351735048149707
+"ukb-b-1557","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-12.1283021112093,22.7949301340793,0.594683480579508
+"ukb-b-1557","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-25.8970156513045,38.3635394765731,0.518678777613802
+"ukb-b-1557","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-27.5636575922351,37.4583560352997,0.482837691001815

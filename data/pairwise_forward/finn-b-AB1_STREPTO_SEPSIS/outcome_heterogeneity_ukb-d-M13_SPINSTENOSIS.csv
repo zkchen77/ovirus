@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",24.7279095108981,14,0.0373504986492675
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",25.422296677372,15,0.0445515948948658

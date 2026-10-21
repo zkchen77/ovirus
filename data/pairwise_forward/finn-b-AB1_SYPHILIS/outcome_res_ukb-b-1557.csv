@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-118.077347241843,307.292448318473,0.712198772940885
+"ukb-b-1557","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,126.524270543597,49.5701036372938,0.0106974087614722
+"ukb-b-1557","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,87.4114400030578,41.4020335029842,0.0347479310723698
+"ukb-b-1557","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,161.638636430691,77.6708735627498,0.0709968354776493
+"ukb-b-1557","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,158.926831952663,79.3182537304677,0.080060923943657

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",-0.0310366883183474,0.0352482064169109,0.383155979787905

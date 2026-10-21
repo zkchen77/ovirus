@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,0.40259696904302,0.690339904660492,0.575834531610252
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.285933677637989,0.210283810904778,0.173908649669216
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.246334426718758,0.173825104786854,0.156442138125277
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.372169511634074,0.31801812686578,0.271944103540456
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.368640774294089,0.334567192454374,0.299121983313411

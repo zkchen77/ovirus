@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.143738821973928,0.152839005585239,0.374507454472846
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.136811216124679,0.0910830800138422,0.133084548538573
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.108586563475078,0.0764386793580795,0.15544154350064
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.152212255792697,0.156618626407341,0.356510990254218
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.155468147146623,0.147887089124552,0.320544593177527

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,4.83691658079449,75.1769513884396,0.950498006266304
+"ukb-b-1557","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-19.4091181997103,12.5898572783952,0.123159349497035
+"ukb-b-1557","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-12.4607544908945,9.85473528372483,0.206070941912075
+"ukb-b-1557","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-31.0815792165813,22.7666271021312,0.20933450177657
+"ukb-b-1557","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-30.7287947567668,23.9932948750555,0.236170252004043

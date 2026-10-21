@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.0419351603045913,0.12104733081386,0.743117707611969

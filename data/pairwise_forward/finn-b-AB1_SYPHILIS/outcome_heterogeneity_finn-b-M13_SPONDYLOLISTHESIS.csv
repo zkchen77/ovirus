@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",2.54757925769798,8,0.959475293887539
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",2.60228467359755,9,0.978004957520017

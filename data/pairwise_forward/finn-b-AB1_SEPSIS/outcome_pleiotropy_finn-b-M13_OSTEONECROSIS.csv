@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.00874109008311582,0.0354631871486898,0.81510758250105

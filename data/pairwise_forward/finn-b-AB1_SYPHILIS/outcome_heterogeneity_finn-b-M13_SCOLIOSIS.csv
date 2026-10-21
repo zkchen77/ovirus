@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",8.56229439992715,8,0.380553292541279
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",9.65778198095828,9,0.378893168007749

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",43.635351847055,46,0.571820215554413
+"ukb-b-12141","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",43.7136377019469,47,0.609479807654947

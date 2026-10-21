@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",-0.000754458294183084,0.0300943698283493,0.980099118305222

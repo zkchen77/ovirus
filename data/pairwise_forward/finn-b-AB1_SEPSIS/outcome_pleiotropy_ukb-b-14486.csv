@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",-0.00195712196117853,0.00743038465563584,0.793329039397242

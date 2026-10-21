@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,-0.0827001546669679,0.134325425087451,0.545417439312707
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,-0.00349814211489317,0.0731770286234347,0.961872585470818
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,-0.00838028133936768,0.0528893826369337,0.874102832928129
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,-0.0156921606522438,0.146874232961304,0.915979733118855
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,-0.0156921606522438,0.132492846038836,0.906902266126835

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.0167521205694176,0.0585393177177463,0.786226737200092
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.0021950055542666,0.0321131682520694,0.945505275250437
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.00408271589313028,0.0257287785899905,0.873918751309454
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.0177635701189331,0.054129712344245,0.753935382844096
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SEPSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,0.0177635701189331,0.0479041859119066,0.723515398796426

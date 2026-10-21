@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",18.4456809094657,19,0.492876179215558
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_STREPTO_SEPSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",19.0403773845419,20,0.519202852612732

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",1.05650291912755,5,0.95788089961736
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SYPHILIS","Syphilis || id:finn-b-AB1_SYPHILIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",1.17652086247488,6,0.978028532514875
