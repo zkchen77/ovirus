@@ -1,0 +1,12 @@
+# ============================================================================
+# OVirus - R dependencies
+# ----------------------------------------------------------------------------
+# Required by scripts/01, 02, 03, 08, 09 (run in RStudio via scripts/.Rproj).
+#
+# Quick install:
+#   install.packages(c("TwoSampleMR", "ieugwasr", "igraph"))
+#   if (!requireNamespace("BiocManager", quietly = TRUE))
+#       install.packages("BiocManager")
+#   BiocManager::install(c("STRINGdb", "clusterProfiler",
+#                          "org.Hs.eg.db", "ReactomePA", "DOSE"))
+# ============================================================================

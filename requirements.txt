@@ -1,21 +1,32 @@
-# Drug Risk Prediction Pipeline
-# Required packages and versions for molecular fingerprint generation and machine learning
+# ============================================================================
+# OVirus - Python dependencies
+# ----------------------------------------------------------------------------
+#
+# Install:
+#     pip install -r requirements.txt
+# ============================================================================
 
-# Core scientific computing
-numpy==1.26.4
-pandas==2.2.3
-matplotlib==3.8.4
+# --- core scientific stack ---------------------------------------------------
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
 
-# Machine Learning
-scikit-learn==1.4.2
-xgboost==2.1.2
-catboost==1.2.8
+# --- plotting ----------------------------------------------------------------
+matplotlib==3.11.2
+seaborn==0.13.2
 
-# Cheminformatics (RDKit for molecular processing)
-rdkit==2024.3.6
+# --- machine learning --------------------------------------------------------
+scikit-learn==1.9.1
+xgboost==3.4.1
+catboost==1.2.10
+joblib==1.6.0
 
-# Optional but recommended (for development and visualization)
-# torch==2.5.1
-# tensorflow==2.20.0
-# jupyter==1.0.0
-# ipython==8.25.0
+# --- cheminformatics (molecular fingerprints & descriptors) ------------------
+# If pip fails, install via conda:  conda install -c conda-forge rdkit
+rdkit==2026.3.6
+
+# --- web API access (PubTator3 literature mining, scripts/07) ----------------
+requests==2.34.2
+
+# --- Excel I/O (pandas.read_excel, e.g. scripts/11, figure 1D/1E/1F code) ----
+openpyxl==3.1.5
