@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VARICELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","MR Egger",6,-0.166169948735614,0.14201052476602,0.306911789332195
+"finn-b-AB1_VARICELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted median",6,0.0428605269838256,0.0847936401166078,0.613229710632221
+"finn-b-AB1_VARICELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Inverse variance weighted",6,0.00779779784942007,0.0897559804301541,0.930768683611225
+"finn-b-AB1_VARICELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Simple mode",6,0.0220409397260112,0.139229864528208,0.880410676219071
+"finn-b-AB1_VARICELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Weighted mode",6,0.00824033772369914,0.124901466116078,0.94995467765423

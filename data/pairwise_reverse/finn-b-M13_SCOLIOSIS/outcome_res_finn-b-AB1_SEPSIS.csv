@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Septicaemia || id:finn-b-AB1_SEPSIS","MR Egger",5,-0.0916672055212798,0.419703287298556,0.841123982854273
+"finn-b-AB1_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted median",5,-0.278289789361785,0.269288595257331,0.301404665004829
+"finn-b-AB1_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Inverse variance weighted",5,-0.182889281228068,0.213733047585382,0.392169144229339
+"finn-b-AB1_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Simple mode",5,-0.332018608999358,0.315964945048328,0.352637861483425
+"finn-b-AB1_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Septicaemia || id:finn-b-AB1_SEPSIS","Weighted mode",5,-0.323701847998285,0.353404660564922,0.411516493257143

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","MR Egger",3,0.000162014600005202,0.0596367016024695,0.998270503879957
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Weighted median",3,0.000947888241926556,0.0341262881601293,0.977840890489366
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",3,0.00905779130716359,0.0273217703489517,0.74024958041793
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Simple mode",3,-0.0019889003838451,0.0408703986006865,0.965609998525932
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Weighted mode",3,-0.011704214238012,0.0452943279581857,0.820256945639448

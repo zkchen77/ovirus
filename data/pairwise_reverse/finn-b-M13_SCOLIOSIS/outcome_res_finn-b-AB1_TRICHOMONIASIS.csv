@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TRICHOMONIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Inverse variance weighted",2,-0.0919883732862758,0.0993633128523739,0.354561340349318

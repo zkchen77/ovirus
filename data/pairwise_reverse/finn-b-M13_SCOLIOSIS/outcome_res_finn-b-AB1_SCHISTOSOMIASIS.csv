@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","MR Egger",10,-0.16818853433199,0.0628170028578776,0.0280371772496025
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Weighted median",10,-0.0809711782582194,0.0368330263603507,0.0279255372918746
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Inverse variance weighted",10,-0.0699385841325113,0.0350479303034297,0.0459870087468817
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Simple mode",10,-0.132383814510517,0.0600653769414392,0.0549811425888702
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Weighted mode",10,-0.120882006132662,0.065716297600467,0.0989977306749489

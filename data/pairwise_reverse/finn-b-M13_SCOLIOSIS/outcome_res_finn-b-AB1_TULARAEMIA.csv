@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",6,-0.00112361472569116,0.0684636591273338,0.987691809490916
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",6,0.00205392074014153,0.0361438144382589,0.954683530405019
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",6,-0.00747027361913048,0.029151744629823,0.797754119610003
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",6,0.0110504714178754,0.0513445204150411,0.838097667242576
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",6,0.00895334976408269,0.048937568596503,0.86202093589592
