@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48.6074662807267,46,0.368386788104873
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",51.2648674357117,47,0.310098315855034

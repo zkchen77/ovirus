@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",41.1035835589636,46,0.677099731771951
+"ukb-b-12141","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",41.1950830503349,47,0.710813253999639

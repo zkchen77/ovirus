@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",-0.0107469761155119,0.0555750021859986,0.849440517483646

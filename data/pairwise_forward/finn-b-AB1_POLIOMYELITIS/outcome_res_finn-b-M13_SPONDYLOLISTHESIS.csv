@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,-0.0835512610143025,0.864500483249614,0.925384160981994
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.0222266122859152,0.301493378870585,0.941231810931811
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.0583158329356026,0.215607027634618,0.786796552408969
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.0401912313288029,0.495869155742061,0.937174343392973
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.0470617265826632,0.475397326610275,0.923312498883646

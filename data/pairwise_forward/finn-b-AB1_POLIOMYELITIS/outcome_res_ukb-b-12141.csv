@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,51.9729474711325,37.7150568954322,0.174856966794982
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,8.28627262859905,13.4018064383441,0.536380763610781
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-5.85878089747088,9.77257883105736,0.548831331775958
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,8.69344618082056,28.4187866371922,0.761027962275345
+"ukb-b-12141","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,10.9119465681824,26.2522499933928,0.67955229656133

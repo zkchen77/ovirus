@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",9.4402767399492,14,0.801855308727752
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",9.47767174450453,15,0.851247884454372

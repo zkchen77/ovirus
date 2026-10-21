@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-5.26592921800407,4.97756373982445,0.295170483680686
+"ukb-b-14486","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,-0.627041329487186,3.25784648854377,0.84737319579036
+"ukb-b-14486","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,-1.88841297025846,2.24189463589872,0.399603796910893
+"ukb-b-14486","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,4.04840980961842,7.08444754222218,0.570204409035473
+"ukb-b-14486","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-6.85582306248399,4.9042481753784,0.168183186190546

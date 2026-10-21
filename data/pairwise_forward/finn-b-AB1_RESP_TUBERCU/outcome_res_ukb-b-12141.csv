@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-53.7694061473291,19.2228188174858,0.00750214778199067
+"ukb-b-12141","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,2.69850115005241,7.34078440490876,0.713168588724727
+"ukb-b-12141","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-4.50220369808286,4.89567475951417,0.357766750606737
+"ukb-b-12141","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,10.5890003799812,15.6709966207979,0.502538070955726
+"ukb-b-12141","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,8.8897430104291,13.2865853613435,0.506720029331713

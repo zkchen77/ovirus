@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",5.28227439881672,8,0.727024073302642
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",5.78431142080505,9,0.761296184594484

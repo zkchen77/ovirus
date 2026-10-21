@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",6.06693781180002,8,0.639733918631725
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",9.24421904023468,9,0.415043032109531

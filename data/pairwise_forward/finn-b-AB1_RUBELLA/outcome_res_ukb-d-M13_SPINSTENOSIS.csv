@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-84.4600257722086,63.3304769805644,0.203614574759242
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,33.8816353938235,27.8658015845356,0.224028387901658
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,2.90644055710457,20.9036670744251,0.889418741428909
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,39.349270807864,47.7179048047874,0.422505819673526
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,41.5468606994133,44.6519875762897,0.366867065679255

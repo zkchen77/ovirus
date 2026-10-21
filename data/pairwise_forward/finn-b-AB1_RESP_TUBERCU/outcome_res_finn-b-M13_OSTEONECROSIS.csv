@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.0645455885376727,0.129817373390976,0.640134706898026
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.0114992897726302,0.0885581159743592,0.896684938967152
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.0518725219213392,0.062075364109877,0.403358685749673
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.0235795830102359,0.121122065519192,0.85207093716946
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.0286038225186586,0.125061278548611,0.826684018082273

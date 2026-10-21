@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-14486","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",53.0439636680232,50,0.357619594717291
+"ukb-b-14486","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",54.9695522208574,51,0.326737197481455

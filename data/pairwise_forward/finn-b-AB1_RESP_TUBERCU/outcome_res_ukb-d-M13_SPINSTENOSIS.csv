@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,21.5793381168314,50.7424861158691,0.677102992496223
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,3.31338202844286,22.0782554579191,0.880705878199924
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,12.3206915015495,16.8061674512869,0.463494168995026
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,65.809559877943,42.2412245720934,0.140090897650206
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_RESP_TUBERCU","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-5.63951479696729,40.1053517976443,0.890043057300573

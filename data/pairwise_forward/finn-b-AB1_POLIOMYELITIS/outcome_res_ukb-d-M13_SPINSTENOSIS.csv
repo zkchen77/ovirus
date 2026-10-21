@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-66.6195227794956,97.8686139315948,0.507161646744552
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-23.0713368683045,43.3436939507275,0.594526403087091
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-2.46790908486769,32.1953980570772,0.938898724324061
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-42.7352719612429,73.3070908778935,0.568580041888123
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-38.6468874260322,74.0766750181659,0.609486972949792

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",4.07691663573857,5,0.538395881683354
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",4.08029523638947,6,0.665811082593021

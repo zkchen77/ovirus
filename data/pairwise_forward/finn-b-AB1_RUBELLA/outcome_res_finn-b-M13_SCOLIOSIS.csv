@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.32083834900381,0.17518455008639,0.104407964342799
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.182947617240509,0.118072596554193,0.121273516041548
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.122126081121203,0.0917830609497106,0.18332231169475
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.243743553913817,0.176302632584526,0.200147932781166
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_RUBELLA","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.243743553913817,0.172510363781243,0.191315151021571

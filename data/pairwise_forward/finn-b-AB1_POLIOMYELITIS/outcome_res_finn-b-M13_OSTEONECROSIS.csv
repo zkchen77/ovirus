@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,0.195737855658986,0.246940467040679,0.463913136630516
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.162619917545413,0.161806156666922,0.314882773694809
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.100707965847213,0.117969178461149,0.39328214210475
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.117113179127907,0.249827404198346,0.655777181150476
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_POLIOMYELITIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.222170388306619,0.235405102192632,0.38171699070705
