@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS",0.000114757333934052,0.000430407394319221,0.814731595448828

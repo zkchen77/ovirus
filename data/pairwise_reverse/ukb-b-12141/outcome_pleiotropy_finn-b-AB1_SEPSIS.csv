@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SEPSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Septicaemia || id:finn-b-AB1_SEPSIS",0.00109170062766683,0.000904415688233472,0.440443715747639

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VARICELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",0.00292392777050366,0.00214858410793485,0.403438766580953

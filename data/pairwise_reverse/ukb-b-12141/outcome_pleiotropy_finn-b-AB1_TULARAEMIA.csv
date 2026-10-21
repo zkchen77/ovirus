@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA",0.000456160312392827,0.00089782888218597,0.661897081558553

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_POLIOMYELITIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",-4.78058532017343e-05,0.000430291533313791,0.929559734441092

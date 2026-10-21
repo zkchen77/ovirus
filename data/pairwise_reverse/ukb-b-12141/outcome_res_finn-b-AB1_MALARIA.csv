@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","MR Egger",6,0.000304238800551135,0.000275105253027096,0.330805461707519
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","Weighted median",6,0.000201155427175302,0.000138820941220486,0.147329770619918
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",6,0.000145559849618856,0.000107702949982865,0.176537362677096
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","Simple mode",6,0.000190624048855266,0.000190302135203358,0.362474878775345
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","Weighted mode",6,0.000201846928096982,0.000167325563596553,0.281656001144871

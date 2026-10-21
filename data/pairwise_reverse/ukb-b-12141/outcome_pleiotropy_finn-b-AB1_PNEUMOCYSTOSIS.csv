@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",0.000118035835993159,0.00155687183081905,0.951826179567325

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",2.51866779554672,2,0.283843032019927
+"finn-b-AB1_TULARAEMIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",2.84374666756454,3,0.416348975559174

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",3.04467260883991,1,0.0810024470537437
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",3.0621735997429,2,0.216300464213105

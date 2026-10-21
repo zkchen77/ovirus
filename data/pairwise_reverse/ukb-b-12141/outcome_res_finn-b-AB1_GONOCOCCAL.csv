@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","MR Egger",4,0.00397443392135443,0.0089439278450373,0.700231608707133
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Weighted median",4,0.000977155015844449,0.000658726642957511,0.137968202229583
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Inverse variance weighted",4,0.00185332782159417,0.00081325772265293,0.0226733907970884
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Simple mode",4,0.000618964492071726,0.00130940983901637,0.66868669107648
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Weighted mode",4,0.000542491119279606,0.000873887131800149,0.57871477205365

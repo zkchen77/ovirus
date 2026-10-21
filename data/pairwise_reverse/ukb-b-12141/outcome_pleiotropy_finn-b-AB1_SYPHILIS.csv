@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS",-0.000537841814364189,0.000544628488583982,0.396187015250956

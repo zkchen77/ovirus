@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HIV","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",8.61546551481375,5,0.125420434408886
+"finn-b-AB1_HIV","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",8.79669843432145,6,0.185338560790673

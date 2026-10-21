@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","MR Egger",10.4826622253715,6,0.105742948589068
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Inverse variance weighted",12.2923689420047,7,0.0913448961650568

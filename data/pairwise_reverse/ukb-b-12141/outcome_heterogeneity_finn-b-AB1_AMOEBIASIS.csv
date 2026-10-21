@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",2.23982587158937,2,0.326308203150734
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",6.92606614399385,3,0.0742920051379064

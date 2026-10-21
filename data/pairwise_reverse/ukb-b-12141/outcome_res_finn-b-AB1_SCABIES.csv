@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCABIES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scabies || id:finn-b-AB1_SCABIES","MR Egger",6,0.000659662699951777,0.000686012585672608,0.390709686583301
+"finn-b-AB1_SCABIES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scabies || id:finn-b-AB1_SCABIES","Weighted median",6,0.000343239319500511,0.000415695168384254,0.408974539386788
+"finn-b-AB1_SCABIES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scabies || id:finn-b-AB1_SCABIES","Inverse variance weighted",6,0.000243656594587843,0.000313772808512701,0.43743123229497
+"finn-b-AB1_SCABIES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scabies || id:finn-b-AB1_SCABIES","Simple mode",6,-0.000220736323138618,0.00069327050496714,0.763052375164442
+"finn-b-AB1_SCABIES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scabies || id:finn-b-AB1_SCABIES","Weighted mode",6,0.000296056163441474,0.000481763245117924,0.565751848366818

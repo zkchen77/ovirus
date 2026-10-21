@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCARLET_FEVER","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",0.112361548181148,1,0.737471399986547

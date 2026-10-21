@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",-0.000739448556828343,0.00309912735201787,0.833636195609353

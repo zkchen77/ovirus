@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Viral warts || id:finn-b-AB1_VIRAL_WARTS",-0.000521306737569738,0.000673536568636964,0.473927933863353

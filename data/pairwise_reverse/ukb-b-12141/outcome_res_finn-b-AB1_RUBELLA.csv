@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RUBELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",6,0.000667725620698017,0.00222784600729563,0.779321472212125
+"finn-b-AB1_RUBELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted median",6,0.000182033688932155,0.000515045082419941,0.723764198524361
+"finn-b-AB1_RUBELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",6,0.000512801630880023,0.000471682145055774,0.27695891992179
+"finn-b-AB1_RUBELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Simple mode",6,-0.000391553100036964,0.000904850199474815,0.683242266876818
+"finn-b-AB1_RUBELLA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted mode",6,-0.000340343508461057,0.000914157339971405,0.724926057047485

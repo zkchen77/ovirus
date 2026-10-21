@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",8,-0.000323177495438761,0.000478520366408237,0.524600995308632
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted median",8,3.34011468088947e-05,0.000249945061310225,0.893692033631491
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",8,-8.83392973233958e-05,0.000187124996148541,0.636864617693934
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","Simple mode",8,4.57353648135332e-05,0.000333520017385778,0.894789461662338
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted mode",8,4.57353648135332e-05,0.000298482668381631,0.882543424212081

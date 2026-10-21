@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",4.16838701541401,3,0.243846064196669
+"finn-b-AB1_SYPHILIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",5.52343662896921,4,0.237677049194045

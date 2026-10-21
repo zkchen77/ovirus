@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",4,-0.00295707000342602,0.00143758956032228,0.175967576086924
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted median",4,5.1808962118497e-06,0.000233465093939801,0.982295349712293
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",4,-4.0617818947205e-05,0.000264675489732613,0.878033391992983
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Simple mode",4,5.55800798757613e-05,0.000357625248671229,0.88636293782043
+"finn-b-AB1_AMOEBIASIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted mode",4,5.55800798757613e-05,0.000286793142809157,0.858713496742115

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","MR Egger",4.59963928453276,4,0.330895776058141
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",5.06282589857852,5,0.408261086477888

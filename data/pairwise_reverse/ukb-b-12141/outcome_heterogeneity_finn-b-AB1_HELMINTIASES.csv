@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",4.81674043292893,6,0.567523412919587
+"finn-b-AB1_HELMINTIASES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",5.10106338574805,7,0.647631378671338

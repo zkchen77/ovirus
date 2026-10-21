@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS",-0.000137305453128114,0.000478485772773814,0.783796355757804

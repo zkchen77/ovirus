@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",3,-0.000147518495221011,0.00194077257803001,0.951703278578306
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted median",3,2.38549813253944e-05,0.00031010733541834,0.938683274638303
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",3,-3.46430994554042e-06,0.000280455040764055,0.990144412735861
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Simple mode",3,0.00013759447003286,0.00039946108361191,0.763355013570725
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted mode",3,0.000143364713668995,0.000427777323752641,0.769407662608277

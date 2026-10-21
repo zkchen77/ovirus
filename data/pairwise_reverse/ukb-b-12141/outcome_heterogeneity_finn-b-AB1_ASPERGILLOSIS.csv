@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ASPERGILLOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS","Inverse variance weighted",1.09522286544363,1,0.29531688112349

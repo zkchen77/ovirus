@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MEASLES","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Measles || id:finn-b-AB1_MEASLES",0.000555207233081007,0.00047754587784921,0.329060826472786

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MALARIA","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Malaria || id:finn-b-AB1_MALARIA",-0.000231699045755799,0.000365071673636615,0.560131964972376

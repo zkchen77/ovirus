@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","MR Egger",8,0.000866445001866857,0.00231439793902004,0.721002058665886
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted median",8,-0.000518062611338125,0.000712567848865441,0.467203788576428
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Inverse variance weighted",8,0.000222937391278065,0.00055185161361483,0.686226924793017
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Simple mode",8,-0.000692478255957409,0.00110809191352068,0.551836296402207
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted mode",8,-0.000718557461413047,0.00110605061736407,0.536639263559807

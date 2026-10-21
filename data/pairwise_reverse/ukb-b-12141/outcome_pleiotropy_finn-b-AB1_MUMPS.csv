@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MUMPS","ukb-b-12141","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Mumps || id:finn-b-AB1_MUMPS",-0.000646621346822975,0.00332218211889427,0.877619990772316
