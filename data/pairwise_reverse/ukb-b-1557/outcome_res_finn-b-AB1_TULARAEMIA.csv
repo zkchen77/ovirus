@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",3,-0.00115729406561767,0.00280525156050118,0.750906910306731
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",3,-6.48384643575136e-06,0.000205845275085524,0.974871875878133
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",3,2.71385268791492e-05,0.000169732636964187,0.872967839471622
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",3,-6.79931053971392e-05,0.000246065760104172,0.808237769575936
+"finn-b-AB1_TULARAEMIA","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",3,-6.06640935680939e-05,0.000259672664454528,0.837016270883051

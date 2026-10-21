@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",5,-0.000486022201011194,0.00083639492306228,0.601956375955965
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted median",5,8.0210656158585e-05,0.000301412113857294,0.790149693918851
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",5,7.41045566317874e-05,0.00025352218405534,0.77005719176926
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Simple mode",5,6.12785227325297e-05,0.000445494234918591,0.897240807302564
+"finn-b-AB1_VIRAL_WARTS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted mode",5,9.94328938293417e-05,0.000372187365278594,0.802555979109754

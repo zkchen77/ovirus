@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SEPSIS","ukb-b-1557","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Septicaemia || id:finn-b-AB1_SEPSIS","Inverse variance weighted",2,-0.000941723027797415,0.00124629735637469,0.449879072966124
