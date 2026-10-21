@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",-0.0029204315386116,0.0563646312613656,0.960683837775792

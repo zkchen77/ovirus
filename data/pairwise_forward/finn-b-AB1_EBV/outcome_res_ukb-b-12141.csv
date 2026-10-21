@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-11.4186872672162,18.2183410560031,0.533909271195988
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-1.81719080753111,6.18474014136873,0.768896630356895
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-4.31104914894589,4.5907743929684,0.347695852557843
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,8.25644030451608,14.4644857483495,0.570849237749821
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,9.49658937967332,12.9656589072653,0.467536080972042

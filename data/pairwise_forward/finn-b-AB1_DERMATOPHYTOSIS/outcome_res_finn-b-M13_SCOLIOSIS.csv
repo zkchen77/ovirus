@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.0198735916904555,0.0996799111191653,0.846944357600622
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.0857650152515797,0.0677488820158735,0.205539872663436
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.0221590051936913,0.0524875873664325,0.672896481357994
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.114189613046635,0.11367593617263,0.341370289355752
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.114189613046635,0.109611079627576,0.32469304858271

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0133313799618633,0.0330480602930502,0.688527629372358

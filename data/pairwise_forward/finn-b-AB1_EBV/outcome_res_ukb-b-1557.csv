@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,273.779682086695,136.973463543863,0.0857736424101567
+"ukb-b-1557","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,15.3253285713479,24.6970574142519,0.534907216162139
+"ukb-b-1557","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,15.8792463255422,19.0974403623938,0.40569936958729
+"ukb-b-1557","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,6.00197017323708,39.2973800225692,0.88239149039725
+"ukb-b-1557","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,6.00197017323708,37.5381227621231,0.876931028132694

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",6.13739470453608,14,0.962908640955613
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",6.95909481933089,15,0.958774895881611

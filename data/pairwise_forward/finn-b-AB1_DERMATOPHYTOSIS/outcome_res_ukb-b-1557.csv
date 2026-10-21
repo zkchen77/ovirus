@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,5.42024055844625,117.067295399865,0.964364178935412
+"ukb-b-1557","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-12.7739615633048,22.2592415349636,0.566054236257205
+"ukb-b-1557","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-4.25902872019147,16.3447879962568,0.794420950945965
+"ukb-b-1557","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-20.1464602066907,34.8903527379263,0.579537779897652
+"ukb-b-1557","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-19.7096228682976,33.1807233022013,0.568918722213723

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",58.7401264862354,46,0.0984590880544662
+"ukb-b-12141","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",58.9479215900312,47,0.11341201405717

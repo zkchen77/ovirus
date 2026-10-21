@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0131283153224108,0.011301383737137,0.251367680927796

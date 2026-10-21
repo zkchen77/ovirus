@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS",0.019839707909785,0.0215500142367576,0.384162023381061

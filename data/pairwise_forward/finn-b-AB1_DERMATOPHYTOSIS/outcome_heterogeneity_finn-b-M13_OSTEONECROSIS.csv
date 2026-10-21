@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",3.09311677803029,5,0.685632464805003
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.09580138503719,6,0.796730293892055

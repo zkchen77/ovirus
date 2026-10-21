@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",50.4291728457581,46,0.302658444790381
+"ukb-b-12141","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",50.6535668407727,47,0.331458375591273

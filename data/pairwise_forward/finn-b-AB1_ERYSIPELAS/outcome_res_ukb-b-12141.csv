@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-4.10733572218036,6.22800009247862,0.512866255503817
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,2.71458389374597,2.30282508671707,0.238475458044096
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,2.88905348819148,1.59149882808367,0.0694772722349435
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,1.844261145638,4.8496277424196,0.705444008406205
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,2.01026267491007,4.34984825921437,0.646109264542359

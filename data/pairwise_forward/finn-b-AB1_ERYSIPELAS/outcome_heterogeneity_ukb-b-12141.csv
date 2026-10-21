@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",49.9958043798985,46,0.317680841220229
+"ukb-b-12141","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",51.4624678789167,47,0.303359381933098

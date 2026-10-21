@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-4.85191094668017,15.746488261123,0.762522818612232
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,2.04942407117341,7.28605314826356,0.778495328842818
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,5.38628118749728,5.21863196739769,0.302013503739571
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,0.849479789032678,12.0723869669679,0.944832291044271
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,1.08181804090756,12.9126692466508,0.93433956297447

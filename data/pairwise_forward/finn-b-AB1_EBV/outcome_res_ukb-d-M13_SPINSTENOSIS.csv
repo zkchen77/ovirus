@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,68.8767409106829,47.7994109434955,0.171588514627166
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,12.9726520036666,20.7547062176807,0.531940681117413
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,4.02136491496056,16.4452415866263,0.806819899994293
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,7.30081204092582,33.4660036820223,0.83024762604638
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_EBV","Infectious mononucleosis || id:finn-b-AB1_EBV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,5.10243619405759,30.5074204315736,0.869405472308349

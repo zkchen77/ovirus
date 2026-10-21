@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",7.96527491330048,8,0.436869525551428
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",8.81284461818587,9,0.454726736917793

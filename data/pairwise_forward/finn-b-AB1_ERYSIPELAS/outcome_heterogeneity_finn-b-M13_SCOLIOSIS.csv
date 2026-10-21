@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",9.53898963525559,8,0.2988837427197
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",9.55937006018546,9,0.387318672117547

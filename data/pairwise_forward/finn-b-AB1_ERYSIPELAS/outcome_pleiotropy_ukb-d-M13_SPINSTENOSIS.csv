@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.0118897332177586,0.0172531138157805,0.50200034617642

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.00964831989299261,0.0933994904713131,0.921738975003648
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.03597608842364,0.0576714398037069,0.532751602108066
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.0138987576576016,0.0446531727919441,0.755602784436119
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.050332181499544,0.0773736334774552,0.539459476087123
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.0484365532975196,0.0748539363439995,0.541528708940612

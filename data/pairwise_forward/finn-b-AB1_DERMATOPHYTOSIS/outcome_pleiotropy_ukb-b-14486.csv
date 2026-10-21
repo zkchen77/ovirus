@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_DERMATOPHYTOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",0.0142950750955623,0.015388306748212,0.357374576731343

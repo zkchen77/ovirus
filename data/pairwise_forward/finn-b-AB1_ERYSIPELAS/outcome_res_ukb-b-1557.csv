@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,67.2219055024407,50.8145913113359,0.227449592450994
+"ukb-b-1557","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-6.09367191325591,9.39592375602409,0.516633028695695
+"ukb-b-1557","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-3.76030254717817,7.09189294549697,0.595955586715022
+"ukb-b-1557","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-4.91447003035205,14.7288702399679,0.7472118237738
+"ukb-b-1557","finn-b-AB1_ERYSIPELAS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-3.75910503402353,14.641285948252,0.803853746792291
