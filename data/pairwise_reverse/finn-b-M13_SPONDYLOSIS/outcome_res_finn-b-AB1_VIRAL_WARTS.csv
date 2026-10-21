@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",11,0.036164200115254,0.0486164067611844,0.475927215410944
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted median",11,-0.000247907742565081,0.0325348386040812,0.993920367989758
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",11,0.000479561933766569,0.0261308757568932,0.985357797094144
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Simple mode",11,-0.0567853979986076,0.0474661561864377,0.259160300443643
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted mode",11,-0.00403330107605929,0.0373587074912179,0.916161699212151

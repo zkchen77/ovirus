@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",6,0.00462468373896114,0.00979185737880411,0.661327807107853
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted median",6,-0.00264637333237998,0.0088759582411433,0.765588132573945
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",6,-0.00551180637704104,0.00697716924647878,0.429540937188147
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Simple mode",6,-0.00371291115856742,0.012967530429922,0.786114668817879
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted mode",6,0.000801157169273599,0.0105543453978449,0.94243610177197

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",8,0.000926436366283185,0.0347367826136805,0.979587716589313
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted median",8,0.0104678001924727,0.0248767371533335,0.673910842670715
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",8,0.0227315797625578,0.0182332058758867,0.212502650504276
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Simple mode",8,0.00667276099946781,0.0383428392277238,0.866768770482038
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted mode",8,0.00423739509356763,0.0352833232493617,0.907781196629074

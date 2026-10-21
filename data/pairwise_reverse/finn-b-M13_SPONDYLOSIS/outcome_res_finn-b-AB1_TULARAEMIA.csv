@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",6,-0.00468468786816687,0.0265058761109418,0.86829952413304
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",6,-0.0187498306433792,0.0135978832403417,0.167932177342848
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",6,-0.0146935436761122,0.0111736029673059,0.188502209393055
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",6,-0.0234263805470017,0.0189984263403918,0.272356507072474
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",6,-0.0221183702962431,0.0189742520796731,0.296312204592714
