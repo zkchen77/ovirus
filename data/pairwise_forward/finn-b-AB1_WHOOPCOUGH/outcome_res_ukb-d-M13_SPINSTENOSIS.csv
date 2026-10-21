@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-8.97955367829073,162.159647424116,0.956622393937336
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-12.5150046103481,73.4058125597706,0.864624287867805
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-2.59365801572677,53.9835464021628,0.961680105637565
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-111.644564799993,131.360600323567,0.408736945156808
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-96.2834224444388,127.376806950173,0.461419058570509

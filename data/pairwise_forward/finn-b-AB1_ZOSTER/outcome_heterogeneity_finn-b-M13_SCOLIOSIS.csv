@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10.933953201089,8,0.205469661495912
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",16.7422632583438,9,0.052908448900171

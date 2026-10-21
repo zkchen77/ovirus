@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,8.2061300517981,61.9907354192477,0.895263687932278
+"ukb-b-12141","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-13.1410214074144,22.484021961255,0.558910572271479
+"ukb-b-12141","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-11.2177777918323,15.7642055389502,0.476713719992958
+"ukb-b-12141","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-24.0261619771537,49.9514390569639,0.632755004447084
+"ukb-b-12141","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-28.8692912942038,41.9539743288028,0.49476077526632

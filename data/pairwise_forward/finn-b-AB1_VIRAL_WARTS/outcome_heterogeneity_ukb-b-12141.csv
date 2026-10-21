@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",43.4960782583606,46,0.577714349688254
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",43.8665345012454,47,0.603126830185709

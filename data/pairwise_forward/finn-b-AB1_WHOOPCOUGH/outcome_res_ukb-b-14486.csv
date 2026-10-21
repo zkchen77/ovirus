@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,0.451719719821606,15.4352196673372,0.976769329759421
+"ukb-b-14486","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,5.89060395339716,12.0782352209404,0.62575949912739
+"ukb-b-14486","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,4.02069147864428,6.97607833316955,0.564375849910301
+"ukb-b-14486","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,9.52730127097169,20.3336798410575,0.641389445059774
+"ukb-b-14486","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,7.74337811568299,14.2032035662385,0.588002528177915

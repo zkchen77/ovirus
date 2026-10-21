@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,0.151214984970454,0.225987861191449,0.511462765135657
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,-0.00558430043612398,0.113446020863377,0.960740549850797
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,-0.0233243304500121,0.0889306610312621,0.793109076418866
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,0.0571590222713523,0.213398050647139,0.79155648938913
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,0.0571590222713523,0.199085046588267,0.776982710539225

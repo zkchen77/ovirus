@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.19452734026438,0.150223855825336,0.231468384634912

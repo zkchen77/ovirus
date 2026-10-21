@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.0214865980202514,0.0440254523252343,0.638609514463909

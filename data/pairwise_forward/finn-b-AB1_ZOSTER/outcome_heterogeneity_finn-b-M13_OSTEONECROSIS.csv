@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",3.67410699902677,5,0.597221903208844
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",4.29248536207206,6,0.63716079868272

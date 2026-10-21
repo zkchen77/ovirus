@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,1.26188263262193,1.13611230250106,0.280555414209101
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,0.109885420604295,0.635569778135848,0.862735713374981
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,0.519688521799619,0.446569621506684,0.244531581237062
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,-0.590676530097916,1.1732910404311,0.620157811927538
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_WHOOPCOUGH","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,-0.57071664727644,1.10906835104378,0.612478859082373

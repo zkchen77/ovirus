@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-2.34378699598333,14.3463471133599,0.870941451243085
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,2.82503977541041,5.27990593144624,0.592611864128176
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,6.10028754088255,3.65319521654137,0.0949490715877105
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,1.57533914673655,10.0759951652287,0.876430127571671
+"ukb-b-12141","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,0.334930298467157,8.31384994687742,0.968035901855389

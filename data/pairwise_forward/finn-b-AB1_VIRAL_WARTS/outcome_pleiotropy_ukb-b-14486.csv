@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",0.00391742671231215,0.0164850962004764,0.813135711446091

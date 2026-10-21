@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.0537729060738016,0.132879337553734,0.696320759034181
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.0596350285492833,0.0741758535919615,0.421415332413952
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.00135618970778363,0.0669541906881254,0.983839565094945
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.0732612389275917,0.131483248410684,0.590982679511899
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.0704264679883549,0.119495318367795,0.570112309196826

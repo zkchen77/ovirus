@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",8.47802528521693,19,0.981180997475204
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",9.1838331217188,20,0.980678548088612

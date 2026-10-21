@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.0559854575044788,0.0586278944037375,0.383468346965678

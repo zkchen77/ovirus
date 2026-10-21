@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",36.9317491526886,46,0.82768744406461
+"ukb-b-12141","finn-b-AB1_ZOSTER","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",36.9899016240571,47,0.852299343924203

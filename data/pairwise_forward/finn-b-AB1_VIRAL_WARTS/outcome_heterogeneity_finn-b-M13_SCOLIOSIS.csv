@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",13.1447950320471,8,0.106963828193357
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAL_WARTS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",13.5361686040794,9,0.139807582438413
