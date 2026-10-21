@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",6,0.0150590373809447,0.019406786838091,0.481092854716898
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted median",6,0.0125604015584844,0.015686553585171,0.423298768047056
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",6,0.00339883690500913,0.0137842849023223,0.805238453931605
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Simple mode",6,0.0124467148058813,0.0253066722972623,0.643666032310487
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Weighted mode",6,0.01942015769118,0.0155079420982598,0.26585438711141
