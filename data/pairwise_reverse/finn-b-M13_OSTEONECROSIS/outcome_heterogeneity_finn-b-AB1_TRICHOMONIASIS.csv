@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TRICHOMONIASIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Inverse variance weighted",1.12924159468532,1,0.287937165917278

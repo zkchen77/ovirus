@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS",-0.0321642558943827,0.069867020920182,0.657509831895511

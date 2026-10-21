@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HELMINTIASES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",14,0.0781595203745802,0.0604849734200841,0.220613542379844
+"finn-b-AB1_HELMINTIASES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted median",14,0.0121220570784104,0.0408672975686887,0.766756653493837
+"finn-b-AB1_HELMINTIASES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",14,0.0149186846908279,0.0311286807743654,0.631754745314497
+"finn-b-AB1_HELMINTIASES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Simple mode",14,0.00768264637591054,0.0782094234299288,0.923246764541371
+"finn-b-AB1_HELMINTIASES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted mode",14,0.00768264637591054,0.0766671813080241,0.921708291520853

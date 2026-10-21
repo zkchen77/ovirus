@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","MR Egger",3,-0.0330531496577869,0.0495403658163846,0.62543253668841
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted median",3,-0.0618301876757902,0.0482711388174094,0.20023107820582
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Inverse variance weighted",3,-0.0578947549418466,0.039165536493875,0.139352485124946
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Simple mode",3,-0.105552223685573,0.0645887758993613,0.2438279582795
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted mode",3,-0.0182571665678184,0.0491603887923885,0.746006819029048

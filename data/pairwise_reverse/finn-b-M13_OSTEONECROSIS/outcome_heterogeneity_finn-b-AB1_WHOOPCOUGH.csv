@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","MR Egger",0.623438170149818,1,0.429772502593723
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",0.647118389590736,2,0.723569125128359

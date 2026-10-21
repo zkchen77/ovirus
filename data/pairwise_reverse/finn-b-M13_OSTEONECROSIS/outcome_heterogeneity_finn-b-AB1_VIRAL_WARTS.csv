@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",18.3146740388237,9,0.0316933836982033
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",25.8415386094473,10,0.00395925536826455

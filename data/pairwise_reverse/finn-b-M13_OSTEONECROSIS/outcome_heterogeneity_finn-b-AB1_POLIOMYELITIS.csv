@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_POLIOMYELITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","MR Egger",3.07414484188981,3,0.380334174335157
+"finn-b-AB1_POLIOMYELITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Inverse variance weighted",3.15948365687675,4,0.531499776871853

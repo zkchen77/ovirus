@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",28.8473328275433,21,0.117715270185111
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",28.8760956759031,22,0.148432468295786

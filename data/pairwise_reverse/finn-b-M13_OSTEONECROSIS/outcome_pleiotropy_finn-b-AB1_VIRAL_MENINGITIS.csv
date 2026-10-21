@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS",-0.0797016097636214,0.0645528031250682,0.263109142539407

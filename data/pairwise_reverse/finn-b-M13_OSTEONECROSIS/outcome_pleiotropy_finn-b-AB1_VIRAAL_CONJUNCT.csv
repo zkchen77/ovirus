@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",0.101432705926566,0.0607321859883985,0.193479639425013

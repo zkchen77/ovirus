@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES",-0.0384282457348723,0.0401421791832878,0.375380831623409

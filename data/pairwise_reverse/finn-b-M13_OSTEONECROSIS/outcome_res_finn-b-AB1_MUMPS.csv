@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MUMPS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Mumps || id:finn-b-AB1_MUMPS","MR Egger",6,0.0656792433247119,0.14175381489696,0.667213692760564
+"finn-b-AB1_MUMPS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted median",6,0.0785297660340033,0.0886499468189594,0.375703161209339
+"finn-b-AB1_MUMPS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Mumps || id:finn-b-AB1_MUMPS","Inverse variance weighted",6,0.0643639577944373,0.0698497743870076,0.356808935810382
+"finn-b-AB1_MUMPS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Mumps || id:finn-b-AB1_MUMPS","Simple mode",6,0.0833413511741823,0.128211267577963,0.54435116794489
+"finn-b-AB1_MUMPS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted mode",6,0.0763308321986818,0.124337699497591,0.566134495039587

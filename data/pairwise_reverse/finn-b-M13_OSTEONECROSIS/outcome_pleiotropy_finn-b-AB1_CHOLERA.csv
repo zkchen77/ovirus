@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA",0.00813032271041477,0.0529712051710692,0.88037220231046

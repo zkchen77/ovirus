@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS",0.00713077145244337,0.0492792122234764,0.886326392747744

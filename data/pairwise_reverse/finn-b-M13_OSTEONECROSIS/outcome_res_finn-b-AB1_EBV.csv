@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_EBV","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",22,0.133846079802236,0.132671921420139,0.32509700954446
+"finn-b-AB1_EBV","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted median",22,-0.0429767579024034,0.0860369563630749,0.617416559636395
+"finn-b-AB1_EBV","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",22,-0.0141356407230528,0.065540389884956,0.829238507094026
+"finn-b-AB1_EBV","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Simple mode",22,-0.0138546594658973,0.171842459079013,0.936504262110009
+"finn-b-AB1_EBV","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted mode",22,-0.00183910569246482,0.160434745351338,0.990962045871329

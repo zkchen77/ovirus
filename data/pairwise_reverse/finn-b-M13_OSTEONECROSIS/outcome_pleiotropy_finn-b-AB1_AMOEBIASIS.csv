@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS",0.00972244102466921,0.0459598145220519,0.837753865490725

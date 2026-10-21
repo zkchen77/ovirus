@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_MALARIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Malaria || id:finn-b-AB1_MALARIA","MR Egger",5.96661768549109,5,0.309480729374803
+"finn-b-AB1_MALARIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",9.29847181756015,6,0.157474923279714

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH",-0.0148658327283074,0.0966042827686968,0.902797016300511

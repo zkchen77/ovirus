@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL",-0.077134052145072,0.0941961666960098,0.563190159115473

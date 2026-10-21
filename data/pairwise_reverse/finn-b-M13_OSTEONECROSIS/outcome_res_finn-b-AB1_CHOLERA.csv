@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",15,-0.0923680666390074,0.111631939176924,0.422920386624336
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted median",15,-0.159428281331951,0.0782133325675945,0.0415122150923179
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",15,-0.0777817054341314,0.0585681455113369,0.184160011599227
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA","Simple mode",15,-0.176114083976025,0.146984071935361,0.250736161941684
+"finn-b-AB1_CHOLERA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted mode",15,-0.176114083976025,0.133439167927018,0.208074331925388

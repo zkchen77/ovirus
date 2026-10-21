@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VARICELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",-0.146153524227694,0.113958197461126,0.268938645252968

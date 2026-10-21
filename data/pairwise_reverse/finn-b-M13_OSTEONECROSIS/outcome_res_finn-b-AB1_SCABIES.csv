@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","MR Egger",9,0.026952247930545,0.122873240058398,0.832636301008272
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","Weighted median",9,-0.0141735552826895,0.0772841498512703,0.854487808204758
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","Inverse variance weighted",9,-0.0203012029712764,0.0628105841554522,0.746533868335523
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","Simple mode",9,0.0626095285441891,0.117036208721752,0.60722321693064
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","Weighted mode",9,0.0538322828711669,0.12295031310833,0.673084669313523

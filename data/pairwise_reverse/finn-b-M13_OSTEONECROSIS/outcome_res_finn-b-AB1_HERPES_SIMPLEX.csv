@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","MR Egger",8,0.6436921651559,0.440450103394751,0.194203688324015
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted median",8,-0.146996896391309,0.166223597499247,0.376516856639952
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Inverse variance weighted",8,-0.00273220644469213,0.151511251874502,0.985612506224131
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Simple mode",8,-0.198927337605125,0.265890393231837,0.478743254740185
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted mode",8,-0.194506857371944,0.267221964352681,0.490308956682817

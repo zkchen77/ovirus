@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","MR Egger",2.16358862083012,7,0.95023378131992
+"finn-b-AB1_SCABIES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Scabies || id:finn-b-AB1_SCABIES","Inverse variance weighted",2.36379986131104,8,0.967779804490904

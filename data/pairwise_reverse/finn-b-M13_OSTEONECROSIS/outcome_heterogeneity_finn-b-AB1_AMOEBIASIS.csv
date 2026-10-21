@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",9.52078619280114,8,0.300282546543308
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",9.57404322061695,9,0.386055306654481

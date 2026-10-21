@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA",-0.0388880849368751,0.0869789356717999,0.67794574974825

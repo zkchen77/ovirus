@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS",-0.00857673039401276,0.0560533206623814,0.882179181802001

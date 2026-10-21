@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",23,0.258700256534861,0.432903498779969,0.556501179429385
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted median",23,0.00775148419546106,0.253582608063754,0.975614153621713
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",23,0.314666876619571,0.190076905738294,0.0978289181191656
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Simple mode",23,-0.382050828364362,0.516816014038902,0.467576420790014
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted mode",23,-0.382050828364362,0.494874285189385,0.448319227610869

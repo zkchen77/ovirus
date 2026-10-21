@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",0.0850758108298904,0.0716437209635198,0.300733236862972

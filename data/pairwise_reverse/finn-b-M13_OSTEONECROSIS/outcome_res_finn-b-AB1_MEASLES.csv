@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES","MR Egger",8,-0.0174007246877763,0.0417960413771331,0.69165454453529
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES","Weighted median",8,-0.037213641701095,0.038817381752239,0.33771745629341
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES","Inverse variance weighted",8,-0.0441615986155761,0.031071832677444,0.155237018978142
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES","Simple mode",8,-0.0185848918175746,0.0538505678970479,0.740142316445868
+"finn-b-AB1_MEASLES","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Measles || id:finn-b-AB1_MEASLES","Weighted mode",8,-0.0205176914736234,0.0451437180676751,0.663229574351803

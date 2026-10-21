@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",1.24084846249449,4,0.871328478557344
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",2.65096798852522,5,0.753606839163657

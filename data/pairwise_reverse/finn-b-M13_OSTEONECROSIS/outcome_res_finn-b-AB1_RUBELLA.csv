@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RUBELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",9,0.101580108874786,0.129280510420452,0.45778992718574
+"finn-b-AB1_RUBELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted median",9,0.0590786379041389,0.0888594669516699,0.506143405869476
+"finn-b-AB1_RUBELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",9,0.0749222373770111,0.0634770742017452,0.237879372988598
+"finn-b-AB1_RUBELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Simple mode",9,-0.0206330233070678,0.138829160424953,0.88553017090053
+"finn-b-AB1_RUBELLA","finn-b-M13_OSTEONECROSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted mode",9,-0.0248723296369728,0.152400428630138,0.874405422036151
