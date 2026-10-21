@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",10.0003434806125,9,0.350457406267062
+"finn-b-AB1_VIRAL_WARTS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",11.1384120954917,10,0.346836643649048

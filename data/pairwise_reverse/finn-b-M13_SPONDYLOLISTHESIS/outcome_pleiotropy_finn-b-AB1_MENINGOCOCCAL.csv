@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL",0.0548500803162745,0.0461128753005472,0.445044652391355

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TRICHOMONIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Inverse variance weighted",0.880782206861379,1,0.347987528768965

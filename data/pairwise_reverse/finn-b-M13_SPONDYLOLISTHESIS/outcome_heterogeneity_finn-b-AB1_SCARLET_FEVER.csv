@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",5.56378240459458,4,0.234179585231635
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",6.63029444665391,5,0.249619149918698

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER",-0.0323500689691223,0.0369442965688793,0.430656793200676

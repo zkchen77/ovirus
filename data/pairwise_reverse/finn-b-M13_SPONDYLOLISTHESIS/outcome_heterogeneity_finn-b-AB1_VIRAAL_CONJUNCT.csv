@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","MR Egger",2.55439894137999,3,0.465540141213613
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",2.81406874410664,4,0.589406645736399

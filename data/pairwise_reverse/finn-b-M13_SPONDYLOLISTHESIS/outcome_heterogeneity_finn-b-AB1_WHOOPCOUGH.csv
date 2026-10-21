@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","MR Egger",0.0125802127799425,1,0.910695317232393
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",5.47097816181774,2,0.0648622764439571

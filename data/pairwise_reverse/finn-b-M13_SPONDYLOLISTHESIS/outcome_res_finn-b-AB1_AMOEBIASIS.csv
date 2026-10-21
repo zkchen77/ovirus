@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",10,-0.0109842769710428,0.0207166279119137,0.610359211178044
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted median",10,-0.0308192856392265,0.0133610189371682,0.0210739584658921
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",10,-0.0184931346718957,0.0145075305485488,0.20240603859607
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Simple mode",10,-0.0322532459154217,0.0159168238792999,0.0733643554235451
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted mode",10,-0.0309679528293384,0.0154168915404465,0.0754858625368935

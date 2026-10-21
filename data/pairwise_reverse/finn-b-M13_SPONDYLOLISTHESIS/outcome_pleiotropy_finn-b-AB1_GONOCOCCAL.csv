@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",-0.0065100617641896,0.0262059574703733,0.810940554255457

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SEPSIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Septicaemia || id:finn-b-AB1_SEPSIS","MR Egger",1.92634659435418,3,0.587833571017168
+"finn-b-AB1_SEPSIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Septicaemia || id:finn-b-AB1_SEPSIS","Inverse variance weighted",3.01669997185534,4,0.55503459986775

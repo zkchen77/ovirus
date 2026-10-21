@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CANDIDIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","MR Egger",2.41608914278714,5,0.789075745403554
+"finn-b-AB1_CANDIDIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Inverse variance weighted",3.41047260557917,6,0.755840305598846

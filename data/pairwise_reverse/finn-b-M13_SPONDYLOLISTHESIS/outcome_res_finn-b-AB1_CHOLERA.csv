@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",15,-0.136585671655608,0.0549060509363648,0.0272162886231011
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted median",15,-0.0588546167418918,0.0417493729036297,0.158624564713176
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",15,-0.0351402942845547,0.028980554780644,0.225302937024801
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","Simple mode",15,-0.0922979601509588,0.0755210824017804,0.241830067219905
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted mode",15,-0.0862498825612406,0.0718323592624615,0.249785580245223

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","MR Egger",9,0.0857732512804591,0.0864696505223326,0.354266339177054
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted median",9,0.0310969340909056,0.0508039909898514,0.540474056067281
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Inverse variance weighted",9,0.0338993558448964,0.0392638958166849,0.387932862906812
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Simple mode",9,0.0405676524091626,0.0826006341710967,0.636523392969769
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted mode",9,0.055960640476298,0.0807456578596499,0.507896129524806

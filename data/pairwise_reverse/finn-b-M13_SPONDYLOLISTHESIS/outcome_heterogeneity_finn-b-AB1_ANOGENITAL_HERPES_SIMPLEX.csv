@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","MR Egger",6.31791399525201,7,0.503156900664897
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Inverse variance weighted",6.87687890695856,8,0.549973036042404

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Malaria || id:finn-b-AB1_MALARIA","MR Egger",8.56159499401945,5,0.127881068871122
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",8.68642586490909,6,0.191996348352001

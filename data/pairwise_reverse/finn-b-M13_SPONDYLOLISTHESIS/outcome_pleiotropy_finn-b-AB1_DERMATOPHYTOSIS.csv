@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS",0.099088763279132,0.0344406003138034,0.018264371892862

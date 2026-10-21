@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS",0.0260493835466973,0.0424593361467627,0.55657421655322

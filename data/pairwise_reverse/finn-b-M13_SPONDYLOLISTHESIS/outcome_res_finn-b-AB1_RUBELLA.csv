@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RUBELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",9,0.042243583381177,0.0620148406475595,0.517647239263137
+"finn-b-AB1_RUBELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted median",9,0.0245917747532543,0.039797103190068,0.536622297770729
+"finn-b-AB1_RUBELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",9,0.0281235419015271,0.0307672285083297,0.360677651290415
+"finn-b-AB1_RUBELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Simple mode",9,0.000229938875842661,0.0626540986867454,0.997161656923205
+"finn-b-AB1_RUBELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Weighted mode",9,-0.00194586372642408,0.0635023172873615,0.976305395419669

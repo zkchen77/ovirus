@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HIV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",9,-0.138171655215175,0.0559426498868913,0.042840491172941
+"finn-b-AB1_HIV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted median",9,-0.0426185590835694,0.0334239027914693,0.20227659566251
+"finn-b-AB1_HIV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",9,-0.00576486593693139,0.0285377749210736,0.839910275500059
+"finn-b-AB1_HIV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Simple mode",9,-0.0470796785032829,0.0582783869645806,0.442538165450625
+"finn-b-AB1_HIV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted mode",9,-0.0523689732551283,0.0497709131149869,0.323448649796453

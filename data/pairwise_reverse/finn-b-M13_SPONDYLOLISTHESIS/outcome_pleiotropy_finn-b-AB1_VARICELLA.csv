@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VARICELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",0.0278483324764185,0.0566344771168182,0.648679260348125

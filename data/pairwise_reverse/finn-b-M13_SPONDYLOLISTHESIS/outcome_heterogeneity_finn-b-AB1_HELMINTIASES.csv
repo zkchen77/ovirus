@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",13.4607840362658,12,0.336456703852088
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",16.2880520887193,13,0.233924464119427

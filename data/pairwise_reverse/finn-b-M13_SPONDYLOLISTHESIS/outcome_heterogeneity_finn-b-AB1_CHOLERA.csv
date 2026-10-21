@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",9.47110042782547,13,0.736506102184405
+"finn-b-AB1_CHOLERA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",14.1800154592408,14,0.436387690896386

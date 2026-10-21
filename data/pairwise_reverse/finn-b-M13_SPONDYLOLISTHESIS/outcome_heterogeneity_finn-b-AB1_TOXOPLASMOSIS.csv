@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TOXOPLASMOSIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","MR Egger",0.00351238979563976,1,0.952740704949482
+"finn-b-AB1_TOXOPLASMOSIS","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Inverse variance weighted",0.0180070625830316,2,0.991036879126581

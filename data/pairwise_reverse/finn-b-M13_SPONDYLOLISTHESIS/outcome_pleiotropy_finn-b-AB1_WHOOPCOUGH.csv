@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH",0.110462089215674,0.0472803470168394,0.257467251618849

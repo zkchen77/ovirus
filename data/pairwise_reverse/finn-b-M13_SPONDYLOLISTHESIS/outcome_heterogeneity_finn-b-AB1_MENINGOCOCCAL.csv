@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","MR Egger",0.0135839191145002,1,0.90721660531121
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Inverse variance weighted",1.42843304222635,2,0.489575533669384

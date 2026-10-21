@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CMV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","MR Egger",7,0.031209488575548,0.0760313320815666,0.698450416410785
+"finn-b-AB1_CMV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted median",7,-0.0284099570213522,0.0353281216873352,0.421296490770855
+"finn-b-AB1_CMV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Inverse variance weighted",7,-0.0162488390047729,0.0308315934065137,0.598180315901054
+"finn-b-AB1_CMV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Simple mode",7,-0.0433302951850928,0.0586422183810694,0.487858781766902
+"finn-b-AB1_CMV","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted mode",7,-0.0403133704440786,0.0512367500378891,0.461333294457656

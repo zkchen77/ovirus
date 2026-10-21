@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VARICELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","MR Egger",2.52812442052866,4,0.639606860228652
+"finn-b-AB1_VARICELLA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Inverse variance weighted",2.76991345452227,5,0.735406465577755

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SPONDYLOLISTHESIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Tularaemia || id:finn-b-AB1_TULARAEMIA",0.004556039955712,0.0425854587434904,0.919951403438597
