@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_CMV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV",0.0260832179868477,0.0559092038649382,0.660457905977017

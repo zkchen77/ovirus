@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS",-0.0364223697268303,0.0444678199945253,0.439736243779198

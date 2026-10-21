@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","MR Egger",5.41388870337972,8,0.712560584729159
+"finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Inverse variance weighted",6.32704528384433,9,0.706792306510186

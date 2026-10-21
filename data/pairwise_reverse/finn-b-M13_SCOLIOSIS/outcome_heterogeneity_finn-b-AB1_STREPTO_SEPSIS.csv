@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",6.32646791390325,7,0.502187939091619
+"finn-b-AB1_STREPTO_SEPSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",6.99734771963212,8,0.536918856770026

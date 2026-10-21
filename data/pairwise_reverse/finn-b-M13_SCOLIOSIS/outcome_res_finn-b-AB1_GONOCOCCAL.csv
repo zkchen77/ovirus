@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","MR Egger",9,0.0625038273829836,0.0737557927545579,0.424771920043225
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Weighted median",9,0.0238968544959591,0.0557120913604124,0.667970677499359
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Inverse variance weighted",9,0.0340669794478073,0.0423775389876153,0.421459147929743
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Simple mode",9,0.0137178162083834,0.0878854388509121,0.879830947728444
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Weighted mode",9,0.0237342618484079,0.0887733322446507,0.795956838684813

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV",0.00105153072185349,0.0297333796392451,0.972139026970652

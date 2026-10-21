@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCABIES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Scabies || id:finn-b-AB1_SCABIES",0.0102267988133118,0.0427344639664042,0.817720799621733

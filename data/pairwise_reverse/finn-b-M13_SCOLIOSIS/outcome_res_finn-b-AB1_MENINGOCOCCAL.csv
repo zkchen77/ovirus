@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","MR Egger",3,-0.00291868631569761,0.0492922086354413,0.962348482605199
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted median",3,0.0155541018406932,0.0339152740847334,0.646509637703492
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Inverse variance weighted",3,0.00988695697887347,0.0301317008339571,0.742817336832742
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Simple mode",3,0.0396104575830284,0.044261432305654,0.465267041903239
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted mode",3,0.0273954061711956,0.0397674417411606,0.562074506437097

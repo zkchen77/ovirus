@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",4.26642228946961,4,0.371148606026319
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",4.47914371563102,5,0.482678778056065

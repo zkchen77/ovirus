@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS",0.0275219816555335,0.0565773928032729,0.638275234885323

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","MR Egger",6.5322518395049,7,0.479147277080827
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Inverse variance weighted",8.00042121393687,8,0.43342897583734

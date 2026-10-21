@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_POLIOMYELITIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","MR Egger",2.66846521841764,3,0.445612927719153
+"finn-b-AB1_POLIOMYELITIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Inverse variance weighted",4.81809476828313,4,0.306476410290107

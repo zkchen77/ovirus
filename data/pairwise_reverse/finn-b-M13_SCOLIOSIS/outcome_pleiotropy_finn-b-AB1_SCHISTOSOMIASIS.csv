@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS",0.112617689589348,0.0624029881329519,0.108771320426452

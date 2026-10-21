@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CMV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","MR Egger",4.9241658128989,5,0.425205104242145
+"finn-b-AB1_CMV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Inverse variance weighted",5.14181433664935,6,0.525757441063969

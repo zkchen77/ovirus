@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",-0.0183711126387842,0.0389984038804551,0.651915702771353

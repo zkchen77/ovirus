@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU",0.0658617230488174,0.0492727756691736,0.223136679482493

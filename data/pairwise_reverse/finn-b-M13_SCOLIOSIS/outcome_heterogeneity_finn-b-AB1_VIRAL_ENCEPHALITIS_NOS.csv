@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","MR Egger",5.73598697630228,7,0.570892671778366
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Inverse variance weighted",8.56054654125884,8,0.380711338620017

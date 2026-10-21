@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS",0.00967897005038143,0.0346416908803182,0.782669377732109

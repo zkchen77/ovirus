@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","MR Egger",4.03336933933963,7,0.775925987886158
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Inverse variance weighted",5.82007132817743,8,0.6673784637209

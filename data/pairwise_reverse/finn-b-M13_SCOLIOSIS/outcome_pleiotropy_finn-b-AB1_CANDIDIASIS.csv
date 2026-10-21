@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_CANDIDIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS",-0.0356839876378553,0.0693252524903054,0.628677412892543

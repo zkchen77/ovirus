@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HIV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",9,-0.147287918615496,0.0815622978150289,0.113907639612432
+"finn-b-AB1_HIV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted median",9,-0.0437166048302091,0.0485448253873526,0.367832424971478
+"finn-b-AB1_HIV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",9,-0.0340694200787842,0.0363748585037196,0.348954058952485
+"finn-b-AB1_HIV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Simple mode",9,-0.0567474706710789,0.079842332401257,0.497437351016549
+"finn-b-AB1_HIV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted mode",9,0.0389887805702216,0.0830417952214045,0.651237462907569

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",22,-0.0563519477603703,0.0909554594910083,0.542544952800067
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted median",22,-0.0425112411807997,0.0612726317208118,0.487804681312748
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",22,-0.0535360705697541,0.0439675670537644,0.223365975835403
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Simple mode",22,-0.0269700598795357,0.113291811942171,0.814143282113233
+"finn-b-AB1_EBV","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted mode",22,-0.0219703652906882,0.114895084127753,0.850189089440279

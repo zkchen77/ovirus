@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CHOLERA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",16.962427556094,13,0.201027369508956
+"finn-b-AB1_CHOLERA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",19.3766295064431,14,0.15105127067681

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS",0.061253484452832,0.0364464665355426,0.136719591253694

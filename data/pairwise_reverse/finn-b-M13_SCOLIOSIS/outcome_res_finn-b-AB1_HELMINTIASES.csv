@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",14,-0.158558323725999,0.0499489548892674,0.00800386552562111
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted median",14,-0.0478684004532523,0.0361860763657942,0.185888489061448
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",14,-0.0348593590760788,0.0320894551934789,0.277338239416137
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Simple mode",14,0.0830542504753489,0.0847921604803015,0.345208610260585
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted mode",14,-0.0695884423600963,0.0777191874659485,0.386861169789356

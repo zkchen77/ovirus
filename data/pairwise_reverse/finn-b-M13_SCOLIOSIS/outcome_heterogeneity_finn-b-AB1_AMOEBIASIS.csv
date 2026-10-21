@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",2.73532118091547,8,0.949854359058256
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",2.8568758495596,9,0.969699844625662

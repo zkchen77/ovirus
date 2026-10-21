@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_RUBELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","MR Egger",5.17327977835474,7,0.638826300472662
+"finn-b-AB1_RUBELLA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Rubella [German measles] || id:finn-b-AB1_RUBELLA","Inverse variance weighted",5.96480457101333,8,0.651174444518778

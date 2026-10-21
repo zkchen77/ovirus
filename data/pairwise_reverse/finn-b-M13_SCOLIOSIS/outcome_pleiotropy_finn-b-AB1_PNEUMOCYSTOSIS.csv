@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",-0.00478039285443273,0.0713063292118259,0.949766849440097

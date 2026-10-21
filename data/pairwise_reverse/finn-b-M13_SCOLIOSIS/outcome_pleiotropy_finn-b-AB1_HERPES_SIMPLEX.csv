@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX",0.000124432026843925,0.0643966738299907,0.998520911805197

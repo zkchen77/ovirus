@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","MR Egger",9,-0.157891701955928,0.129603044266136,0.262583857029255
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted median",9,0.072428246595052,0.0797672498798284,0.363880978983082
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Inverse variance weighted",9,-0.00321612038778039,0.0583662193558697,0.956056861983822
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Simple mode",9,0.0965499569449638,0.124554090392216,0.460538709299711
+"finn-b-AB1_RESP_TUBERCU","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Respiratry tuberculosis || id:finn-b-AB1_RESP_TUBERCU","Weighted mode",9,0.0965499569449638,0.127675245274961,0.471199417023674

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TOXOPLASMOSIS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS",0.141604716572767,0.0837875074487293,0.340142244676152

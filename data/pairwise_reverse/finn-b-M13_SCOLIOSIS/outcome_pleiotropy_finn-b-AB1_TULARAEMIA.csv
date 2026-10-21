@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA",-0.00640344342849399,0.0625013926586831,0.923327961225969

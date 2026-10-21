@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT",0.0222562448399675,0.0437993215467556,0.646361367192858

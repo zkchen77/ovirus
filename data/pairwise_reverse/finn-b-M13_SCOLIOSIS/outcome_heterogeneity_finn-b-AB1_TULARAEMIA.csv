@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",1.19930680203833,4,0.878212735091513
+"finn-b-AB1_TULARAEMIA","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",1.2098033807142,5,0.943933412393768

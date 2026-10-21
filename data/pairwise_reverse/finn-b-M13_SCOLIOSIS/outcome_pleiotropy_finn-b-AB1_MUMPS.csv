@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MUMPS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Mumps || id:finn-b-AB1_MUMPS",-0.0310812072473972,0.0528388947379664,0.587988966045506

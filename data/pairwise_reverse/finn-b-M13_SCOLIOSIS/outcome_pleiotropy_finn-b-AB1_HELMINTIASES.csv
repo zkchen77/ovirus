@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES",0.123178539522037,0.0426740668893035,0.0136647513675107

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",23,0.00842020677345474,0.304020057301492,0.978165955334873
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted median",23,0.0504310589972661,0.171007363132871,0.768065860044128
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",23,0.0842902446248255,0.13382351026194,0.528785361870218
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Simple mode",23,-0.368018243551675,0.402917789648283,0.370943070972843
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SCOLIOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted mode",23,-0.368018243551675,0.403455914389675,0.371569827448451
