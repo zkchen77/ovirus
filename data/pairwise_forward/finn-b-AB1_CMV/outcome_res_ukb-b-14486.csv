@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,10.3466290321492,8.73772215026257,0.241958986291947
+"ukb-b-14486","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,11.143638273695,6.51203330969167,0.0870372029634548
+"ukb-b-14486","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,8.42391332986008,3.91471090025126,0.0314083114160686
+"ukb-b-14486","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,18.9880919222322,12.3077409165425,0.129067824223306
+"ukb-b-14486","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,14.8052809570724,8.1353354526752,0.0746496371408454

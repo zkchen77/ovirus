@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.269696158943277,0.257678966043192,0.325857113926548
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.0230994851557631,0.172235490416064,0.893311076762411
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.00958593204511001,0.140650723593328,0.945662916388958
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.0128265838643151,0.265546591522686,0.962530019088719
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.00743127191231951,0.264838879372966,0.978226969142127

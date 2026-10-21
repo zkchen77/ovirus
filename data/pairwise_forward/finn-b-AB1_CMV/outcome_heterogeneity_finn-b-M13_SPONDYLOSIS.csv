@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",23.7549269829732,19,0.205721613091461
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",23.8339813115422,20,0.249719462885991

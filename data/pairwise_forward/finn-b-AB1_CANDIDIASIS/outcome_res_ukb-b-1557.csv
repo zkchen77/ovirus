@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,6.33349408144564,130.136625047359,0.962543341566782
+"ukb-b-1557","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,6.18924947919692,20.8311241805671,0.766378345693554
+"ukb-b-1557","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,13.5253481107344,16.9962672302672,0.426157914939953
+"ukb-b-1557","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,1.10976067584612,31.493553105627,0.972753567774372
+"ukb-b-1557","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-0.673707673473089,31.0116884234379,0.983199944300162

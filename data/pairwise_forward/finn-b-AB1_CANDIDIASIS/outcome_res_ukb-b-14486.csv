@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-6.85470756021806,3.1441674548428,0.0339819234540338
+"ukb-b-14486","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,-1.31414267970366,2.09837899641103,0.531140714926798
+"ukb-b-14486","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,-0.124606037735614,1.41929114180413,0.93003996356138
+"ukb-b-14486","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,-0.711503974487162,4.3366478009485,0.870326325924491
+"ukb-b-14486","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-2.92114134502559,2.82402134311575,0.305833687576194

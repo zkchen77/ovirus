@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",4.81228395664591,8,0.777438168664548
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",6.46105412588451,9,0.693033115266095

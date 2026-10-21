@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",40.8781361893904,46,0.686149560961311
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",40.8834630799789,47,0.72271355706466

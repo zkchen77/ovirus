@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.0386863773585906,0.0975793650685488,0.697742347031691

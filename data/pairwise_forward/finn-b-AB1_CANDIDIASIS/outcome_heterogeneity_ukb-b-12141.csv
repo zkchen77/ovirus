@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",44.9220385413378,46,0.517373717088966
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",44.99803619963,47,0.555834756242945

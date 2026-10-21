@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,2.12886995178838,5.49944983986917,0.700320565486076
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,1.65687696083827,4.03791889633338,0.681564305789729
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,2.63115760042857,2.4587542707437,0.284566125117897
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,-1.44397513545724,6.94323863295143,0.836081823990129
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,0.419650235043946,4.5286906008411,0.926532915202442

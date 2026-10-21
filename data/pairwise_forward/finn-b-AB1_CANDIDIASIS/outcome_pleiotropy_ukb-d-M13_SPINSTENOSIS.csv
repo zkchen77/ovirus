@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.0321014803137263,0.0362130771030692,0.390342739712369

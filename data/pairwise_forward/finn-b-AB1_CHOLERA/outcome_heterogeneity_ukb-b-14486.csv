@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",60.309024642043,50,0.150761737988927
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",60.3216627308998,51,0.174328622069644

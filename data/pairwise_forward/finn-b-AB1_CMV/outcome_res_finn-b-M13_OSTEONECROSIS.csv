@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.062993761881545,0.226113773209794,0.791711520182288
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.135907436629611,0.138201950770488,0.325411898092952
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.0994807760723067,0.10824763594441,0.358089780396808
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.166090198419522,0.191875122969224,0.419960578714452
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.157707107412921,0.178664794112301,0.411365463784706

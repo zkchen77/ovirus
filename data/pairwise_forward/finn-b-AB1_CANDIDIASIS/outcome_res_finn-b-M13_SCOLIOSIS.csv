@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.10872289454674,0.0904823946071433,0.263883122024354
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.0410403460945048,0.0623222479824124,0.510205087232856
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.0100309042466193,0.0477447822745577,0.833594112789492
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.0773522394237868,0.106871028389102,0.487579813557602
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.0773522394237868,0.102612836950028,0.470214840336181

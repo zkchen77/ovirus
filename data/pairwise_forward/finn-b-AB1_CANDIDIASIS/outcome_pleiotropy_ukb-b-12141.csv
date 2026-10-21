@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",-0.00629583445546175,0.0228377437006671,0.784031036605729

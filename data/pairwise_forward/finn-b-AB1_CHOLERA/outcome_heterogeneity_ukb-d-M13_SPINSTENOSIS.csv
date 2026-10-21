@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",17.1574515320884,14,0.247884325327214
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",18.6389705827297,15,0.23056251883838

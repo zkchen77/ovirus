@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,5.1237824172943,12.5827426770391,0.68574464167079
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,4.73737942004066,4.56427813269644,0.299304867474864
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,1.76926033037491,3.20272549534328,0.580658340030185
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,6.44820698482242,9.63958950591585,0.506812928735218
+"ukb-b-12141","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,6.10873620517653,8.51653318266239,0.476751400475802

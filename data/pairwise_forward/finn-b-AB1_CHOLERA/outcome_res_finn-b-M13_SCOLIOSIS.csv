@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.0748248577480098,0.147051430391592,0.62460134465302
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.039526290056407,0.100679139643931,0.694617435438198
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.0167972492044022,0.0768746960319195,0.827038259909771
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.053922736717434,0.165896129084322,0.752579952275299
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.053922736717434,0.156205740841195,0.737872251435923

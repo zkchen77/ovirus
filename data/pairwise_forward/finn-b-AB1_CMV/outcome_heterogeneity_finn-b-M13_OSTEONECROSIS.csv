@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",2.30760302813505,5,0.805149547284568
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",2.34138394659599,6,0.885779883087685

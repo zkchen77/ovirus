@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",13.2208712313225,5,0.0213945826596692
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",15.2924844064099,6,0.0180998454675007

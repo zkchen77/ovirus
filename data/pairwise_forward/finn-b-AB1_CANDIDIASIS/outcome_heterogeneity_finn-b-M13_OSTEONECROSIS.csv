@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",5.30391725469643,5,0.37992616352904
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",5.67339439836878,6,0.460752165595272

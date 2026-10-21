@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,32.4861729557217,19.9947752638768,0.111052694589273
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,14.8713040169111,7.07404018608994,0.0355325820771724
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,9.75405293875821,5.09805023270588,0.0557108265560093
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,20.8624999422115,14.1030336858677,0.14573416808183
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,22.7437943140642,12.4567649821186,0.074234449582649

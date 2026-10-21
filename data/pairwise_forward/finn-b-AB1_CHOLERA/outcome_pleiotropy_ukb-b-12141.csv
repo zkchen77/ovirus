@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",-0.0426786874822067,0.0362987189757511,0.245739168475913

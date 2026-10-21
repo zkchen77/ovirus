@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-0.980679134824269,33.9730729979623,0.977096047574789
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,0.467590771993482,12.7197342975595,0.970675531674287
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,1.41739101544422,8.63722880601014,0.869650437802028
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,1.32401295499503,28.0957977415685,0.962613321062535
+"ukb-b-12141","finn-b-AB1_CMV","Cytomegaloviral disease || id:finn-b-AB1_CMV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,7.50327376994196,30.9889854217817,0.809735082669256

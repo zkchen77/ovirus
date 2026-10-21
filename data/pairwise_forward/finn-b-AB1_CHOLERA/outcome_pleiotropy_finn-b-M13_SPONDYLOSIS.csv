@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Spondylosis || id:finn-b-M13_SPONDYLOSIS",0.0412569703205224,0.0389850868526038,0.303199496079543

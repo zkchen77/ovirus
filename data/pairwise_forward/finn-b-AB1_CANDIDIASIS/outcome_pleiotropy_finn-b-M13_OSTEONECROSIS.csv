@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_CANDIDIASIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.0311215778111942,0.0527328429737211,0.580735512146234

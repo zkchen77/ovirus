@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_CHOLERA","Cholera || id:finn-b-AB1_CHOLERA","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",0.00228543112486906,0.0223271651944111,0.91887955760519
