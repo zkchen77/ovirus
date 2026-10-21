@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",2.70138229301253,5,0.745907013769433
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.03303195184887,6,0.80468970081214

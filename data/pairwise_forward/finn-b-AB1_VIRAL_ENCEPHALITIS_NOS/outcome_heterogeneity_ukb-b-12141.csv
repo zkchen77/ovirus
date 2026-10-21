@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",59.5411847069365,46,0.0867482079248217
+"ukb-b-12141","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",60.5899738903853,47,0.0880380969046941

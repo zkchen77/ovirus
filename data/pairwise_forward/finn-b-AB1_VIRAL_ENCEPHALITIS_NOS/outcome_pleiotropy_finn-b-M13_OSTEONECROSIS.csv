@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",-0.0376109456284862,0.139019862168111,0.797554511712036

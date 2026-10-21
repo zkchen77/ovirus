@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-1.85706762131726,59.285994178619,0.975453426197497
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,15.3408768845778,24.4701465143573,0.530710266573819
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,16.5489118760229,18.9808509408448,0.383277077604671
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,8.75044930508733,39.8014469352832,0.828949966424544
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,26.670607657949,35.8247723757125,0.468093692825013

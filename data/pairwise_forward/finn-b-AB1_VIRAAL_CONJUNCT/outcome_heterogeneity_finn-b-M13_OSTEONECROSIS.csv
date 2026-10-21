@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",4.58056892780437,5,0.469176492952036
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",6.05101934933622,6,0.417499214022088

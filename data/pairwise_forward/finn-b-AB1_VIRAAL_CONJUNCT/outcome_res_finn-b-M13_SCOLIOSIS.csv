@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.0429763377781496,0.271034431113591,0.877941953291103
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.0477249245983402,0.171983365687648,0.781398256527387
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.00418832823061261,0.134419467611419,0.975143021831156
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.0873963946006704,0.252572767970665,0.737275516629504
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.0873963946006704,0.244161583265498,0.728635853072925

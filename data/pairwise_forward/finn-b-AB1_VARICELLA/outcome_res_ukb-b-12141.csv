@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-18.0071759969369,20.9915142865788,0.395433303718259
+"ukb-b-12141","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-5.94216326240809,7.71813502680985,0.441361434844755
+"ukb-b-12141","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,-7.89845340574495,5.34135794767067,0.139211131036116
+"ukb-b-12141","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-4.91981559351481,15.8777903589193,0.758040810806146
+"ukb-b-12141","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-2.90588014257028,13.8434919797113,0.834645622413781

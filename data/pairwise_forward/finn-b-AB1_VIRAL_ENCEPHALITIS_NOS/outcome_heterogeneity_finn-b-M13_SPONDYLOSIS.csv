@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",33.5680483754672,19,0.0206535744957746
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",33.8398083370022,20,0.0272289606993743

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",-0.0514455178928311,0.0381819812091139,0.183933266661387

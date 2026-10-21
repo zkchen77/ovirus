@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",-0.211823050211704,0.261753073747717,0.445004161383784

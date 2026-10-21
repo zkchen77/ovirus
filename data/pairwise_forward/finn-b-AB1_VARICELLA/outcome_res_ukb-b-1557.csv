@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,59.9265268452425,178.454119493005,0.74685542474399
+"ukb-b-1557","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,60.0277861038292,31.4753227535442,0.0565027112831629
+"ukb-b-1557","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,55.6718614169487,24.8997321550706,0.0253621372049623
+"ukb-b-1557","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,69.3892451151219,48.9827899856575,0.194339084374638
+"ukb-b-1557","finn-b-AB1_VARICELLA","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,65.3321312836604,51.1008960532562,0.236916810461375

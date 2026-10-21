@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_VIRAAL_CONJUNCT","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",-0.042564542271913,0.230679782754512,0.858839095350337
