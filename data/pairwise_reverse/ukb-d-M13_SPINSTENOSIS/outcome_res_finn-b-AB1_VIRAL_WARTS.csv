@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",10,-0.000207465508533442,0.000415724247551552,0.631178677778809
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted median",10,-0.000238447266409724,0.000276847982793051,0.389076616925415
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",10,-0.000113176360598172,0.000213745050700795,0.596463977764249
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Simple mode",10,-0.000275030921508009,0.000426799479882865,0.535390760563361
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Weighted mode",10,-0.000295616862459063,0.000428004108440133,0.507182687790925

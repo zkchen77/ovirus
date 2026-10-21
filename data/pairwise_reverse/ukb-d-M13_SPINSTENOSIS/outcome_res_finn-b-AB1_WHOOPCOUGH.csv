@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_WHOOPCOUGH","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH","Inverse variance weighted",2,0.000193120869500188,0.00019921831364052,0.332349066497129

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","MR Egger",8,-0.000690955647723789,0.000469281832403476,0.191342490068572
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted median",8,-0.000647152153069841,0.000414617305807483,0.11856100749312
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Inverse variance weighted",8,-0.00038372736750514,0.000301330853256013,0.202861237994599
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Simple mode",8,-0.000698469136547918,0.000586954932256805,0.272840610200436
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Weighted mode",8,-0.000668122420318048,0.00044490657238666,0.176866142769039

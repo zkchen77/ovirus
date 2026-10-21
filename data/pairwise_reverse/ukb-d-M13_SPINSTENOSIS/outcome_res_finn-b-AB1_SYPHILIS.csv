@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",10,-0.000227256613199292,0.000196314342138778,0.280411960576698
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted median",10,0.000121386573731779,0.000170400742813694,0.476242239613018
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",10,-2.61511261260118e-05,0.000150878080136518,0.862395021183407
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Simple mode",10,0.000256664360661775,0.000299032038815073,0.412991570865859
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Weighted mode",10,0.000140538722877122,0.000320538899331328,0.671399327172021

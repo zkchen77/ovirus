@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",8,9.28216469086342e-06,0.00040271826238852,0.982358775223797
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted median",8,9.4037661025788e-05,0.000250627825511734,0.70750549650459
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",8,1.00626051545704e-05,0.000206490120662242,0.961133149436595
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Simple mode",8,0.000152675819049112,0.000419875329391601,0.726874245804495
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Weighted mode",8,0.00025127133068562,0.000335187597063151,0.477901221962089

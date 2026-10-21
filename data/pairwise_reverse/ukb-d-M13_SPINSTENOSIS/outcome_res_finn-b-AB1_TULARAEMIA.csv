@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","MR Egger",6,0.000168460309052899,0.000307618389120753,0.613070576358841
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted median",6,-1.69429643472367e-05,0.000158527344087124,0.914886372870047
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Inverse variance weighted",6,-0.000108900398170448,0.000123735431245155,0.378801439396166
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Simple mode",6,5.03856949730082e-05,0.000235060335440728,0.838740115212168
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA","Weighted mode",6,5.85045979306579e-05,0.000247309171538034,0.822380556091911

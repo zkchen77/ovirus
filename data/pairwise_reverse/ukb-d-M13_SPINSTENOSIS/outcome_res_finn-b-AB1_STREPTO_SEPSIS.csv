@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_STREPTO_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","MR Egger",9,0.000267528225010972,0.000615139407388027,0.676723045466706
+"finn-b-AB1_STREPTO_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted median",9,0.000241948110768847,0.000323251341834709,0.454168918824287
+"finn-b-AB1_STREPTO_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Inverse variance weighted",9,8.29911513786638e-05,0.000275053919715743,0.762860302183129
+"finn-b-AB1_STREPTO_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Simple mode",9,8.72815836070718e-05,0.000558563066043582,0.879698623611252
+"finn-b-AB1_STREPTO_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Streptococcal septicaemia || id:finn-b-AB1_STREPTO_SEPSIS","Weighted mode",9,0.00015263578088082,0.00057387710238831,0.796986230890714

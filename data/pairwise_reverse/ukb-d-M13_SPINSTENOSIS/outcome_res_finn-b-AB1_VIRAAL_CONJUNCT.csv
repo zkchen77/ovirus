@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","MR Egger",5,-6.19422758840135e-05,0.000156538878944983,0.718787879580967
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted median",5,-2.75746055894606e-05,0.000150996127307711,0.85509778684879
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",5,-4.70239337247931e-05,0.000110828222569677,0.671350204732131
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Simple mode",5,-0.000130584064854085,0.000192743708965976,0.535251022855632
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Weighted mode",5,-3.48661008624978e-05,0.000148242252620381,0.825606216044685
