@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","MR Egger",8,0.000523595127030889,0.000952267986410886,0.602279481483132
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted median",8,2.4044016844407e-05,0.000447002843229195,0.957102951110085
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Inverse variance weighted",8,1.50302027852176e-05,0.000336691415851914,0.964393553586422
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Simple mode",8,-8.79999771010401e-05,0.000623932228113265,0.891810642224278
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted mode",8,2.66804287112695e-05,0.000610744768443709,0.966375464127117

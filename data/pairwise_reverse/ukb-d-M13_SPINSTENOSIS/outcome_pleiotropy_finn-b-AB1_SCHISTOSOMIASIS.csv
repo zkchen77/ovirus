@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCHISTOSOMIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS",-0.000217657353206427,0.000199059864398537,0.306034589010825

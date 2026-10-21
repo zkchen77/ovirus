@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA",-1.50083905681995e-05,0.000213621832452069,0.945250253307718

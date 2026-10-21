@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",6,9.66010920770098e-05,0.000148845272854823,0.551716751508042
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted median",6,1.64514382509536e-05,0.000118928654655154,0.889979367973693
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",6,3.11722254915178e-06,9.08371367728864e-05,0.972624680218372
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Simple mode",6,0.000124501969421828,0.000209581608745721,0.578334437494876
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted mode",6,-0.000154854038421039,0.000186215749016318,0.443531631956701

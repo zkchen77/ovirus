@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","MR Egger",14.7443713058608,8,0.0643107870582778
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS","Inverse variance weighted",18.7866298385878,9,0.0270695108024486

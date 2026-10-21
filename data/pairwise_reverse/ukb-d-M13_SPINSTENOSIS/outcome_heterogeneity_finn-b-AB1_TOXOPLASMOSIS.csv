@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TOXOPLASMOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Toxoplasmosis || id:finn-b-AB1_TOXOPLASMOSIS","Inverse variance weighted",1.92056307996071,1,0.165794600045887

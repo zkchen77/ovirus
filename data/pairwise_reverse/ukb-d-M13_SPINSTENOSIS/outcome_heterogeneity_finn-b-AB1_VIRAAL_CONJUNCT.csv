@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","MR Egger",3.35017548301752,3,0.340719983775174
+"finn-b-AB1_VIRAAL_CONJUNCT","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral conjunctivitis || id:finn-b-AB1_VIRAAL_CONJUNCT","Inverse variance weighted",3.37321399519828,4,0.497416319109725

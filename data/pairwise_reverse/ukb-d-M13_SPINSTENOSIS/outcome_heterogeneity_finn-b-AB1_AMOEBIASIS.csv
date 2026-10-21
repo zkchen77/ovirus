@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_AMOEBIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",10.1586174709298,5,0.0708636373126054
+"finn-b-AB1_AMOEBIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",10.1633275244364,6,0.117940316045839

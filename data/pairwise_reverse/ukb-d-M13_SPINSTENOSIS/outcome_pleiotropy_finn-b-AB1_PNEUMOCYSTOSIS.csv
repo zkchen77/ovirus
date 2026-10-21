@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",-0.000147767195490311,0.000186381965274103,0.472254765337632

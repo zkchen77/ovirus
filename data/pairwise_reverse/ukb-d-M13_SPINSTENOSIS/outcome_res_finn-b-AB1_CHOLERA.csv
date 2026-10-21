@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA","MR Egger",13,-0.000302175248615654,0.000415680782837714,0.482446505545036
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted median",13,-0.000119646934811868,0.000255085765625154,0.639036821250427
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA","Inverse variance weighted",13,-0.000325990085980652,0.000230413853277941,0.157126423231114
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA","Simple mode",13,0.000138155850439884,0.000510294677239303,0.79119354752181
+"finn-b-AB1_CHOLERA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cholera || id:finn-b-AB1_CHOLERA","Weighted mode",13,8.39251730093511e-05,0.000365030400809431,0.822031931773135

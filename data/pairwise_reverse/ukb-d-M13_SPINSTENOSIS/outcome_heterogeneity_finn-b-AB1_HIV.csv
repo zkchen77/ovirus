@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",4.35447502676334,7,0.738162584233398
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",4.78950716339538,8,0.779818765330836

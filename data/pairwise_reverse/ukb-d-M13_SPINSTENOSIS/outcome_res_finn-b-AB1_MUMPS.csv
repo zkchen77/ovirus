@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MUMPS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Mumps || id:finn-b-AB1_MUMPS","MR Egger",6,-0.000165036397073511,0.000258030138889765,0.557225865952531
+"finn-b-AB1_MUMPS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted median",6,5.08740312183104e-05,0.000210985484164987,0.809457662807661
+"finn-b-AB1_MUMPS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Mumps || id:finn-b-AB1_MUMPS","Inverse variance weighted",6,-1.68606944786171e-05,0.000163528689187682,0.917879301968823
+"finn-b-AB1_MUMPS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Mumps || id:finn-b-AB1_MUMPS","Simple mode",6,0.000228911856398215,0.00031263572462895,0.49690969367007
+"finn-b-AB1_MUMPS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted mode",6,0.000192379204702288,0.000281536568729359,0.524777088153827

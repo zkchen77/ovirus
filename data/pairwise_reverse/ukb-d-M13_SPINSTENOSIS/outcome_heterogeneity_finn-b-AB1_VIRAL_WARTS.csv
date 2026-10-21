@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","MR Egger",3.96997939153761,8,0.859821810676225
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS","Inverse variance weighted",4.03990596197451,9,0.908766416324037

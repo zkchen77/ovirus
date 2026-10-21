@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_POLIOMYELITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","MR Egger",1.1607578675126,3,0.762430747661568
+"finn-b-AB1_POLIOMYELITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS","Inverse variance weighted",3.44953781720367,4,0.485592595128136

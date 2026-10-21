@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS",-0.000266604328951977,0.000198898681177689,0.216931763852861

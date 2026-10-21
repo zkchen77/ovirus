@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS",5.25148167731411e-07,0.0002256304399103,0.998218403487761

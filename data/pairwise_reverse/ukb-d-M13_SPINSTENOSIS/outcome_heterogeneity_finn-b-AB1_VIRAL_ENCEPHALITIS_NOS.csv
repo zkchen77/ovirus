@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","MR Egger",1.85966821608756,7,0.9671974057593
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","Inverse variance weighted",3.01476470783463,8,0.933427563813114

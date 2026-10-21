@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_ASPERGILLOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Aspergillosis || id:finn-b-AB1_ASPERGILLOSIS",-5.20269012636133e-05,0.000254557581042868,0.85696631841841

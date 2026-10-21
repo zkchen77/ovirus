@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","MR Egger",4.14700201302227,4,0.38647669834258
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Inverse variance weighted",5.38110972274459,5,0.371158787562221

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","MR Egger",9.10161312278764,6,0.167943553917197
+"finn-b-AB1_VIRAL_MENINGITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral meningitis || id:finn-b-AB1_VIRAL_MENINGITIS","Inverse variance weighted",9.10162134020698,7,0.245442189733001

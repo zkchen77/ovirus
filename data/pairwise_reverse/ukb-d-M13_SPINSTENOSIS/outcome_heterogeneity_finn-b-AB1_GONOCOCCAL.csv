@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_GONOCOCCAL","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","MR Egger",1.84241984293158,6,0.933605615005371
+"finn-b-AB1_GONOCOCCAL","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL","Inverse variance weighted",1.93398517343796,7,0.963403534343955

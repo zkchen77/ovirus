@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VARICELLA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Varicella [chickenpox] || id:finn-b-AB1_VARICELLA",0.000118528018994893,0.000530984217016954,0.837697696999764

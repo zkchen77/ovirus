@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_EBV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",22.1079299775854,19,0.278917720560711
+"finn-b-AB1_EBV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",22.3977660183376,20,0.319322547700868

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ERYSIPELAS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",23.088311024517,19,0.233474489646446
+"finn-b-AB1_ERYSIPELAS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",25.1561396326779,20,0.195522758797616

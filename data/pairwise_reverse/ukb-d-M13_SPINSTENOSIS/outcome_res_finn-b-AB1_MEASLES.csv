@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MEASLES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Measles || id:finn-b-AB1_MEASLES","MR Egger",5,-0.00050659648624869,0.000655500258739017,0.495923045835185
+"finn-b-AB1_MEASLES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Measles || id:finn-b-AB1_MEASLES","Weighted median",5,-0.000111496155302468,0.000193119897966558,0.563708701336914
+"finn-b-AB1_MEASLES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Measles || id:finn-b-AB1_MEASLES","Inverse variance weighted",5,-5.67391475087643e-05,0.000176480397630797,0.747828508314151
+"finn-b-AB1_MEASLES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Measles || id:finn-b-AB1_MEASLES","Simple mode",5,-0.000299195230962121,0.000318301103116587,0.400450199723356
+"finn-b-AB1_MEASLES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Measles || id:finn-b-AB1_MEASLES","Weighted mode",5,-0.000259925590129604,0.000305593144032406,0.442931833402795

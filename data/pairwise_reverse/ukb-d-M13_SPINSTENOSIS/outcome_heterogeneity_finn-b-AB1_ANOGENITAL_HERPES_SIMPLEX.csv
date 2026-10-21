@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","MR Egger",8.58924799338906,7,0.283506154183105
+"finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Anogenital herpesviral [herpes simplex] infection || id:finn-b-AB1_ANOGENITAL_HERPES_SIMPLEX","Inverse variance weighted",9.53278012366531,8,0.299360369144767

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","MR Egger",6,-0.00014597602151627,0.000281026281245407,0.630873210295922
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted median",6,-4.99029765858698e-05,0.000190552292817361,0.793409338156549
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Inverse variance weighted",6,0.0001133891878004,0.000152703907983713,0.457758528602307
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Simple mode",6,-8.00540083073059e-05,0.000273644214603619,0.781619036543528
+"finn-b-AB1_CMV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Cytomegaloviral disease || id:finn-b-AB1_CMV","Weighted mode",6,-8.00540083073059e-05,0.000208082646004929,0.716263499442142

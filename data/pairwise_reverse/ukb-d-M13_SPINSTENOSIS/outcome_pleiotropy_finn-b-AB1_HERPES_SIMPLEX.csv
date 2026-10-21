@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX",-0.000125556560085703,0.000219914398747668,0.588773429635139

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_WARTS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral warts || id:finn-b-AB1_VIRAL_WARTS",3.93929609275689e-05,0.000148969551738903,0.798128744801256

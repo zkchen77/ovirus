@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SEPSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Septicaemia || id:finn-b-AB1_SEPSIS",-4.34754181319418e-05,0.000251031877128706,0.878446476927673

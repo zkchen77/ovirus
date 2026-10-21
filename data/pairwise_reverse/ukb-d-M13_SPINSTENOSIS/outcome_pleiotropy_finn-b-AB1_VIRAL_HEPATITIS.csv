@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS",-0.00038378195529179,0.000231050051661351,0.172043016730533

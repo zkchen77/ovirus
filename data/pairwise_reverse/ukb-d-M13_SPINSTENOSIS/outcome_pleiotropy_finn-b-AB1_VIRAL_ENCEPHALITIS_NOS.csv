@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_VIRAL_ENCEPHALITIS_NOS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral encephalitis, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_ENCEPHALITIS_NOS",-0.000129007607321411,0.000120034527738017,0.318128580108178

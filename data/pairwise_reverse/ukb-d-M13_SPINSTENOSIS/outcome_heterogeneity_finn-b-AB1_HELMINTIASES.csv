@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_HELMINTIASES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",10.8505269499519,12,0.541770198985363
+"finn-b-AB1_HELMINTIASES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",10.9612133261551,13,0.614067020782285

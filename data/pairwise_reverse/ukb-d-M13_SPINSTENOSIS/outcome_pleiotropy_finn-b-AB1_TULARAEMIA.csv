@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_TULARAEMIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Tularaemia || id:finn-b-AB1_TULARAEMIA",-0.000263875894328105,0.000267942957750332,0.380467178916241

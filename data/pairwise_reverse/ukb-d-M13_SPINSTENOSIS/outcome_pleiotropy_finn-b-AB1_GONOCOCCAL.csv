@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_GONOCOCCAL","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Gonococcal infection || id:finn-b-AB1_GONOCOCCAL",4.76942831996768e-05,0.000157616178101339,0.772412628493346

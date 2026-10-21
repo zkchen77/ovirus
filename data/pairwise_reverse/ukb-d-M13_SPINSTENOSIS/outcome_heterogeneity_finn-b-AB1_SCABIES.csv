@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCABIES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Scabies || id:finn-b-AB1_SCABIES","MR Egger",1.84000014442174,7,0.968162847698716
+"finn-b-AB1_SCABIES","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Scabies || id:finn-b-AB1_SCABIES","Inverse variance weighted",2.31156653966946,8,0.969939612326502

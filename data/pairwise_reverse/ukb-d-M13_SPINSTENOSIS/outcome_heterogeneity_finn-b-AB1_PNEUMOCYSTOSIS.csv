@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",3.18496672714341,4,0.527362495522519
+"finn-b-AB1_PNEUMOCYSTOSIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",3.81352896753566,5,0.576563431627193

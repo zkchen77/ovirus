@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_POLIOMYELITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",0.000334237918453136,0.000220929493973436,0.227516903252391

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_CANDIDIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","MR Egger",7,-0.000300843366111209,0.000429993860979962,0.515352164180075
+"finn-b-AB1_CANDIDIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Weighted median",7,-7.43466197663158e-06,0.000395220875509044,0.984991551475816
+"finn-b-AB1_CANDIDIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Inverse variance weighted",7,-4.14938576793124e-05,0.000284047632130689,0.883857735650205
+"finn-b-AB1_CANDIDIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Simple mode",7,0.000173528019961639,0.000584882937634978,0.776706747966577
+"finn-b-AB1_CANDIDIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Candidiasis || id:finn-b-AB1_CANDIDIASIS","Weighted mode",7,4.78188477126768e-05,0.000431878166193676,0.915446838786934

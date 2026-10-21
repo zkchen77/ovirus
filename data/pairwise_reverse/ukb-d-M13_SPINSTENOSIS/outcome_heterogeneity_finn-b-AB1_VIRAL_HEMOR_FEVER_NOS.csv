@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","MR Egger",4.73265313095501,8,0.785730900410236
+"finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral haemorrhagic fevers, not elsewhere classified/unspecified || id:finn-b-AB1_VIRAL_HEMOR_FEVER_NOS","Inverse variance weighted",5.70465354547386,9,0.769075087293886

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SYPHILIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Syphilis || id:finn-b-AB1_SYPHILIS",0.000244830239423308,0.000165318383526792,0.176891117696591

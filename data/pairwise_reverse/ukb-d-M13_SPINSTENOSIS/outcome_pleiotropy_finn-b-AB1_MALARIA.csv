@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA",0.000173833674284779,0.000209508372461921,0.444490936899985

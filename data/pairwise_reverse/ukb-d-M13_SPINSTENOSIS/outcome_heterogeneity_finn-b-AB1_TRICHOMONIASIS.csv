@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_TRICHOMONIASIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Trichomoniasis || id:finn-b-AB1_TRICHOMONIASIS","Inverse variance weighted",0.0480679405457643,1,0.826459966091286

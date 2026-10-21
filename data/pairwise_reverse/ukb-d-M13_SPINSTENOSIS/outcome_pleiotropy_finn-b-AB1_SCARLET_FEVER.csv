@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCARLET_FEVER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER",0.000492008831818053,0.00024691782270094,0.140329140543806

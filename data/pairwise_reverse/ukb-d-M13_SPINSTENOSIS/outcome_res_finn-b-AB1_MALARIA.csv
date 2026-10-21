@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA","MR Egger",7,-0.000152992335650388,0.000130856044967617,0.295037298185021
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA","Weighted median",7,-0.000101195369442304,8.27026564649054e-05,0.22110133878027
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",7,-6.46395700645722e-05,7.40535697348213e-05,0.382730769694786
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA","Simple mode",7,-8.32070969603916e-05,0.000141835303982566,0.578829135378155
+"finn-b-AB1_MALARIA","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Malaria || id:finn-b-AB1_MALARIA","Weighted mode",7,-0.000135509588677564,0.000102199612139409,0.233104414441915

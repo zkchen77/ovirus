@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","MR Egger",4.50422522034809,6,0.608775706266042
+"finn-b-AB1_ZOSTER","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Zoster [herpes zoster] || id:finn-b-AB1_ZOSTER","Inverse variance weighted",5.23352097505051,7,0.631489268127927

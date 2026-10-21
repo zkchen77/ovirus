@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","MR Egger",9,1.45626105427805e-05,0.000207972106376927,0.94613460277834
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted median",9,-3.32782711910092e-05,0.000172410967890988,0.846945548059394
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Inverse variance weighted",9,-9.39405689313771e-05,0.000127240585238646,0.460337682065547
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Simple mode",9,-0.000386878604698218,0.000252048015924474,0.163346090105791
+"finn-b-AB1_HIV","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Weighted mode",9,-5.81738384812362e-05,0.000184512761287129,0.760613635110598

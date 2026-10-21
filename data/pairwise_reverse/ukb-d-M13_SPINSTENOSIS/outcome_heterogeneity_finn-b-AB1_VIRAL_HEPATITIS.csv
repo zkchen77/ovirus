@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","MR Egger",1.49370892907653,4,0.827755264313994
+"finn-b-AB1_VIRAL_HEPATITIS","ukb-d-M13_SPINSTENOSIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Viral hepatitis || id:finn-b-AB1_VIRAL_HEPATITIS","Inverse variance weighted",4.25274235746425,5,0.513630308813495
