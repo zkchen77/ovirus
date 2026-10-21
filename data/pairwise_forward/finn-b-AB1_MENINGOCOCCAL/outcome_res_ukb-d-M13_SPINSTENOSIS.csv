@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-41.8405702639877,130.835421014548,0.753845896932609
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-49.7021845306846,58.7590404501088,0.397628355947007
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-31.8413688603029,43.1045563056923,0.460088719148396
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-64.9709684915505,96.0026621919437,0.508859544169545
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-74.3642018279871,97.1898459276178,0.456056597887152

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS",0.0374664558391252,0.077856382343511,0.637790914162596

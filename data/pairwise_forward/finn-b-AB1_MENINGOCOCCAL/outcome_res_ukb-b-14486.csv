@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-2.36724483771182,12.3457702586185,0.848718216757535
+"ukb-b-14486","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,14.767910680434,8.99463770411341,0.100619601449969
+"ukb-b-14486","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,6.17128980266822,5.56649391677443,0.267581484592412
+"ukb-b-14486","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,11.3584920835786,17.6314303821641,0.522320790142052
+"ukb-b-14486","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,14.5891719314365,11.3526531427149,0.204566796327264

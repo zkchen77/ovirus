@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",8.9516613061655,8,0.346390168094243
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",9.04304948485163,9,0.433309872566334

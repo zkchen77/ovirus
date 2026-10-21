@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",4.24913813530168,5,0.514131782216571
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",5.02615073617651,6,0.540463491870572

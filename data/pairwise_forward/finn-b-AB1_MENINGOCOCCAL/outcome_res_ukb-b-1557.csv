@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-844.048897858157,673.911060400124,0.250621896265337
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,17.2165069987425,97.2770176201386,0.859520704493614
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,18.3478892843682,97.9224269525928,0.851369228351928
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-188.609484139637,190.115836378168,0.350214628451431
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-150.928250267375,175.898551432914,0.415834718491521

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.178710698435986,0.108457940039181,0.160321737199742

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",38.0651929956676,46,0.790928470442876
+"ukb-b-12141","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",39.0493125478377,47,0.788614030827729

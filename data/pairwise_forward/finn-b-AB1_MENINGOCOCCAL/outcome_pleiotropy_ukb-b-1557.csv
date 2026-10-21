@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",0.720610973894334,0.557601863185702,0.237262630873622

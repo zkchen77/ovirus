@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",16.4707594875676,19,0.625674369306467
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",16.5397992630229,20,0.682622216080734

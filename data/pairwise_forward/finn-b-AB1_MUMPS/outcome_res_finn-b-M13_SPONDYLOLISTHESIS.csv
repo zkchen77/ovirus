@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,0.051364157857744,0.622677102248312,0.936284267747003
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.314540735046121,0.198041313271034,0.112227970743359
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.306362538756909,0.156367115185044,0.0500833152999829
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.26178860199979,0.305537586226585,0.413779775469221
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.269672031360118,0.339731203681906,0.447745390586538

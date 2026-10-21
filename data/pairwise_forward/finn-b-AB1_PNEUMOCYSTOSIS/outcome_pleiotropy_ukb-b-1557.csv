@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",0.298159400154229,0.331449720216629,0.398241464729551

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.0116483034879387,0.358048783686235,0.974844244262258
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.241178790051918,0.239161814563558,0.313246388677521
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.0752426915675108,0.179186186753138,0.674548674900963
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,0.438445427167111,0.444420006786568,0.349638500468681
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,0.438445427167111,0.417472317499192,0.320990242832205

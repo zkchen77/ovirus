@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,245.761630529996,226.926721286505,0.314696952501748
+"ukb-b-1557","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-50.9798448087689,41.2749799676401,0.216783218546716
+"ukb-b-1557","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-23.9837199255089,31.9650468981841,0.45306753925576
+"ukb-b-1557","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-51.7415478844086,60.4561274024896,0.416974812675573
+"ukb-b-1557","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-52.7927892332825,64.2318139122611,0.434937747614755

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,0.176446529335481,0.315081051507066,0.599636856543562
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.337555361851114,0.192865212201247,0.0800814231556184
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.296938053359199,0.150788431457516,0.0489259618424675
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.370825248860596,0.269905045096775,0.218587186659173
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,0.360136304584408,0.263138011541331,0.220146339188507

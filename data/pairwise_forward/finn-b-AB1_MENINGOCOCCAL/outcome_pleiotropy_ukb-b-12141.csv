@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_MENINGOCOCCAL","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0886269197292159,0.0893391313116736,0.326373687905903

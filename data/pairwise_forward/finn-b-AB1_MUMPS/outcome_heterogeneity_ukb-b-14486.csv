@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-14486","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",49.3972994200037,50,0.497493615489797
+"ukb-b-14486","finn-b-AB1_MUMPS","Mumps || id:finn-b-AB1_MUMPS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",49.8766436894462,51,0.518290564256234

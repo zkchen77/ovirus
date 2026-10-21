@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-14486","finn-b-AB1_PNEUMOCYSTOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",-0.012093325363397,0.0476644649028133,0.80075396955981
