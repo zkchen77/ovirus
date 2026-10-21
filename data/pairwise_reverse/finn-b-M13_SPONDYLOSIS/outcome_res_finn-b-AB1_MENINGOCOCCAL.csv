@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","MR Egger",3,0.0026132365278344,0.0155502882620041,0.894006002005367
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted median",3,-0.00445643872058037,0.0135642336064815,0.742500874618217
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Inverse variance weighted",3,-0.00611824543801646,0.0116034405526249,0.598000159955256
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Simple mode",3,-0.00400004035284215,0.0172344598805771,0.838050206854027
+"finn-b-AB1_MENINGOCOCCAL","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Meningococcal infection || id:finn-b-AB1_MENINGOCOCCAL","Weighted mode",3,-0.00370134648368649,0.0148785348918819,0.826752431683602

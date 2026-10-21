@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Malaria || id:finn-b-AB1_MALARIA","MR Egger",7,0.00774131175585917,0.0136941819283269,0.596292590151912
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Malaria || id:finn-b-AB1_MALARIA","Weighted median",7,0.00677207066648924,0.00896632810624045,0.450082175550568
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Malaria || id:finn-b-AB1_MALARIA","Inverse variance weighted",7,0.00560208415161684,0.0067547016218552,0.406900325489154
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Malaria || id:finn-b-AB1_MALARIA","Simple mode",7,0.0147542578656124,0.0136665925032609,0.321801140042696
+"finn-b-AB1_MALARIA","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Malaria || id:finn-b-AB1_MALARIA","Weighted mode",7,0.011096736873466,0.012917066882974,0.42328669238392

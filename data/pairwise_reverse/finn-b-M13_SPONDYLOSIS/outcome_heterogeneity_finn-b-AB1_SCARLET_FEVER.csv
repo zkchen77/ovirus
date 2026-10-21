@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","MR Egger",0.920979378963139,4,0.921531880424659
+"finn-b-AB1_SCARLET_FEVER","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Inverse variance weighted",3.09787229548827,5,0.684899803100075

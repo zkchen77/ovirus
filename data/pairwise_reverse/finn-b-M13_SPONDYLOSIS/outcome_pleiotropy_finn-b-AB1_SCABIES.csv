@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SCABIES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Scabies || id:finn-b-AB1_SCABIES",0.0185655189097662,0.0209990556333413,0.405976051435074

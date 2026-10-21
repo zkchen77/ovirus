@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","MR Egger",8,0.0813295612736372,0.130675460773163,0.556590610767313
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted median",8,0.0504261466219454,0.0447470110681662,0.259777772055157
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Inverse variance weighted",8,0.0587527901379947,0.0376256622842733,0.118403828259934
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Simple mode",8,0.0545128227882,0.069673073302154,0.459618390029769
+"finn-b-AB1_HERPES_SIMPLEX","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Herpesviral [herpes simplex] infections || id:finn-b-AB1_HERPES_SIMPLEX","Weighted mode",8,0.0519445958836494,0.063670293649385,0.441466086599568

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",20.6081711415342,20,0.420508920991579
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",21.4600149994825,21,0.431176558881539

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS",-0.0630496828750969,0.0198053711687507,0.0334243084840854

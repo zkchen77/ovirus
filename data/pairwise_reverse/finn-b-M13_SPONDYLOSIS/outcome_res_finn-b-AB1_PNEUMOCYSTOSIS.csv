@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","MR Egger",6,0.0621836400070622,0.0178008159984179,0.0250477079039063
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted median",6,0.0193490618626122,0.013994056924839,0.166768284825083
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Inverse variance weighted",6,0.0146102207982046,0.0147128621724765,0.320698406036478
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Simple mode",6,0.0236087404412944,0.0203061804682139,0.297445858948133
+"finn-b-AB1_PNEUMOCYSTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Pneumocystosis || id:finn-b-AB1_PNEUMOCYSTOSIS","Weighted mode",6,0.0257432046274791,0.0195471726601854,0.24497228994627

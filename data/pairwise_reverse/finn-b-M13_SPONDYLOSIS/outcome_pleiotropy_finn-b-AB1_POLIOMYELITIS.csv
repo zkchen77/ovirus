@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_POLIOMYELITIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Acute poliomyelitis || id:finn-b-AB1_POLIOMYELITIS",-0.00384941797392631,0.0243595572218182,0.884474877454942

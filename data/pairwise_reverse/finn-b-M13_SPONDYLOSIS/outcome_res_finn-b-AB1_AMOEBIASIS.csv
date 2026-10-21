@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","MR Egger",10,-0.00787330115694342,0.0079079179799703,0.348590569300347
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted median",10,-0.00493770396721793,0.00721947787181663,0.494011805892074
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Inverse variance weighted",10,-0.005219846827635,0.00552788108638636,0.345028498759175
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Simple mode",10,-0.00334514170994709,0.0109480815734375,0.766899339777228
+"finn-b-AB1_AMOEBIASIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Amoebiasis || id:finn-b-AB1_AMOEBIASIS","Weighted mode",10,-0.00383826239377758,0.00887658903439176,0.675624386555785

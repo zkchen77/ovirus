@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","MR Egger",17.6236925876162,9,0.0397990456923481
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Inverse variance weighted",19.2818906583366,10,0.0368249219689029

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS",0.0024365348669719,0.021760195785804,0.916239559813658

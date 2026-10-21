@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","MR Egger",23,0.224993634836378,0.107053950330861,0.0478255667706895
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted median",23,0.106055350592328,0.0655545118251286,0.105701558435003
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Inverse variance weighted",23,0.0972721084144976,0.0482858632293109,0.0439565502054151
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Simple mode",23,0.174320557721966,0.127018332462333,0.183768806632206
+"finn-b-AB1_ERYSIPELAS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Erysipelas || id:finn-b-AB1_ERYSIPELAS","Weighted mode",23,0.164695061487584,0.120972452486298,0.187160638167422

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","MR Egger",14,0.00299576096135017,0.0203053615583051,0.885159292289811
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted median",14,0.01050423392203,0.011898835295594,0.377346969020743
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Inverse variance weighted",14,0.00393710711731617,0.0100528682440524,0.695324096222508
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Simple mode",14,0.0192990074304477,0.0201348721364964,0.355304948842923
+"finn-b-AB1_HELMINTIASES","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Helminthiases || id:finn-b-AB1_HELMINTIASES","Weighted mode",14,0.0188129363588171,0.0197896364614431,0.359124486219179

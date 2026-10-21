@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS","MR Egger",6,-0.0084807382810808,0.0443726748894141,0.857736581710175
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted median",6,-0.0013993510933201,0.0244415829581446,0.954343752540432
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS","Inverse variance weighted",6,-0.00430174670622351,0.0215003054398129,0.841419266314964
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS","Simple mode",6,0.000872583542354782,0.0355425974000071,0.981363285112522
+"finn-b-AB1_MUMPS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Mumps || id:finn-b-AB1_MUMPS","Weighted mode",6,-0.00164815380685757,0.0349543257712007,0.964217752925568

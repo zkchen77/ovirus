@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","MR Egger",11,-0.0831284507129052,0.107226389115195,0.458070313733616
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted median",11,-0.00439370536609874,0.0413977285049562,0.915476057444656
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Inverse variance weighted",11,0.00867371986852883,0.0390066227997453,0.824029512470619
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Simple mode",11,-0.0233689410105743,0.0701408536780979,0.745884778230941
+"finn-b-AB1_DERMATOPHYTOSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Dermatophytosis || id:finn-b-AB1_DERMATOPHYTOSIS","Weighted mode",11,-0.0233689410105743,0.0611631411287555,0.710399375363518

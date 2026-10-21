@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","MR Egger",22,0.0440870953928172,0.0352396094983787,0.225347691113603
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted median",22,0.0257045804103687,0.0227059213512721,0.257607079377915
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Inverse variance weighted",22,0.0160340833041998,0.0169558335969403,0.344333173170975
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Simple mode",22,0.0460892339785302,0.0420759755528746,0.285753873367975
+"finn-b-AB1_EBV","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Infectious mononucleosis || id:finn-b-AB1_EBV","Weighted mode",22,0.0378828237877853,0.0422071322278987,0.379603143247601

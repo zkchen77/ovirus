@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_WHOOPCOUGH","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Whooping cough || id:finn-b-AB1_WHOOPCOUGH",0.0279241358742802,0.0266499307093681,0.485138786631067

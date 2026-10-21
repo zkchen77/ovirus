@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-AB1_SEPSIS","finn-b-M13_SPONDYLOSIS","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Septicaemia || id:finn-b-AB1_SEPSIS",-0.0118213566727456,0.0255079416123934,0.674602949719769
