@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",11.099048266607,8,0.196149906444434
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",11.6506692912354,9,0.233726797577529

@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",0.420142385185929,0.389843871591044,0.316891012067854

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.049782898855158,0.169073987901663,0.775913944750695
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.117844864137017,0.114597722684042,0.303792211161014
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.114772524729222,0.0887951390750301,0.196165309105902
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.159972157582382,0.198852113712433,0.441852587894558
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.151679298020879,0.178417324145784,0.417290335262034

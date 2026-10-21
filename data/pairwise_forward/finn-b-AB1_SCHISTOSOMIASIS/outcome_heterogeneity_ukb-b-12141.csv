@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",47.7975006072342,46,0.399605220795334
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48.8921052703135,47,0.396968981143484

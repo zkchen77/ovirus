@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0681425152518611,0.0421783161632832,0.113023741078157

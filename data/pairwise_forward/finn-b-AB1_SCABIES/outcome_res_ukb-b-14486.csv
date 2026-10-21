@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-3.73853341266929,5.85182382778313,0.525825794922333
+"ukb-b-14486","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,-1.15003844966436,3.94635545515162,0.770731759021854
+"ukb-b-14486","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,2.70238754837835,2.65457702378574,0.30867291871376
+"ukb-b-14486","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,-9.41776526086731,10.0157787844036,0.351499842171937
+"ukb-b-14486","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-10.8045910796332,6.01980083257956,0.0786061379488938

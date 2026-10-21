@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",8.09351862065817,14,0.8843971784759
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",8.78396944841805,15,0.888539306416782

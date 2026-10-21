@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,48.7932636046864,68.2790845407301,0.486592746084458
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-6.13471813036891,29.5866163270921,0.835738290382204
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,9.81393110077465,21.9346244645817,0.654573765800752
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-0.758259833595361,45.9005588223329,0.987037577808719
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-2.20566096505416,40.4482946867641,0.957232272511578

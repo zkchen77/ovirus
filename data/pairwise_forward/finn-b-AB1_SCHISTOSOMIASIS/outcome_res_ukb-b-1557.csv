@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,194.867829250219,317.945640093829,0.559322477478085
+"ukb-b-1557","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,-123.969234287345,58.2329209142646,0.0332665580942362
+"ukb-b-1557","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,-106.037044449843,44.4551088431558,0.017067000653148
+"ukb-b-1557","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-177.382915043108,89.7074562452031,0.0833901699205021
+"ukb-b-1557","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-176.400917181146,97.0875778489829,0.106753296966603

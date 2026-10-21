@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,41.0701115451037,99.9101840986311,0.687244055576706
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-48.19897625719,42.6988079699044,0.258976660886537
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-37.325992841565,32.8738204178738,0.256194292330232
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-62.2370247506599,77.0935996933891,0.432114045367215
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-61.0547105442416,74.2333154821476,0.423691484736987

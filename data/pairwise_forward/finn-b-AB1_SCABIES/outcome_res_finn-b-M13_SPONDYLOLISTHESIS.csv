@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,0.184560370107019,0.625090815767277,0.775317798566221
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,-0.124143629977595,0.191682036167446,0.517208787751627
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,-0.228366741261559,0.150766071145611,0.129846086653144
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,-0.563850345593824,0.353506716280775,0.145172062154675
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.117034239947763,0.329245768548664,0.73043240595231

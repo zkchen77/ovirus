@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",5.26233685726339,8,0.729204466122044
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",5.46636383086382,9,0.791908405702921

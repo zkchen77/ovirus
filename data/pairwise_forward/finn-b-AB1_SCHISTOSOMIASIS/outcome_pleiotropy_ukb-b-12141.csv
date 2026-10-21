@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0710691079726202,0.0692430031221993,0.310083221625834

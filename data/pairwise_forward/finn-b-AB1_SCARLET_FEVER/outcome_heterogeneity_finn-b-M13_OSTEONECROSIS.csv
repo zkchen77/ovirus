@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",1.90270781778585,5,0.862436860387503
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",3.42382026630461,6,0.754075942737882

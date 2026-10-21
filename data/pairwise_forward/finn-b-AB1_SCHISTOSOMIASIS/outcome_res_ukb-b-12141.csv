@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-32.3550306826914,38.1315187825262,0.40054717927879
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-1.74369942517219,13.9346376930392,0.900417326282662
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,5.48687976217814,9.73422184629921,0.572979371780088
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-25.430837719791,34.3716486926602,0.463053691016412
+"ukb-b-12141","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,52.5650181296799,31.7958359034021,0.104954524283635

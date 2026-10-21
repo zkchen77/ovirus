@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-14486","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","MR Egger",52,-5.32336119252323,9.88909264228572,0.592754014840598
+"ukb-b-14486","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted median",52,0.742194028428989,6.25250918539277,0.905510351707583
+"ukb-b-14486","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Inverse variance weighted",52,2.47974246693455,4.45757474803506,0.578006763204608
+"ukb-b-14486","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Simple mode",52,9.83173724874131,15.3716053897609,0.525293022491865
+"ukb-b-14486","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486","Weighted mode",52,-6.86880757588052,9.68111010311294,0.481241723741622

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16.6435935675128,14,0.275668634342682
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16.6632102341478,15,0.339393034922631

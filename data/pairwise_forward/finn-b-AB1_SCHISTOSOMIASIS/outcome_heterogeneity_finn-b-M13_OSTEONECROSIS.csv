@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",5.6636812112464,5,0.340331187555583
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",5.74629859241069,6,0.452201493756544

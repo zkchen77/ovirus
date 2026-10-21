@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,0.0793809456492865,0.269608375959026,0.780261006842496
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,0.138242959005324,0.170092475819972,0.416360398793149
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,0.0153962039746455,0.120898996402087,0.898665242171842
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,0.169351519980082,0.23906178443482,0.505273374727788
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_SCHISTOSOMIASIS","Schistosomiasis [bilharziasis] || id:finn-b-AB1_SCHISTOSOMIASIS","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,0.16533562990149,0.236010432472767,0.50982722828964

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,-0.323871430175165,0.428173456323375,0.45868492030318
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,-0.116103196279861,0.240993424509289,0.629969949877742
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,-0.0808391945689022,0.1680062595602,0.630397276834302
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,-0.118870040060517,0.475232962465533,0.805038152468533
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,-0.108673330679445,0.460679708163384,0.815910870193748

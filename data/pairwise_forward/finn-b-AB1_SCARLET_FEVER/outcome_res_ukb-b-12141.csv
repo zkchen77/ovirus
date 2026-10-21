@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-46.5444644825303,55.4828421924934,0.405864823344501
+"ukb-b-12141","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,-0.425283571407827,20.5675763634495,0.98350301411175
+"ukb-b-12141","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,10.6971243654263,14.1139158219542,0.448502894052968
+"ukb-b-12141","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-52.4257934696091,43.2248343191842,0.23124326893845
+"ukb-b-12141","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-46.0396765831669,41.3111652490037,0.270748147611126

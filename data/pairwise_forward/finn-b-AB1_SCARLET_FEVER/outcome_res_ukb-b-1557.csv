@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,-379.279432783101,471.113833722054,0.447257642752253
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,74.926658460629,90.9940646854978,0.410267158644778
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,123.477107633313,65.7700378316381,0.0604623781828708
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,75.3335207072449,140.512435037944,0.606447301787329
+"ukb-b-1557","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,73.129275552567,131.619747305674,0.593670304061076

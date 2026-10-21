@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,-0.239104373679674,0.40090845728509,0.567392561788712
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,-0.486285499098797,0.28376317326729,0.0865834813662061
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,-0.319717806401334,0.210994926037912,0.129699813525267
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.666540656016229,0.48310590834964,0.200988069040883
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.644489223889273,0.499302528871581,0.228950309809815

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",16,-118.786510554023,159.131912850604,0.46773703189759
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted median",16,-133.011224766908,66.7819347467278,0.0464012789663154
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",16,-99.5014689201268,51.0040432810273,0.0510743528526325
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Simple mode",16,-199.187413851508,131.295715854186,0.1500345606357
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_SCARLET_FEVER","Scarlet fever || id:finn-b-AB1_SCARLET_FEVER","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Weighted mode",16,-175.018959498516,115.538060430806,0.1506049063435

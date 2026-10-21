@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",40.5001087879312,46,0.701147415836681
+"ukb-b-12141","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",43.1102129806608,47,0.634396770238894

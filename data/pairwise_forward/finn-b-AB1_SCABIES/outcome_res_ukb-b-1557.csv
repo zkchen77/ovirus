@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,45.7440639280725,197.398881771372,0.823373007322268
+"ukb-b-1557","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,42.6715132205974,35.8611098407034,0.234081548294969
+"ukb-b-1557","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,31.2411553739812,27.5652755511046,0.257066535921872
+"ukb-b-1557","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,52.5273101465778,56.3004844782689,0.378127969022368
+"ukb-b-1557","finn-b-AB1_SCABIES","Scabies || id:finn-b-AB1_SCABIES","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,53.4048886085324,55.2607327158686,0.362138484950403
