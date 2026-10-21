@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-1557","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557",-0.083105948726982,0.208602203570857,0.702211503265305

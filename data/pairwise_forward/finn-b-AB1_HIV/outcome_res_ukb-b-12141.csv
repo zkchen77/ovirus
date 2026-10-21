@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,-0.992612586277258,29.6710331420662,0.973457348906795
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,3.70442078899032,11.4780236275286,0.746891928975884
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,6.61688319408118,7.55530700467957,0.381142705254948
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,-19.4640920432338,24.0112001245086,0.421666571767085
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,-18.1206200587524,25.3079851053396,0.477531366444903

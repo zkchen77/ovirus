@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylosis || id:finn-b-M13_SPONDYLOSIS",0.00925019945566152,0.0805882958703405,0.909821147763726

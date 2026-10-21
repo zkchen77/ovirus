@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",5.88442241027246,8,0.660176569769038
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",8.04084245706725,9,0.530035582162302

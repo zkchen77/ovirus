@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"ukb-b-12141","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141",0.0142823534911879,0.0538542112427939,0.792037170628403

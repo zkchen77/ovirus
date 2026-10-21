@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.436996845802735,0.453975327230999,0.379957811099608
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.32982896666245,0.283623717803467,0.244865863793657
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.264099892926102,0.202208045530684,0.19152533871333
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.408940222300477,0.400284749328615,0.346371654731268
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.4041645473532,0.432221954551166,0.385833437921089

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",6.11764996752568,5,0.294938847509618
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",6.16264645462535,6,0.405219324649778

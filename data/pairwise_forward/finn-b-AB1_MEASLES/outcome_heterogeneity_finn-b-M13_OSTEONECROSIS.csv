@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",1.41167084291171,5,0.923032363451883
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",1.61738782685401,6,0.951319210215351

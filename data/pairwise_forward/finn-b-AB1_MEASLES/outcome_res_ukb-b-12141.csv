@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",48,57.0671865821823,49.889672271735,0.258596246800857
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted median",48,12.5427405255063,15.238431684944,0.410451598775226
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",48,0.32089105967105,12.7524117108522,0.979924816489591
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Simple mode",48,16.8765217705929,31.1424895075671,0.59043847328588
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Weighted mode",48,13.2373621361538,24.9212820609199,0.597804480022786

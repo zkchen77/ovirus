@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,2.85160667299507,1.42956512388192,0.0811753018831611
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.0842928518802541,0.490838499647604,0.863647947412988
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.206185356946046,0.377232615067584,0.584671767839887
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.260210266010516,0.932179545285588,0.786444408347858
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.184984599720703,0.893652530678554,0.840618689320803

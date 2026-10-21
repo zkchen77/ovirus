@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS",0.119522622774129,0.275485683314015,0.682471123008131

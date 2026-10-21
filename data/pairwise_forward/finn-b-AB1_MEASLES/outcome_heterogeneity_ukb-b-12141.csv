@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","MR Egger",66.3465056692572,46,0.0263186144633133
+"ukb-b-12141","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Non-cancer illness code, self-reported: osteoporosis || id:ukb-b-12141","Inverse variance weighted",68.3418304598334,47,0.0226389936429544

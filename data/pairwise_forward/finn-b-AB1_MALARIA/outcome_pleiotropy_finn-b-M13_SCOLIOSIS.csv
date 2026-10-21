@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS",-0.216963142962401,0.147747208178434,0.180163684644664

@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","MR Egger",10,-1.02423770834642,1.19786963775562,0.417393890056066
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted median",10,0.041241800342927,0.348334375726098,0.905752977021252
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Inverse variance weighted",10,0.198652048153251,0.303902334310509,0.513323991338937
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Simple mode",10,0.318136819726922,0.557023698185908,0.581885834181738
+"finn-b-M13_SPONDYLOLISTHESIS","finn-b-AB1_MEASLES","Measles || id:finn-b-AB1_MEASLES","Spondylolisthesis/Spondylolysis || id:finn-b-M13_SPONDYLOLISTHESIS","Weighted mode",10,0.220997629429474,0.562208344640391,0.703402910079083

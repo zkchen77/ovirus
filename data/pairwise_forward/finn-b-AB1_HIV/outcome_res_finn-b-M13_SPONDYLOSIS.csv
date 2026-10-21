@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","MR Egger",21,0.231413217146688,0.545311509792257,0.676063217999447
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted median",21,0.269498675797633,0.297720124379835,0.365355137845497
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Inverse variance weighted",21,0.19799182323478,0.214284201638254,0.355502787248756
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Simple mode",21,0.471972066830995,0.552178878790015,0.402815514811005
+"finn-b-M13_SPONDYLOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Spondylosis || id:finn-b-M13_SPONDYLOSIS","Weighted mode",21,0.451109096871496,0.520442180214567,0.396342572281819

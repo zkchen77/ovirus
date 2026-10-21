@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",9,622.520006746703,537.092478170777,0.284439632161545
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted median",9,1.72617459395529,106.161455790817,0.987027048932044
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",9,46.2078902769379,75.7233426611182,0.541716151826529
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Simple mode",9,-36.873405074932,169.602385789388,0.833330662205852
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Weighted mode",9,-34.6164107992472,162.045794499248,0.836186258068757

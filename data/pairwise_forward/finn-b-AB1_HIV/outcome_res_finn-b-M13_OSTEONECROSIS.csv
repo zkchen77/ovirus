@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","MR Egger",7,-0.0162820526645244,0.222603819625101,0.944527715770008
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted median",7,-0.157070163530292,0.136909232771106,0.251275154819411
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Inverse variance weighted",7,-0.0538076202407026,0.0972318435601945,0.579992932557387
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Simple mode",7,-0.22873469039304,0.214182925380292,0.326619387130453
+"finn-b-M13_OSTEONECROSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Osteonecrosis || id:finn-b-M13_OSTEONECROSIS","Weighted mode",7,-0.2230827159188,0.205244101465395,0.318799056810447

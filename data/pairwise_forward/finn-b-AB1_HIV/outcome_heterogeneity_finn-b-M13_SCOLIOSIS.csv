@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",5.68194706556702,8,0.682809105633053
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",5.70551612168708,9,0.768991220085836

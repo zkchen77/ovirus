@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","MR Egger",7.26261430169093,7,0.402058369614187
+"ukb-b-1557","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Diagnoses - main ICD10: M54.5 Low back pain || id:ukb-b-1557","Inverse variance weighted",8.48088627357239,8,0.387958143534992

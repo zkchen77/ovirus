@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_HIV","Human immunodeficiency virus [HIV] disease || id:finn-b-AB1_HIV","Scoliosis || id:finn-b-M13_SCOLIOSIS",0.0109656597046674,0.0714272071276416,0.881788424585191

@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","MR Egger",24.9296293603392,14,0.0352684995426286
+"ukb-d-M13_SPINSTENOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Spinal stenosis || id:ukb-d-M13_SPINSTENOSIS","Inverse variance weighted",25.5697375536613,15,0.0427958546501201

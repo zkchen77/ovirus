@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","MR Egger",10,0.871686137805865,0.445148752936076,0.0858979714135527
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted median",10,0.0407509187565945,0.323663611987425,0.899806998331002
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Inverse variance weighted",10,0.316320872541003,0.234794428891763,0.177907849800614
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Simple mode",10,-0.154258503558906,0.55479671710292,0.787259754198525
+"finn-b-M13_SCOLIOSIS","finn-b-AB1_MALARIA","Malaria || id:finn-b-AB1_MALARIA","Scoliosis || id:finn-b-M13_SCOLIOSIS","Weighted mode",10,-0.136651364830997,0.56024657213575,0.812767523205352
