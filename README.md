@@ -189,14 +189,14 @@ Data source for each figure:
 
 | Figure | Content | Data files |
 |--------|---------|------------|
-| 1A  | Bidirectional MR significance  | `fig 1A.csv` / `fig S1.csv` |
+| 1A  | Bidirectional MR significance  | `fig 1A.xlsx` |
 | 1B / 1C | Forest plots (effect size beta with 95% CI) | `fig 1B.csv` / `fig 1C.csv` |
 | 1D-1F | UpSet intersection plots (pattern co-occurrence gene sets) | `fig 1D-1F.xlsx` |
 | 2A / 2D-2F | STRING PPI networks (web-export) | `figure 2*.svg` |
 | 2B | Enrichment bubble plot (interactive) | `fig 2B.csv` |
 | 2C | ImmPort pathway gene-coverage heatmap | `fig 2C.xlsx` + `immport/*.txt` |
 | 3A / 3B | Disease gene sets and TTD target-drug mapping | `figure 3*.xlsx`, `P1-*.txt/xlsx` |
-| 4B | Out-of-fold ROC from repeated stratified CV | `ml_results/` caches |
+| 4B | Out-of-fold ROC from repeated stratified CV | `ml_results/` |
 
 ---
 
