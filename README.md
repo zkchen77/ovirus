@@ -17,10 +17,10 @@ The repository also ships `article_figures/` for one-command reproduction of eve
 
 ```
 ovirus/
-├── README.md                     # This file
-├── LICENSE                       # MIT License
-├── requirements.txt              # Python dependencies (pinned)
-├── requirements-R.txt            # R dependencies (packages + usage notes)
+├── README.md
+├── LICENSE
+├── requirements.txt              # Python dependencies
+├── requirements-R.txt            # R dependencies
 │
 ├── config/                       # Initial analysis configuration
 │   ├── all_traits.txt            # All 47 GWAS trait IDs (8 skeletal + 39 infectious)
@@ -30,7 +30,7 @@ ovirus/
 │
 ├── scripts/                      # Core pipeline code
 │   ├── .Rproj                    # RStudio project file (working directory = scripts/)
-│   ├── .Renviron                 # OpenGWAS API token location (see Notes below)
+│   ├── .Renviron                 # OpenGWAS API
 │   ├── 01_mr_extract_instruments.R   # Instrument extraction (LD clumping + threshold audit)
 │   ├── 02_mr_forward.R           # Forward MR: skeletal disorders -> infectious diseases
 │   ├── 03_mr_reverse.R           # Reverse MR: infectious diseases -> skeletal disorders
@@ -44,28 +44,28 @@ ovirus/
 │   └── 11_validation_audit.py    # Validation audit (leakage re-analysis + null-model AUC distribution)
 │
 ├── article_figures/              # Fast reproduction of article figures / panels
-│   ├── figure 1/                 # Fig 1A-1F, Fig S1 (code + data)
-│   ├── figure 2/                 # Fig 2A-2F (incl. ImmPort pathway gene lists)
+│   ├── figure 1/                 # Fig 1A-1F (code + data)
+│   ├── figure 2/                 # Fig 2A-2F (ImmPort pathway gene lists)
 │   ├── figure 3/                 # Fig 3A / 3B (TTD target-drug mapping)
-│   └── figure 4/                 # Fig 4B (incl. original_drugs.csv / NRDL_drugs.csv and caches)
+│   └── figure 4/                 # Fig 4B (original_drugs.csv / NRDL_drugs.csv and caches)
 │
 └── data/                         # Full-pipeline data (downloaded / intermediate / results)
     ├── original_drugs.csv        # Training set (Drug Name / SMILES / Label)
     ├── NRDL_drugs.csv            # Drugs to predict (DrugName / SMILES)
-    ├── mr_instruments/           # Per-trait instruments (exposure_*.csv)
+    ├── mr_instruments/           # Per-trait instruments
     ├── pairwise_forward/         # Forward per-pair harmonised / res / het / ple / steiger
     ├── pairwise_reverse/         # Reverse per-pair results
-    ├── mr_results/               # Merged flat tables (o2v_/v2o_*_total.csv)
+    ├── mr_results/               # Merged flat tables
     ├── mr_qc/                    # QC0-QC5 tables
-    ├── pubtator3/                # Raw PubTator3 relation tables (<DISEASE>+gene.csv)
-    ├── gene_sets/                # patternI/II/III co-occurrence gene sets
+    ├── pubtator3/                # Raw PubTator3 relation tables
+    ├── gene_sets/                # pattern I/II/III co-occurrence gene sets
     ├── string/                   # STRING web-export TSVs + network plots
     ├── ppi/                      # PPI topology / edge lists / hub tables
     ├── enrichment/               # GO-BP / KEGG / Reactome results
     ├── differentially expressed genes/  # Raw DEGs per infection (GEO datasets)
     ├── ml_analyse/               # Historical CV-AUC summary (total_cv_auc.xlsx)
     ├── ml_results/               # CV caches / permutation nulls / best_model.joblib / NRDL predictions
-    └── figures/                  # FigR1-FigR6 outputs
+    └── figures/                  # Fig outputs
 ```
 
 ---
