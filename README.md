@@ -29,8 +29,8 @@ ovirus/
 │   └── openGWAS_dataset_manifest.xlsx  # OpenGWAS dataset manifest (IDs / names / sample sizes)
 │
 ├── scripts/                      # Core pipeline code
-│   ├── .Rproj                    # RStudio project file (working directory = scripts/)
-│   ├── .Renviron                 # OpenGWAS API
+│   ├── [ref].Rproj                    # RStudio project file (working directory = scripts/), delete "[ref]" after download
+│   ├── [ref].Renviron                 # OpenGWAS API, delete "[ref]" after download
 │   ├── 01_mr_extract_instruments.R   # Instrument extraction (LD clumping + threshold audit)
 │   ├── 02_mr_forward.R           # Forward MR: skeletal disorders -> infectious diseases
 │   ├── 03_mr_reverse.R           # Reverse MR: infectious diseases -> skeletal disorders
