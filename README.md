@@ -4,7 +4,7 @@
 [![R](https://img.shields.io/badge/R-%E2%89%A5%204.3-276DC3.svg)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**OVirus** is an integrated bioinformatics and machine-learning code package built around two mutually supporting computational tracks:
+**OVirus** is an integrated bioinformatics and machine-learning code built around two mutually supporting computational tracks:
 
 1. **Bidirectional Mendelian randomisation (MR)** — using 8 skeletal disorders as exposures and 39 infectious diseases as outcomes, this track performs bidirectional MR causal inference (312 exposure–outcome pairs per direction) with a full quality-control and sensitivity suite: instrument-selection auditing, five MR estimators, heterogeneity, directional pleiotropy, Steiger directionality, leave-one-out, and multiple-testing correction. Literature-derived gene sets are then mined from PubTator3, grouped by clinical pattern (Pattern I / II / III), and taken through STRING protein–protein interaction (PPI) network construction and GO-BP / KEGG / Reactome enrichment analysis.
 2. **Drug-risk machine learning** — using molecular fingerprints (MACCS, Morgan, Topological Torsion, Atom Pair, RDKit, Pattern) and molecular descriptors, this track classifies "risk drugs" versus "dual-effect drugs" with repeated stratified cross-validation and permutation testing, and produces risk-probability predictions for NRDL drugs together with a validation audit.
