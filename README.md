@@ -36,7 +36,7 @@ ovirus/
 │   ├── 03_mr_reverse.R           # Reverse MR: infectious diseases -> skeletal disorders
 │   ├── 04_merge_mr_results.py    # Merge per-pair CSVs into four flat tables
 │   ├── 05_mr_qc_sensitivity.py   # QC / sensitivity / multiple testing (QC1-QC5)
-│   ├── 06_make_rebuttal_figures.py  # Generate rebuttal figures FigR1-FigR5
+│   ├── 06_response_image.py      # Generate rebuttal figures FigR1-FigR5
 │   ├── 07_pubtator3_genes.py     # PubTator3 literature gene sets + Pattern co-occurrence sets
 │   ├── 08_string_ppi.R           # STRING PPI networks and topology
 │   ├── 09_enrichment.R           # GO-BP / KEGG / Reactome enrichment
@@ -129,12 +129,12 @@ Open `scripts/.Rproj` in RStudio (the working directory is set to `scripts/` aut
 ```bash
 python scripts/04_merge_mr_results.py
 python scripts/05_mr_qc_sensitivity.py
-python scripts/06_make_rebuttal_figures.py
+python scripts/06_response_image.py
 ```
 
 - `04`: merges per-pair CSVs into `data/mr_results/{o2v,v2o}_{res,snp,het,ple}_total.csv`;
 - `05`: writes QC1 (instrument strength, F statistics), QC2 (sensitivity summary), QC3 (leave-one-out), QC4 (multiple testing: global / within-exposure / within-outcome BH families + Bonferroni), QC5 (master table);
-- `06`: renders `data/figures/FigR1-FigR5` (threshold audit, F distribution, p-value distribution + QQ, five-estimator forest, leave-one-out).
+- `06`: renders `data/figures/FigR1.1-FigR3.1` (threshold audit, F distribution, five-estimator forest).
 
 ### Stage C: literature gene sets and functional annotation
 
@@ -168,9 +168,9 @@ python scripts/11_validation_audit.py            # leakage audit + null-model AU
 Each panel folder contains its `code_figure *.py` (or HTML) plus the required data files. Run from within the corresponding directory:
 
 ```bash
-# Figure 1 (1A-1F and S1)
+# Figure 1 (1A-1F)
 cd "article_figures/figure 1"
-python "code_figure 1A.py"   # likewise 1B / 1C / 1D / 1E / 1F / S1
+python "code_figure 1B.py"   # likewise 1C / 1D / 1E / 1F
 
 # Figure 2
 cd "article_figures/figure 2"
@@ -189,7 +189,7 @@ Data source for each figure:
 
 | Figure | Content | Data files |
 |--------|---------|------------|
-| 1A / S1 | Bidirectional MR significance heatmap (Forward / Reverse / Bidirectional / None) | `fig 1A.csv` / `fig S1.csv` |
+| 1A  | Bidirectional MR significance  | `fig 1A.csv` / `fig S1.csv` |
 | 1B / 1C | Forest plots (effect size beta with 95% CI) | `fig 1B.csv` / `fig 1C.csv` |
 | 1D-1F | UpSet intersection plots (pattern co-occurrence gene sets) | `fig 1D-1F.xlsx` |
 | 2A / 2D-2F | STRING PPI networks (web-export) | `figure 2*.svg` |
