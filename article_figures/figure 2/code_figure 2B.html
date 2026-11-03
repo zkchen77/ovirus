@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Enrichment Bubble Plot</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      padding: 12px;
+    }
+    .container {
+      display: flex;
+      gap: 16px;
+      height: calc(250vh - 24px);
+    }
+    .controls-panel {
+      width: 320px;
+      background: white;
+      padding: 12px;
+      border-radius: 8px;
+      overflow-y: auto;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .plot-area {
+      flex: 1;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      overflow: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .control-section {
+      margin-bottom: 18px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #eee;
+    }
+    .control-section h3 {
+      font-size: 13px;
+      color: #2c3e50;
+      margin-bottom: 10px;
+      font-weight: 600;
+    }
+    .control-group {
+      margin-bottom: 8px;
+    }
+    label {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      margin-bottom: 4px;
+      color: #34495e;
+    }
+    input, select, button, textarea {
+      width: 100%;
+      padding: 4px 6px;
+      font-size: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    input[type="color"] {
+      height: 28px;
+      padding: 2px;
+    }
+    .buttons-row {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .buttons-row button {
+      flex: 1;
+      min-width: 80px;
+    }
+    #plot-container {
+      min-width: 700px;
+      min-height: 500px;
+    }
+    .legend-item text {
+      dominant-baseline: middle;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Controls -->
+  <div class="controls-panel">
+    <div class="control-section">
+      <h3>📁 Data & Title</h3>
+      <div class="control-group">
+        <label>Upload CSV (EnrichSet, ID, Description, p.adjust, geneID, Count)</label>
+        <input type="file" id="csvFile" accept=".csv" />
+      </div>
+      <div class="control-group">
+        <label>Title Text</label>
+        <input type="text" id="titleText" value="Enrichment Bubble Plot" />
+      </div>
+      <div class="control-group">
+        <label>Title Font</label>
+        <select id="titleFont">
+          <option>Arial</option><option>Helvetica</option><option>Times New Roman</option>
+          <option>Courier New</option><option>Georgia</option><option>Verdana</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Title Size (px)</label>
+        <input type="number" id="titleSize" min="10" max="60" value="24" />
+      </div>
+      <div class="control-group">
+        <label>Title Weight</label>
+        <select id="titleWeight">
+          <option>normal</option><option>bold</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Title Color</label>
+        <input type="color" id="titleColor" value="#000000" />
+      </div>
+      <div class="control-group">
+        <label>Title Align</label>
+        <select id="titleAlign">
+          <option value="middle">Center</option>
+          <option value="start">Left</option>
+          <option value="end">Right</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="control-section">
+      <h3>🎨 Color Scale</h3>
+      <div class="control-group"><label>Min Color</label><input type="color" id="colorMin" value="#cce5ff" /></div>
+      <div class="control-group"><label>Max Color</label><input type="color" id="colorMax" value="#003366" /></div>
+    </div>
+
+    <div class="control-section">
+      <h3>📏 Bubble Size</h3>
+      <div class="control-group"><label>Min Radius</label><input type="number" id="minRadius" min="1" max="20" value="4" /></div>
+      <div class="control-group"><label>Max Radius</label><input type="number" id="maxRadius" min="5" max="50" value="10" /></div>
+    </div>
+
+    <div class="control-section">
+      <h3>🔤 Axis Labels</h3>
+      <div class="control-group"><label>X Label</label><input type="text" id="xLabel" value="Enrichment Set" /></div>
+      <div class="control-group"><label>Y Label</label><input type="text" id="yLabel" value="Enrichment Term" /></div>
+      <div class="control-group"><label>Font</label><select id="axisFont"><option>Arial</option><option>Helvetica</option></select></div>
+      <div class="control-group"><label>X Label Size</label><input type="number" id="xAxisLabelSize" min="8" max="32" value="24" /></div>
+      <div class="control-group"><label>Y Label Size</label><input type="number" id="yAxisLabelSize" min="8" max="32" value="24" /></div>
+      <div class="control-group"><label>X Tick Size</label><input type="number" id="xTickSize" min="6" max="24" value="16" /></div>
+      <div class="control-group"><label>Y Tick Size</label><input type="number" id="yTickSize" min="6" max="24" value="16" /></div>
+      <div class="control-group"><label>Y Label Position</label>
+        <select id="yLabelPos">
+          <option value="left">Left</option>
+          <option value="right" selected>Right</option>
+        </select>
+      </div>
+      <div class="control-group"><label>X Tick Rotate (deg)</label><input type="number" id="xTickRotate" min="-90" max="90" value="0" /></div>
+      <div class="control-group"><label>X Label Distance</label><input type="number" id="xLabelDistance" min="0" max="500" value="66" /></div>
+      <div class="control-group"><label>Y Label Distance</label><input type="number" id="yLabelDistance" min="0" max="500" value="500" /></div>
+    </div>
+
+    <div class="control-section">
+      <h3>🧩 Group Regions</h3>
+      <div class="control-group"><label>GO Background</label><input type="color" id="bgGo" value="#f0f8ff" /></div>
+      <div class="control-group"><label>KEGG Background</label><input type="color" id="bgKegg" value="#fff8f0" /></div>
+      <div class="control-group"><label>Reactome Background</label><input type="color" id="bgReactome" value="#f8fff0" /></div>
+      <div class="control-group"><label>Background Opacity</label><input type="range" id="bgOpacity" min="0" max="1" step="0.05" value="0.8" /></div>
+    </div>
+
+    <div class="control-section">
+      <h3>📥 Export</h3>
+      <div class="control-group"><label>Plot Width (px)</label><input type="number" id="plotWidth" min="500" max="3000" value="1200" /></div>
+      <div class="control-group"><label>Plot Height (px)</label><input type="number" id="plotHeight" min="400" max="1600" value="1600" /></div>
+      <div class="control-group"><label>DPI</label><input type="number" id="dpi" min="72" max="600" value="300" /></div>
+      <div class="buttons-row">
+        <button id="saveSvg">SVG</button>
+        <button id="savePng">PNG</button>
+        <button id="savePdf">PDF</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Plot -->
+  <div class="plot-area">
+    <div id="plot-container"></div>
+  </div>
+</div>
+
+<script>
+let PLOT_WIDTH = 1200, PLOT_HEIGHT = 1600;
+// 增加左侧边距以容纳完整的Y轴标签，不再需要自动换行
+const margin = { top: 50, right: 800, bottom: 80, left: 50 }; 
+
+let data = [];
+let svg = null;
+
+const $ = id => document.getElementById(id);
+const els = {};
+[
+  'csvFile', 'titleText', 'titleFont', 'titleSize', 'titleWeight', 'titleColor', 'titleAlign',
+  'colorMin', 'colorMax', 'minRadius', 'maxRadius',
+  'xLabel', 'yLabel', 'axisFont', 'xAxisLabelSize', 'yAxisLabelSize', 'xTickSize', 'yTickSize', 'xTickRotate', 'yLabelPos',
+  'xLabelDistance', 'yLabelDistance',
+  'bgGo', 'bgKegg', 'bgReactome', 'bgOpacity',
+  'plotWidth', 'plotHeight', 'saveSvg', 'savePng', 'savePdf', 'dpi'
+].forEach(id => els[id] = $(id));
+
+// 初始化 xTickRotate 为 0
+els.xTickRotate.value = 0;
+
+// Watch plot size changes
+els.plotWidth.addEventListener('input', () => {
+  PLOT_WIDTH = parseInt(els.plotWidth.value);
+  if (data.length) drawPlot();
+});
+els.plotHeight.addEventListener('input', () => {
+  PLOT_HEIGHT = parseInt(els.plotHeight.value);
+  if (data.length) drawPlot();
+});
+
+// Events
+els.csvFile.addEventListener('change', handleFile);
+Object.values(els).forEach(el => {
+  if (el.tagName === 'INPUT' || el.tagName === 'SELECT') {
+    if (!['plotWidth', 'plotHeight'].includes(el.id)) {
+      el.addEventListener('input', () => { if (data.length) drawPlot(); });
+    }
+  }
+});
+
+els.saveSvg.addEventListener('click', saveSVG);
+els.savePng.addEventListener('click', () => savePNG(parseInt(els.dpi.value)));
+els.savePdf.addEventListener('click', () => savePDF(parseInt(els.dpi.value)));
+
+// --- Data Loading ---
+function handleFile(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(event) {
+    const csv = event.target.result;
+    parseCSV(csv);
+  };
+  reader.readAsText(file);
+}
+
+function parseCSV(text) {
+  const lines = text.trim().split(/\r?\n/);
+  if (lines.length < 2) return alert("Empty file");
+  const sep = lines[0].includes('\t') ? '\t' : ',';
+  const headers = lines[0].split(sep).map(h => h.trim());
+
+  let IDIdx = headers.findIndex(h => /^id$/i.test(h));
+  let EnrichSetIdx = headers.findIndex(h => /enrichset/i.test(h));
+  let DescriptionIdx = headers.findIndex(h => /description/i.test(h));
+  let padjIdx = headers.findIndex(h => /p\.?adjust/i.test(h));
+  let CountIdx = headers.findIndex(h => /count/i.test(h));
+
+  if ([EnrichSetIdx, DescriptionIdx, padjIdx, CountIdx].some(i => i === -1)) {
+    return alert("Need columns: EnrichSet, Description, p.adjust, Count");
+  }
+
+  data = [];
+  for (let i = 1; i < lines.length; i++) {
+    const row = lines[i].split(sep).map(v => v.trim());
+    if (row.length <= Math.max(EnrichSetIdx, DescriptionIdx, padjIdx, CountIdx, IDIdx >= 0 ? IDIdx : -1)) continue;
+
+    const enrichSet = row[EnrichSetIdx];
+    const description = row[DescriptionIdx];
+    const padj = parseFloat(row[padjIdx]);
+    const count = parseInt(row[CountIdx]);
+    const id = IDIdx >= 0 ? row[IDIdx] : '';
+
+    if (isNaN(padj) || isNaN(count) || padj <= 0 || padj > 1) continue;
+
+    let dbSource = "Other";
+    if (/^GO:/i.test(id)) dbSource = "GO";
+    else if (/^R-HSA-/i.test(id)) dbSource = "Reactome";
+    else if (/^hsa/i.test(id)) dbSource = "KEGG";
+
+    data.push({ enrichSet, description, padj, count, negLogP: -Math.log10(padj), dbSource, id });
+  }
+  if (data.length === 0) return alert("No valid data");
+  drawPlot();
+}
+
+// --- Main Plot ---
+function drawPlot() {
+  d3.select("#plot-container").selectAll("*").remove();
+
+  // 分类数据 by dbSource
+  const goData = data.filter(d => d.dbSource === "GO");
+  const keggData = data.filter(d => d.dbSource === "KEGG");
+  const reactomeData = data.filter(d => d.dbSource === "Reactome");
+  const otherData = data.filter(d => d.dbSource === "Other");
+
+  // 合并顺序
+  const sortedData = [...goData, ...keggData, ...reactomeData, ...otherData];
+
+  const uniqueSets = [...new Set(sortedData.map(d => d.enrichSet))];
+  const uniqueTerms = [...new Set(sortedData.map(d => d.description))];
+
+  const xScale = d3.scaleBand()
+    .domain(uniqueSets)
+    .range([0, PLOT_WIDTH - margin.left - margin.right])
+    .padding(0.1);
+
+  const yScale = d3.scaleBand()
+    .domain(uniqueTerms)
+    .range([0, PLOT_HEIGHT - margin.top - margin.bottom])
+    .padding(0.1);
+
+  const radiusScale = d3.scaleSqrt()
+    .domain(d3.extent(data, d => d.count))
+    .range([parseFloat(els.minRadius.value), parseFloat(els.maxRadius.value)]);
+
+  const colorScale = d3.scaleSequential()
+    .domain(d3.extent(data, d => d.negLogP))
+    .interpolator(d3.interpolateRgbBasis([els.colorMin.value, els.colorMax.value]));
+
+  svg = d3.select("#plot-container")
+    .append("svg")
+    .attr("width", PLOT_WIDTH)
+    .attr("height", PLOT_HEIGHT);
+
+  const g = svg.append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+  // 背景区域高度计算（按 term 顺序）
+  let currentY = 0;
+  const opacity = parseFloat(els.bgOpacity.value);
+
+  const addBgRect = (dataList, color) => {
+    if (dataList.length === 0) return 0;
+    const firstTerm = dataList[0].description;
+    const lastTerm = dataList[dataList.length - 1].description;
+    const y1 = yScale(firstTerm);
+    const y2 = yScale(lastTerm) + yScale.bandwidth();
+    const height = y2 - y1;
+    g.append("rect")
+      .attr("x", 0)
+      .attr("y", y1)
+      .attr("width", PLOT_WIDTH - margin.left - margin.right)
+      .attr("height", height)
+      .attr("fill", color)
+      .attr("opacity", opacity);
+    return height;
+  };
+
+  addBgRect(goData, els.bgGo.value);
+  addBgRect(keggData, els.bgKegg.value);
+  addBgRect(reactomeData, els.bgReactome.value);
+  // otherData 不加背景
+
+  // Draw bubbles
+  g.selectAll(".bubble")
+    .data(sortedData)
+    .enter()
+    .append("circle")
+    .attr("cx", d => xScale(d.enrichSet) + xScale.bandwidth() / 2)
+    .attr("cy", d => yScale(d.description) + yScale.bandwidth() / 2)
+    .attr("r", d => radiusScale(d.count))
+    .attr("fill", d => colorScale(d.negLogP))
+    .attr("opacity", 0.8);
+
+  // 分割线（EnrichSet 之间）
+  const setPositions = uniqueSets.map(set => xScale(set) + xScale.bandwidth() / 2);
+  for (let i = 1; i < setPositions.length; i++) {
+    g.append("line")
+      .attr("x1", setPositions[i - 1] + xScale.bandwidth() / 2)
+      .attr("y1", 0)
+      .attr("x2", setPositions[i - 1] + xScale.bandwidth() / 2)
+      .attr("y2", PLOT_HEIGHT - margin.top - margin.bottom)
+      .attr("stroke", "#ccc")
+      .attr("stroke-dasharray", "4,4");
+  }
+
+  // Axes
+  const xAxis = d3.axisBottom(xScale);
+  const yAxis = d3.axisLeft(yScale);
+
+  g.append("g")
+    .attr("class", "axis-x")
+    .attr("transform", `translate(0,${PLOT_HEIGHT - margin.top - margin.bottom})`)
+    .call(xAxis)
+    .selectAll("text")
+      .style("font-family", els.axisFont.value)
+      .style("font-size", `${els.xTickSize.value}px`)
+      .attr("transform", `rotate(${els.xTickRotate.value})`)
+      .style("text-anchor", "middle"); // Always center
+
+  const yLabelPos = els.yLabelPos.value;
+  const yAxisGroup = g.append("g").attr("class", "axis-y");
+  if (yLabelPos === "right") {
+    yAxisGroup.attr("transform", `translate(${PLOT_WIDTH - margin.left - margin.right}, 0)`)
+               .call(d3.axisRight(yScale));
+  } else {
+    yAxisGroup.call(yAxis);
+  }
+
+  // Y-axis labels WITHOUT wrapping (full terms)
+  yAxisGroup.selectAll("text")
+    .style("font-family", els.axisFont.value)
+    .style("font-size", `${els.yTickSize.value}px`);
+
+  // Axis labels with adjustable distance
+  const xLabelDistance = parseInt(els.xLabelDistance.value);
+  const yLabelDistance = parseInt(els.yLabelDistance.value);
+  
+  svg.append("text")
+    .attr("transform", `translate(${PLOT_WIDTH / 2}, ${PLOT_HEIGHT - margin.bottom + xLabelDistance})`)
+    .style("text-anchor", "middle")
+    .style("font-family", els.axisFont.value)
+    .style("font-size", `${els.xAxisLabelSize.value}px`)
+    .text(els.xLabel.value);
+
+
+  const yLabelX = yLabelPos === "right" ?
+    PLOT_WIDTH - margin.right + yLabelDistance :
+    margin.left - yLabelDistance;
+  const yLabelAnchor = yLabelPos === "right" ? "start" : "end";
+  const yLabelRotate = yLabelPos === "right" ? -90 : 90;
+
+  svg.append("text")
+    .attr("transform", `rotate(${yLabelRotate} ${yLabelX} ${PLOT_HEIGHT / 2})`)
+    .attr("x", yLabelX)
+    .attr("y", PLOT_HEIGHT / 2)
+    .style("text-anchor", yLabelAnchor)
+    .style("font-family", els.axisFont.value)
+    .style("font-size", `${els.yAxisLabelSize.value}px`)
+    .text(els.yLabel.value);
+
+  // Title
+  const titleX = els.titleAlign.value === 'start' ? margin.left :
+                 els.titleAlign.value === 'end' ? PLOT_WIDTH - margin.right :
+                 PLOT_WIDTH / 2;
+  svg.append("text")
+    .attr("x", titleX)
+    .attr("y", 30)
+    .attr("text-anchor", els.titleAlign.value)
+    .style("font-family", els.titleFont.value)
+    .style("font-size", `${els.titleSize.value}px`)
+    .style("font-weight", els.titleWeight.value)
+    .style("fill", els.titleColor.value)
+    .text(els.titleText.value);
+}
+
+// --- Export functions ---
+function saveSVG() {
+  const s = new XMLSerializer().serializeToString(document.querySelector("#plot-container svg"));
+  const url = URL.createObjectURL(new Blob([`<?xml version="1.0"?>${s}`], { type: "image/svg+xml" }));
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "enrichment_bubble.svg";
+  a.click();
+}
+
+function savePNG(dpi = 300) {
+  const container = document.getElementById("plot-container");
+  const svg = container.querySelector("svg");
+  if (!svg) return;
+
+  const width = parseFloat(svg.getAttribute("width"));
+  const height = parseFloat(svg.getAttribute("height"));
+  const scale = dpi / 96;
+
+  // 临时修改容器样式以匹配 SVG 尺寸
+  const originalStyle = container.style.cssText;
+  container.style.width = width + "px";
+  container.style.height = height + "px";
+  container.style.overflow = "visible";
+
+  html2canvas(container, {
+    scale: scale,
+    backgroundColor: "#fff",
+    useCORS: true,
+    allowTaint: true
+  }).then(canvas => {
+    // 恢复原始样式
+    container.style.cssText = originalStyle;
+
+    const a = document.createElement("a");
+    a.href = canvas.toDataURL("image/png");
+    a.download = "enrichment_bubble.png";
+    a.click();
+  }).catch(err => {
+    console.error("PNG export failed:", err);
+    container.style.cssText = originalStyle; // 确保恢复
+  });
+}
+
+
+function savePDF(dpi = 300) {
+  const { jsPDF } = window.jspdf;
+  const scale = dpi / 96;
+  html2canvas(document.getElementById("plot-container"), { scale, backgroundColor: "#fff" })
+    .then(canvas => {
+      const pdf = new jsPDF({
+        orientation: canvas.width > canvas.height ? 'l' : 'p',
+        unit: 'px',
+        format: [canvas.width, canvas.height]
+      });
+      pdf.addImage(canvas.toDataURL("image/png"), "PNG", 0, 0, canvas.width, canvas.height);
+      pdf.save("enrichment_bubble.pdf");
+    });
+}
+</script>
+</body>
+</html>
